@@ -1,0 +1,3 @@
+[build]
+  command = "pip install markdown-it-py && python3 site/build.py --strict && python3 site/check_site.py"
+  publish = "site/public"
