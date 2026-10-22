@@ -1,0 +1,102 @@
+{
+ "B01-money": [
+  "T05",
+  "T07",
+  "T12",
+  "T13",
+  "T14"
+ ],
+ "B02-crises-debt": [
+  "T06",
+  "T08",
+  "T10",
+  "T50",
+  "T73"
+ ],
+ "B03-productivity-competition": [
+  "T04",
+  "T17",
+  "T39",
+  "T44",
+  "T65"
+ ],
+ "B04-working-hours": [
+  "T23",
+  "T32",
+  "T38",
+  "T47",
+  "T48"
+ ],
+ "B05-regulation-enforcement": [
+  "T20",
+  "T25",
+  "T27",
+  "T30",
+  "T31"
+ ],
+ "B06-precarious-work": [
+  "T26",
+  "T28",
+  "T29",
+  "T60",
+  "T66"
+ ],
+ "B07-automation": [
+  "T33",
+  "T35",
+  "T37",
+  "T43",
+  "T46"
+ ],
+ "B08-labor-market-wages": [
+  "T19",
+  "T34",
+  "T61",
+  "T62",
+  "T64"
+ ],
+ "B09-inequality-concentration": [
+  "T41",
+  "T42",
+  "T57",
+  "T63",
+  "T68"
+ ],
+ "B10-health-housing": [
+  "T21",
+  "T22",
+  "T67",
+  "T69"
+ ],
+ "B11-agriculture-global": [
+  "T15",
+  "T24",
+  "T51",
+  "T55",
+  "T70"
+ ],
+ "B12-origins-colonies": [
+  "T18",
+  "T71",
+  "T72",
+  "T77",
+  "T78"
+ ],
+ "B13-transition": [
+  "T74",
+  "T75",
+  "T76"
+ ],
+ "B14-family-education-services": [
+  "T45",
+  "T49",
+  "T52",
+  "T53"
+ ],
+ "B15-pilot-conformance": [
+  "T11",
+  "T40",
+  "T56",
+  "T59"
+ ]
+}

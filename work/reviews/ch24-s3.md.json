@@ -1,0 +1,28 @@
+{
+ "file": "ch24-s3.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch24-p052",
+   "kind": "drift",
+   "severity": "low",
+   "category": "tone",
+   "original": "enforces on the labourer abstinence from all life's enjoyments",
+   "rewrite": "forces the worker to abstain from all of life’s enjoyments",
+   "problem": "In the section on the abstinence theory Marx turns Senior's word \"abstinence\" back on the capitalist; replacing the noun with \"to abstain\" blunts that ironic echo (glossary: always keep the word \"abstinence\").",
+   "fix": "and forces on the worker abstinence from all of life’s enjoyments."
+  },
+  {
+   "id": "ch24-p072",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "ambiguity resolved",
+   "original": "enjoin the release of the capitalist from this martyrdom and temptation, in the same way that the Georgian slave-owner was lately delivered, by the abolition of slavery, from the painful dilemma",
+   "rewrite": "require that the capitalist be released from this martyrdom and temptation. In the same way, the Georgian slave-owner was lately delivered, by the abolition of slavery, from his painful dilemma",
+   "problem": "Splitting the sentence turns \"released ... in the same way that the slave-owner was delivered by abolition\" into a loose parallel, losing the ironic point that the capitalist should be released the same way, by abolition.",
+   "fix": "So the simple dictates of humanity plainly require that the capitalist be released from this martyrdom and temptation, in the same way that the Georgian slave-owner was lately delivered, by the abolition of slavery, from his painful dilemma: whether to squander ..."
+  }
+ ],
+ "notes_review": "The logged calls are sound: declining a §7 explanation for Malthus's \"division of labour\", the July revolution identification, the literal retranslation in n. 31 and the added translation in n. 32 are correct. On p072 the replacement of the slur with \"slaves\" (left for the user's decision) does not break attribution: \"delivered\", \"his painful dilemma\", \"squander ... on champagne\" and \"more slaves and more land\" still read as the slave-owner's viewpoint mocked by Marx, once the \"in the same way that\" link is restored.",
+ "summary": "Fidelity is high: Luther, Aikin, Malthus, Senior and the Ricardian spokesman keep their attributions, quotation marks and Marx's irony (\"abstinence\", \"modern penitent of Vishnu\", \"knight of the woeful countenance\"), with one sentence split in p072 that weakened the closing irony. Readability is good, and the worked example 6(b) text is used for p062-p068."
+}

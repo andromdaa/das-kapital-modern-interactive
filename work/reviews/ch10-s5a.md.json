@@ -1,0 +1,10 @@
+{"file": "ch10-s5a.md", "verdict": "minor fixes",
+ "findings": [
+   {"id": "ch10-p115", "kind": "fidelity", "severity": "medium", "category": "strength changed",
+    "original": "In the year 1861 the population alone of the town centres of this industry in Great Britain numbered 101,302.",
+    "rewrite": "In the year 1861 the population of the town centers of this industry in Great Britain alone numbered 101,302.",
+    "problem": "Moving \"alone\" shifts its scope from \"just the town centers\" (as against the wider trade Wedgwood counted) to \"Great Britain alone\" (as against other countries), which is not Marx's restriction.",
+    "fix": "In the year 1861 the population of just the town centers of this industry in Great Britain numbered 101,302."}
+ ],
+ "notes_review": "The logged calls are sound: leaving the relative-surplus-population explanation out is right because p117 is the manufacturers' scare-quoted term and p121 gives Marx's own definition, and the literal Latin glosses in [^72] and p115 follow §2.3 while keeping the source's sense.",
+ "summary": "Fidelity is very high: the Cairnes, Ferrand and Redgrave quotations are verbatim, irony and the Après moi le déluge passage survive intact, and only one misplaced \"alone\" in p115 changes a qualification. Readability is good, with long periodic sentences split cleanly and no padding."}

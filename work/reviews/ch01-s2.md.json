@@ -1,0 +1,28 @@
+{
+ "file": "ch01-s2.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch01-p030",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "added content",
+   "original": "Wages is a category that, as yet, has no existence at the present stage of our investigation.",
+   "rewrite": "Wages (the price paid for labor-power, which appears, wrongly, as the price of labor itself) is a category that does not yet exist at the present stage of our investigation.",
+   "problem": "Marx says here that wages are not yet part of the analysis, but the inserted gloss brings in the sale of labor-power and the 'price of labor' illusion that he develops much later. The s1 rewriter left out the matching labor-power sentence for the same reason, so this is also inconsistent.",
+   "fix": "Wages is a category that does not yet exist at the present stage of our investigation."
+  },
+  {
+   "id": "ch01-p030",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "ambiguity resolved",
+   "original": "the wages or value that the labourer gets for a given labour time",
+   "rewrite": "the wages, or value, that the worker gets for a given labor-time",
+   "problem": "The added commas turn 'or value' into an appositive, so wages are explicitly equated with value. Marx's unpunctuated 'wages or value' leaves that open.",
+   "fix": "the wages or value that the worker gets for a given labor-time"
+  }
+ ],
+ "notes_review": "The logged calls are sound: no division-of-labor gloss, because the sense is the social division of labor; no useful/concrete labor gloss, because Marx defines both; and the Verri Italian is kept as printed. The exception is note 5, the wages gloss in n. 15, which anticipates a category Marx explicitly defers.",
+ "summary": "Fidelity is high. The two-fold-character argument, the skilled/simple labor reduction and the Smith critique in n. 16 are all intact, and the only problems are a gloss and two commas in n. 15. The prose is plain and readable, with no glossary or spelling drift."
+}

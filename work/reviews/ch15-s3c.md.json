@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s3c.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p082",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "added content",
+   "original": "In the face of this remarkable intensity of labour which had already been reached in 1844 under the Twelve Hours’ Act, there appeared to be a justification for the assertion made at that time by the English manufacturers",
+   "rewrite": "In the face of this remarkable intensity of labor, already reached in 1844 under the Twelve Hours' Act, the English manufacturers asserted at that time that any further progress in that direction was impossible, and therefore that every further reduction of the hours of labor meant less production. There appeared to be a justification for this assertion.",
+   "problem": "In the original the intensity is the ground on which the assertion appeared justified; the rewrite attaches it to the manufacturers' act of asserting and leaves 'appeared to be a justification' without its ground.",
+   "fix": "At that time the English manufacturers asserted that any further progress in that direction was impossible, and therefore that every further reduction of the hours of labor meant less production. In the face of this remarkable intensity of labor, already reached in 1844 under the Twelve Hours' Act, there appeared to be a justification for this assertion."
+  }
+ ],
+ "notes_review": "The logged calls are sound: declining the money-sense §7 gloss for 'measure of value' avoids contradicting n75, keeping p072's 'or condensation of labor' unsplit preserves the ambiguity, and the garbled n96 table is copied character for character.",
+ "summary": "Fidelity is high: all statistics, quotations, and citations are exact, and the long p072 and p096 arguments keep every step; one logical link in p082 was moved. The prose is plain and well paced."
+}

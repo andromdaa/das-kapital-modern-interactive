@@ -1,0 +1,1507 @@
+2 155 135 17 <a href="full.html#6">Part 1: Commodities and Money ............................................................................................... 26
+2 178 151 17 <a href="full.html#7">Chapter 1: Commodities .........................................................................................................
+2 221 168 17 <a href="full.html#7">and the Magnitude of Value) ................................................................................................. 27
+2 244 168 17 <a href="full.html#10">Section 2: The Two-fold Character of the Labour Embodied in Commodities..................... 30</a> ‖ <a href="full.html#10"> <
+2 268 168 17 <a href="full.html#13">Section 3: The Form of Value or Exchange-Value ............................................................... 33</a> ‖ <a href
+2 291 168 17 <a href="full.html#27">Section 4: The Fetishism of Commodities and the Secret Thereof ....................................... 47</a> ‖ <a href="full.h
+2 314 151 17 <a href="full.html#40">Chapter 2: Exchange ...........................................................................................................
+2 336 151 17 <a href="full.html#47">Chapter 3: Money, Or the Circulation of Commodities ............................................................ 67</a> ‖ <a hr
+2 359 168 17 <a href="full.html#47">Section 1: The Measure of Values ......................................................................................... 67</
+2 383 168 17 <a href="full.html#51">Section 2: The Medium of Circulation .................................................................................. 71</a> 
+2 406 168 17 <a href="full.html#64">Section 3: Money ..............................................................................................................
+2 430 135 17 <a href="full.html#83">Part 2: Transformation of Money into Capital....................................................................... 103</a> ‖ <
+2 453 151 17 <a href="full.html#84">Chapter 4: The General Formula for Capital ........................................................................... 104</a> 
+2 474 151 17 <a href="full.html#91">Chapter 5: Contradictions in the General Formula of Capital ................................................. 111</a> ‖ <a href
+2 495 151 17 <a href="full.html#99">Chapter 6: The Buying and Selling of Labour-Power ............................................................. 119</a> ‖ <a hr
+2 519 135 17 <a href="full.html#106">Part 3: The Production of Absolute Surplus-Value ............................................................... 126</a> ‖ <a 
+2 542 151 17 <a href="full.html#107">Chapter 7: The Labour-Process and the Process of Producing Surplus-Value ........................ 127</a> ‖ <a href="full.html
+2 566 168 17 <a href="full.html#107">Section 1: The Labour-Process or the Production of Use-Values ....................................... 127</a> ‖ <a href="full.
+2 590 168 17 <a href="full.html#111">Section 2: The Production of Surplus-Value ....................................................................... 131</a> ‖ <
+2 613 151 17 <a href="full.html#122">Chapter 8: Constant Capital and Variable Capital ................................................................... 142</a> ‖
+2 634 151 17 <a href="full.html#130">Chapter 9: The Rate of Surplus-Value .................................................................................... 150<
+2 658 168 17 <a href="full.html#130">Section 1: The Degree of Exploitation of Labour-Power .................................................... 150</a> ‖ <a href="
+2 700 168 17 <a href="full.html#134">Corresponding Proportional Parts of the Product Itself ....................................................... 154</a> ‖ <a hr
+2 720 168 17 <a href="full.html#136">Section 3: Senior’s “Last Hour” .......................................................................................... 156
+2 747 168 17 <a href="full.html#139">Section 4: Surplus-Produce ................................................................................................. 1
+2 771 151 17 <a href="full.html#142">Chapter 10: The Working Day ................................................................................................ 1
+2 794 168 17 <a href="full.html#142">Section 1: The Limits of the Working Day ......................................................................... 162</a> ‖ <
+2 818 168 17 <a href="full.html#144">Section 2: The Greed for Surplus-Labour. Manufacturer and Boyard ................................ 164</a> ‖ <a href="full.html
+2 841 168 17 <a href="full.html#148">Section 3: Branches of English Industry Without Legal Limits to Exploitation ................. 168</a> ‖ <a href="full.html#14
+2 865 168 17 <a href="full.html#155">Section 4: Day and Night Work. The Relay System ........................................................... 175</a> ‖ <a href=
+3 151 168 17 <a href="full.html#158">the Working Day from the Middle  of the 14th to the End of the 17th Century ................. 178</a> ‖ <a href="full.html#158
+3 193 168 17 <a href="full.html#164">Working-Time.  English Factory Acts, 1833 ...................................................................... 184</a> ‖ <a 
+3 235 168 17 <a href="full.html#174">on Other Countries ...........................................................................................................
+3 259 151 17 <a href="full.html#193">Chapter 11: Rate and Mass of Surplus-Value ......................................................................... 213</a> ‖
+3 283 135 17 <a href="full.html#199">Part 4: Production of Relative Surplus-Value ........................................................................ 219</a> 
+3 306 151 17 <a href="full.html#200">Chapter 12: The Concept of Relative Surplus-Value .............................................................. 220</a> ‖ <a 
+3 327 151 17 <a href="full.html#207">Chapter 13: Co-operation .....................................................................................................
+3 348 151 17 <a href="full.html#217">Chapter 14: Division of Labour and Manufacture ................................................................... 237</a> ‖ <
+3 372 168 17 <a href="full.html#217">Section 1: Two-Fold Origin of Manufacture ....................................................................... 237</a> ‖ <a
+3 395 168 17 <a href="full.html#218">Section 2: The Detail Labourer and his Implements ........................................................... 238</a> ‖ <a hre
+3 438 168 17 <a href="full.html#220">Serial Manufacture ...........................................................................................................
+3 461 168 17 <a href="full.html#224">Section 4: Division of Labour in Manufacture, and Division of Labour in Society ............ 244</a> ‖ <a href="full.html#224"
+3 485 168 17 <a href="full.html#228">Section 5: The Capitalistic Character of Manufacture ........................................................ 248</a> ‖ <a hre
+3 508 151 17 <a href="full.html#240">Chapter 15: Machinery and Modern Industry ......................................................................... 260</a> ‖ 
+3 532 168 17 <a href="full.html#240">Section 1 : The Development of Machinery ........................................................................ 260</a> ‖ <a
+3 555 168 17 <a href="full.html#247">Section 2:  The Value Transferred by Machinery to the Product ........................................ 267</a> ‖ <a href="full
+3 579 168 17 <a href="full.html#250">Section 3:  The Proximate Effects of Machinery on the Workman ..................................... 270</a> ‖ <a href="full.ht
+3 602 168 17 <a href="full.html#263">Section 4: The Factory........................................................................................................
+3 626 168 17 <a href="full.html#266">Section 5: The Strife Between Workman and Machine ...................................................... 286</a> ‖ <a href="fu
+3 668 168 17 <a href="full.html#272">Machinery ....................................................................................................................
+3 711 168 17 <a href="full.html#277">Cotton Trade .................................................................................................................
+3 753 168 17 <a href="full.html#283">Modern Industry ..............................................................................................................
+3 795 168 17 <a href="full.html#294">Extension in England .........................................................................................................
+3 819 168 17 <a href="full.html#308">Section 10: Modern Industry and Agriculture ..................................................................... 328</a> ‖ <a
+3 843 135 17 <a href="full.html#336">Part 5: Production of Absolute and Relative Surplus-Value ................................................. 356</a> ‖ <a href=
+3 866 151 17 <a href="full.html#337">Chapter 16: Absolute and Relative Surplus-Value .................................................................. 357</a> ‖ <
+3 887 151 17 <a href="full.html#345">Chapter 17: Changes of Magnitude in the Price of Labour-Power and in Surplus-Value ....... 365</a> ‖ <a href="full.html#345"> 
+3 930 168 17 <a href="full.html#345">Labour Variable ..............................................................................................................
+3 972 168 17 <a href="full.html#348">Variable .....................................................................................................................
+3 1014 168 17 <a href="full.html#348">Variable .....................................................................................................................
+4 151 168 17 <a href="full.html#350"> .............................................................................................................................
+4 174 151 17 <a href="full.html#353">Chapter 18: Various Formula for the Rate of Surplus-Value .................................................. 373</a> ‖ <a href
+4 198 135 17 <a href="full.html#356">Part 6: Wages ................................................................................................................
+4 240 151 17 <a href="full.html#357">Wages ........................................................................................................................
+4 261 151 17 <a href="full.html#362">Chapter 20: Time-Wages .......................................................................................................
+4 282 151 17 <a href="full.html#368">Chapter 21: Piece Wages ......................................................................................................
+4 304 151 17 <a href="full.html#374">Chapter 22: National Differences of Wages ............................................................................ 394</a>
+4 327 135 17 <a href="full.html#378">Part 7: The Accumulation of Capital ....................................................................................... 39
+4 351 151 17 <a href="full.html#379">Chapter 23: Simple Reproduction ........................................................................................... 39
+4 372 151 17 <a href="full.html#388">Chapter 24: Conversion of Surplus-Value into Capital ........................................................... 408</a> ‖ <a 
+4 433 168 17 <a href="full.html#388">Appropriation ................................................................................................................
+4 476 168 17 <a href="full.html#393">Increasing Scale .............................................................................................................
+4 518 168 17 <a href="full.html#395"> .............................................................................................................................
+4 599 168 17 <a href="full.html#399">Employed and Capital Consumed. Magnitude of Capital Advanced .................................. 419</a> ‖ <a href="full.html#3
+4 622 168 17 <a href="full.html#404">Section 5: The So-Called Labour Fund ............................................................................... 424</a> ‖
+4 645 151 17 <a href="full.html#412">Chapter 25: The General Law of Capitalist Accumulation ..................................................... 432</a> ‖ <a href
+4 688 168 17 <a href="full.html#412">Composition of Capital Remaining the same ...................................................................... 432</a> ‖ <a 
+4 731 168 17 <a href="full.html#416">Progress of Accumulation and of the Concentration that Accompanies it .......................... 436</a> ‖ <a href="full.html#
+4 773 168 17 <a href="full.html#420">Army .........................................................................................................................
+4 815 168 17 <a href="full.html#427">Capitalistic Accumulation ................................................................................................... 
+4 839 168 17 <a href="full.html#431">Section 5: Illustrations of the General Law of Capitalist Accumulation ............................. 451</a> ‖ <a href="full.h
+4 863 135 17 <a href="full.html#483">Part 8: Primitive Accumulation ...............................................................................................
+4 886 151 17 <a href="full.html#484">Chapter 26: The Secret of Primitive Accumulation ................................................................ 504</a> ‖ <a
+4 907 151 17 <a href="full.html#487">Chapter 27: Expropriation of the Agricultural Population From the Land .............................. 507</a> ‖ <a href="full.
+4 947 151 17 <a href="full.html#499">Forcing Down of Wages by Acts of Parliament ...................................................................... 519</a> ‖ <
+4 968 151 17 <a href="full.html#505">Chapter 29: Genesis of the Capitalist Farmer .......................................................................... 525</a
+4 1009 151 17 <a href="full.html#507">for Industrial Capital .......................................................................................................
+4 1030 151 17 <a href="full.html#510">Chapter 31: The Genesis of the Industrial Capitalist ............................................................... 530</a> ‖
+5 131 151 17 <a href="full.html#518">Chapter 32: Historical Tendency of Capitalist Accumulation ................................................. 538</a> ‖ <a href
+5 153 151 17 <a href="full.html#520">Chapter 33: The Modern Theory of Colonisation</a> ‖ <a href="full.html#520"> .................................................
+7 293 135 17 as  “an  immense  accumulation  of  commodities,” ‖ its  unit  being  a  single  commodity.  Our
+7 377 135 17 from the stomach or from fancy, makes no difference. ‖ Neither are we here concerned to know
+7 476 135 17 To  discover  the  various  uses  of  things  is  the  work  of  history. ‖ So  also  is  the  establishment  of
+7 556 135 17 The utility of a thing makes it a use value. ‖ But this utility is not a thing of air. Being limited by
+7 689 135 17 of  commodities. ‖ Use  values  become  a  reality  only  by  use  or  consumption:  they  also  constitute
+7 770 135 17 values in use of one sort are exchanged for those of another sort, ‖ a relation constantly changing
+7 827 135 17 with, inherent in commodities, seems a contradiction in terms. ‖ Let us consider the matter a little
+7 869 135 17 A given commodity, ‖ e.g. ‖ , a quarter of wheat is exchanged for x blacking, y silk, or z gold, &c. –
+8 136 135 17 Let  us  take  two  commodities, ‖ e.g. ‖ ,  corn  and  iron.  The  proportions  in  which  they  are
+8 174 135 17 which a given quantity of corn is equated to some quantity of iron: ‖ e.g. ‖ , 1 quarter corn = x cwt.
+9 563 135 17 labour  socially  necessary,  or  the  labour  time  socially  necessary  for  its  production. ‖ Each
+10 155 135 17 vice  versâ ‖ ,  the  less  the  productiveness  of  labour,  the  greater  is  the  labour  time  required  for  the
+10 387 135 17 of an exchange.) ‖ Lastly nothing can have value, without being an object of utility. If the thing is
+11 586 135 17 work  only  as  Nature  does,  that  is  by  changing  the  form  of  matter. ‖ Nay  more,  in  this  work  of
+12 174 135 17 great  part,  but  mere  man,  on  the  other  hand,  a  very  shabby  part, ‖ so  here  with  mere  human
+12 326 135 17 product of simple unskilled labour, represents a definite quantity of the latter labour alone. ‖ The
+13 440 135 17 time necessary for their production; and ‖ vice versâ ‖ .
+13 958 135 17 attempted  by ‖ bourgeois ‖ economy,  the  task  of  tracing  the  genesis  of  this  money  form,  of
+15 468 135 17 oxygen (O), and that, too, in like proportions – namely, C ‖ H ‖ O ‖ . If now we equate butyric acid to
+15 506 135 17 existence of C ‖ H ‖ O ‖ ; and in the second place, we should be stating that butyric acid also consists
+15 525 135 17 of  C ‖ H ‖ O ‖ .  Therefore,  by  thus  equating  the  two  substances,  expression  would  be  given  to  their
+16 678 135 17 commodity A’s own mode of expressing its value. ‖ Paris vaut bien une messe ‖ . [Paris is certainly
+16 761 135 17 mirror to the value of commodity A. ‖ By putting itself in relation with commodity B, as value ‖ in
+16 780 135 17 propriâ personâ ‖ , as the matter of which human labour is made up, the commodity A converts the
+17 221 162 17 I. Let the value of the linen vary, ‖ that of the coat remaining constant. If, say in consequence
+18 628 135 17 The bodily form of the commodity becomes its value form. But, mark well, that this ‖ quid pro quo
+19 373 135 17 exists,  in  which  the  coat  stands  in the  position  of  equivalent  to  the  linen. ‖ Since,  however,  the
+21 406 135 17 revivers,  Ferrier,  Ganilh, ‖ and  others,  as  also  of  their  antipodes,  the  modern  bagmen  of  Free-
+21 871 135 17 commodity, and that the gradual transformation of such products into commodities, proceeds ‖ pari
+21 890 135 17 passu ‖ with the development of the value form.
+22 273 135 17 value. ‖ The number of such possible expressions is limited only by the number of the different
+22 508 135 17 linen’s  value. ‖ It  is  thus,  that  for  the  first  time,  this  value  shows  itself  in  its  true  light  as  a
+23 712 136 17 10 ‖ lbs of tea
+23 733 136 17 40 ‖ lbs of coffee
+23 755 136 17 1 ‖ quarter of corn ‖ = 20 yards of linen
+23 776 136 17 2 ‖ ounces of gold
+23 797 136 17 ½ ‖ a ton of iron
+23 818 136 17 x ‖ Commodity A, etc.
+25 235 135 17 commodities the character possessed by all labour of being ‖ human ‖ labour constitutes its specific
+26 492 136 17 1  coat ‖ =
+26 513 136 17 10  lbs of tea ‖ =
+26 534 136 17 40  lbs of coffee ‖ =
+26 576 136 17 ½  a ton of iron ‖ =
+27 654 135 17 though  not  of  equal  interest  in  different  stages  of  development. ‖ And  lastly,  from  the  moment
+27 1004 135 17 quâ ‖ commodities,  and  the  value  relation  between  the  products  of  labour  which  stamps  them  as
+28 1023 135 17 aware  of  this,  nevertheless  we  do  it. ‖ Value,  therefore,  does  not  stalk  about  with  a  label
+29 710 135 17 a  house  falls  about  our  ears. ‖ The  determination  of  the  magnitude  of  value  by  labour  time  is
+29 847 135 17 begins, ‖ post festum ‖ , with the results of the process of development ready to hand before him. The
+30 331 135 17 Since  Robinson  Crusoe’s  experiences  are  a  favourite  theme  with  political  economists, ‖ let  us
+30 1008 135 17 civilised races. ‖ We have one close at hand in the patriarchal industries of a peasant family, that
+31 809 135 17 Christianity  with  its ‖ cultus ‖ of  abstract  man,  more  especially  in  its  bourgeois  developments,
+32 354 135 17 Political Economy has indeed analysed, however incompletely, ‖ value and its magnitude, and has
+32 392 135 17 represented by the value of its product and labour time by the  magnitude of that value. ‖ These
+32 957 186 17 “Value” – ( ‖ i.e. ‖ , exchange value) “is a property of things, riches” – ( ‖ i.e. ‖ , use value)
+33 705 135 16 In  bourgeois  societies  the  economic ‖ fictio  juris ‖ prevails,  that  every  one,  as  a  buyer,  possesses  an
+33 841 135 16 worth in any thing, / But so much money as ’twill bring?” (from ‖ Hudibras ‖ ).
+36 155 135 16 In Homer, for instance, the value of an article is expressed in a series of different things. ‖ Iliad ‖ . VII.
+40 266 135 17 can  use force; in  other  words,  he  can  take  possession  of  them. ‖ In  order  that  these  objects  may
+40 654 135 17 and, consequently, a  means of exchange. ‖ Therefore, he makes up his mind to part with it for
+41 228 135 17 Tat.”  [“In  the  beginning  was  the  deed.”  –  Goethe, ‖ Faust ‖ .]  They  therefore  acted  and  transacted
+41 493 135 17 name.” Revelations, 13:17.] ( ‖ Apocalypse ‖ .)
+41 714 135 17 barter  is  x  use-value  A  =  y  use-value  B. ‖ The  articles  A  and  B  in  this  case  are  not  as  yet
+42 848 135 17 Nature gold and silver,” ‖ is shown by the fitness of the physical properties of these metals for the
+42 871 135 17 functions  of  money. ‖ Up  to  this  point,  however,  we  are  acquainted  only  with  one  function  of
+43 278 135 17 value  relations  between  all  the  rest.  That  money  is  a  commodity ‖ is  therefore  a  new  discovery
+43 354 135 17 gold and silver is imaginary. ‖ The fact that money can, in certain functions, be replaced by mere
+43 449 135 17 only the material envelope of the human labour spent upon it. ‖ But if it be declared that the social
+43 719 135 17 other commodity that costs the same amount of labour-time. ‖ Such quantitative determination of
+47 333 135 17 equal, and quantitatively comparable. It thus serves as a ‖ universal measure of value ‖ . And only by
+47 352 135 17 virtue of this function does gold, the equivalent commodity ‖ par excellence ‖ , become money.
+47 433 135 17 the  common  measure  of  their  values, ‖ i.e ‖ .,  into  money.  Money  as  a  measure  of  value,  is  the
+47 494 135 17 The expression of the value of a commodity in gold – ‖ x ‖ commodity A = ‖ y ‖ money-commodity – is
+47 840 135 17 prices  can  be  communicated  to  the  outside  world. ‖ Since  the  expression  of  the  value  of
+47 954 135 17 has given rise to the wildest theories. ‖ But, although the money that performs the functions of a
+48 297 135 17 Commodities with definite prices present themselves under the form: ‖ a ‖ commodity A = x gold; ‖ b
+48 316 135 17 commodity B = z gold; ‖ c ‖ commodity C = y gold, ‖ &c ‖ ., where ‖ a ‖ , ‖ b ‖ , ‖ c ‖ , represent definite quantities
+48 506 135 17 other,  may  be  combined  to  make  up  hundredweights. ‖ It  is  owing  to  this  that,  in  all  metallic
+48 567 135 17 As ‖ measure  of  Value ‖ ,  and  as ‖ standard  of  price ‖ ,  money  has  two  entirely  distinct  functions  to
+48 994 135 17 measure  of  value.  The  change  affects  all  commodities  simultaneously,  and,  therefore, ‖ caeteris
+48 1013 135 17 paribus ‖ , leaves their relative values ‖ inter se ‖ , unaltered, although those values are now expressed
+49 643 135 17 contradiction  with  poetical  chronology. ‖ The  word  pound,  for  instance,  was  the  money-name
+49 719 135 17 same word as a weight-name. ‖ (3) The debasing of money carried on for centuries by kings and
+49 894 135 17 aliquot  parts  with  legal  names,  such  as  shilling,  penny,  &c. ‖ But,  both  before  and  after  these
+50 136 135 17 worth, and money serves as ‖ money of account ‖ whenever it is a question of fixing the value of an
+50 273 135 17 of  the  metal  that  is  the  standard  of  money. ‖ On  the  other  hand,  it  is  absolutely  necessary  that
+50 354 135 17 equivalence of a commodity with the sum of money constituting its price, is a tautology ‖ ,  just as
+50 544 135 17 they are, in the first place, the form under which its value appears, ‖ i.e ‖ ., money; and in the second
+50 894 135 17 between magnitude of value and price, ‖ i.e ‖ ., between the former and its expression in money, but it
+51 179 135 17 Price, like relative value in general, expresses the value of a commodity ‖ (e.g ‖ ., a ton of iron), by
+51 198 135 17 stating that a given quantity of the equivalent ‖ (e.g ‖ ., an ounce of gold), is directly exchangeable for
+51 311 135 17 Jerome the putting off of the old Adam. ‖ Though a commodity may, side by side with its actual
+51 718 135 17 sweep away these inconsistencies, but develops a ‖ modus vivendi ‖ , a form in which they can exist
+52 639 135 17 money,  and  the  re-conversion  of  the  money  into  a  commodity. ‖ The  two  phases  of  this
+52 961 135 18 C ‖ – M. ‖ First metamorphosis, or sale
+54 449 135 17 commodity strips off its original commodity-form on being alienated, ‖ i.e ‖ ., on the instant its use-
+54 757 135 17 that  moment  it  always  represents  the  realised  price  of  some  commodity. ‖ Apart  from  its
+54 814 135 17 sale or of the first metamorphosis C–M. ‖ Gold, as we saw, became ideal money, or a measure of
+55 289 135 18 M ‖ –C, ‖ or purchase.
+56 468 135 17 total of all the different circuits constitutes ‖ the circulation of commodities ‖ .
+56 776 135 17 everlasting life that the distiller is enabled to sell his ‖ eau-de-vie ‖ , and so on.
+56 932 135 17 sticks to the hands of some third person. ‖ Circulation sweats money from every pore.
+57 250 135 17 exchange, if it does take place, constitutes a period of rest, an interval, long or short, in the life ‖ of
+57 307 135 17 money, ‖ i.e ‖ ., a commodity ready to go into circulation at any time. No one can sell unless some
+57 677 329 21 B. The currency ‖ of money
+58 364 135 17 circulation  into  consumption. ‖ In  its  stead  we  have  its  value-shape  –  the  money.  It  then  goes
+58 805 135 17 commodity and money, by their ‖ reciprocal displacement ‖ . The same pieces of coin come into the
+58 820 135 17 seller’s hand ‖ as the alienated form of the commodity ‖ and leave it as ‖ the absolutely alienable form
+58 843 135 17 of the commodity ‖ . They are displaced twice. The first metamorphosis of the linen puts these coins
+59 677 135 17 was before. In each case the value of the material of money, ‖ i.e ‖ ., the value of the commodity that
+62 472 135 17 commodities  circulating,  and  the  average  velocity  of  currency ‖ may  also  be  stated  as  follows:
+62 567 135 17 country; ‖ this  opinion  was  based  by  those  who  first  held  it,  on  the  absurd  hypothesis  that
+62 837 135 17 time  pass  from  one  form  to  the  other. ‖ But  no  sooner  does  coin  leave  the  mint,  than  it
+64 714 135 17 only as a symbol of itself, and is therefore capable of being replaced by a token. ‖ One thing is,
+65 203 135 17 the function that money performs of a ‖ perpetuum mobile ‖ of circulation. But so soon as the series
+65 321 135 17 product is the transformed shape of the commodity, or its gold-chrysalis. ‖ Commodities are thus
+65 591 135 17 sterling of silver, which originally came from America to Europe. ‖ In the 10 years from 1856 to
+65 672 135 17 to  make  sure  of  the  nexus  rerum  or  the  social  pledge. ‖ His  wants  are  constantly  making
+65 785 135 17 (by  the  owners  of  commodities)  without  purchases  (by  the  owners  of  gold  or  silver). ‖ And
+65 1032 135 17 alchemy. ‖ Just as every qualitative difference between commodities is extinguished in money,
+66 136 135 17 so  money,  on  its  side,  like  the  radical  leveller  that  it  is,  does  away  with  all  distinctions. ‖ But
+66 193 135 17 therefore denounced money as subversive of the economic and moral order of things. ‖ Modern
+66 231 135 17 earth, ‖ greets gold as its Holy Grail, as the glittering incarnation of the very principle of its own
+66 482 135 17 aspect,  or  formally  considered,  money  has  no  bounds  to  its  efficacy, ‖ i.e ‖ .,  it  is  the  universal
+67 672 135 17 crystallisation. ‖ The same characters can, however, be assumed independently of the circulation
+68 662 135 17 the ‖ virements ‖ at Lyons. The debts due to A from B, to B from C, to C from A, and so on, have
+68 875 135 17 commercial  crises  which  are  known  as  monetary  crises. ‖ Such  a  crisis  occurs  only  where  the
+69 136 135 17 water,  so  pants  his  soul  after  money,  the  only  wealth. ‖ In  a  crisis,  the  antithesis  between
+69 605 135 17 commodity  that  is  the  universal  subject-matter  of  all  contracts. ‖ Rents,  taxes,  and  such  like
+69 719 135 17 weight of the taxes, but also to the conversion of taxes in kind into money taxes. ‖ In Asia, on the
+70 586 135 17 mercantilists,  balance  of  trade. ‖ Gold  and  silver  serve  as  international  means  of  purchasing
+70 780 135 17 part  out  of  its  function  of  money  of  the  world. ‖ For  this  latter  function,  the  genuine  money-
+70 917 135 17 into hoards. ‖ This first current is started by the countries that exchange their labour, realised in
+71 136 135 17 performance  of  their  peculiar  functions. ‖ Whenever  these  hoards  are  strikingly  above  their
+73 307 135 17 “ ‖  ‖ ’ ‖  ‖ ’ ‖ 
+73 325 135 17  ‖ .” [“As Heraclitus says, all things are exchanged
+73 411 135 16 Note by the Institute of Marxism-Leninism in the Russian edition ‖ . — In his letter of November 28,
+74 250 135 16 Translator’s  note ‖ .  —  This  word  is  here  used  in  its  original  signification  of  the  course  or  track
+74 866 135 16 consequence, ‖ e.g ‖ ., of bungling  legislative  interference with  the regulation of currency,  may not give
+76 372 135 16 (“Some Considerations,” ‖ &c ‖ ., 1691, Works Ed. 1777, Vol. II., p. 15.)
+76 789 135 16 to  lay  before  the  Son  of  Heaven  a  proposal  that  secretly  aimed  at  converting  the ‖ assignats ‖ of  the
+78 884 135 16 of view, however, does not fall within the horizon of simple circulation.” (“Zur Kritik, ‖ &c ‖ .,” pp. 119,
+79 242 135 16 and not the money.” John Bellers, ‖ Proposals for Raising a College of Industry ‖ , London, 1696, p3.
+79 337 135 16 (“The  Theory  of  Exchanges.  The  Bank  Charter  Act  of  1844.”  Lond.  1864,  p.  81).  The ‖ Observer ‖ ,  a
+79 716 146 16 Receipts.Payments ‖ . ‖ Bankers’ and Merchants’£533,596Bills payable after date£302,674Cheques on
+79 791 239 16 £1,000,000“Report from the Select Committee on the Bank Acts, July, 1858,” p. lxxi. ‖ .
+80 341 135 16 Note  by  the  Institute  of  Marxism-Leninism  in  the  Russian  edition: ‖ Apparently  a  slip  of  the  pen.
+80 359 135 16 When writing ‖ inverse ‖ the author evidently meant ‖ direct ‖ .
+80 680 135 16 Added in the 4th German edition. — ‖ [We find ourselves once more in a period of serious change in the
+81 318 135 16 F E. ‖ ]
+81 784 135 16 [ ‖ Added in the 4th German edition. — ‖ We have a still more striking example in the facility with which
+81 821 135 16 times as great, a considerable part of it likewise in specie. ‖ — F. E. ‖ ]
+84 372 135 17 money; it appears as moneyed wealth, as the capital of the merchant and of the usurer. ‖ But we
+84 765 135 17 commodity. ‖ The result, in which the phases of the process vanish, is the exchange of money for
+86 349 135 17 same for the same, and appears to be an operation just as purposeless as it is absurd. ‖ One sum of
+86 1023 135 17 again. ‖ Therefore, the final result of every separate circuit, in which a purchase and consequent
+87 349 135 17 therefore never be looked upon as the real aim of the capitalist; ‖ neither must the profit on any
+87 387 135 17 This boundless greed after riches, this passionate chase after exchange-value ‖ , is common to the
+87 444 135 17 by  seeking  to  save ‖ his  money  from  circulation,  is  attained  by  the  more  acute  capitalist,  by
+87 563 135 17 mode, and the commodity its particular, or, so to say, disguised mode. ‖ It is constantly changing
+87 639 135 17 Capital is money: Capital is commodities. ‖ In truth, however, value is here the active factor in a
+88 212 135 17 father differentiates himself from himself ‖ quâ ‖ the son, yet both are one and of one age: for only
+88 330 135 17 out  of  it  with  expanded  bulk,  and  begins  the  same  round  ever  afresh. ‖ M—M',  money  which
+88 642 135 16 the  two  French  proverbs,  “Nulle  terre  sans  seigneur,”  and  “L’argent  n’a  pas  de  maître,” ‖ [“No  land
+89 227 135 16 jeu.” ‖ [“Trade is a game, and nothing can be won from beggars. If one won everything from everybody
+89 260 135 16 begin the game again”] ‖ (Pinto: “Traité de la Circulation et du Crédit.” Amsterdam, 1771. p. 231,)
+89 860 135 16 capitalist,  money  is  his  terminating  object.”  (Th.  Chalmers,  On  Pol.  Econ.  &c. ‖ , ‖ 2nd  Ed.,  Glasgow,
+90 415 135 16 [productive  portion  of  accumulated  wealth  ...  permanent,  multiplying  value.] ‖ (Sismondi:  “Nouveaux
+91 1024 135 17 is a transaction by which both sides gain.” ‖ It is otherwise with exchange-value. “A man who has
+92 209 135 17 operation.” ‖ The result is not altered by introducing money, as a medium of circulation, between
+92 231 135 17 the  commodities,  and  making  the  sale  and  the  purchase  two  distinct  acts. ‖ The  value  of  a
+92 650 135 17 can be no gain.” ‖ It  is  true,  commodities  may  be  sold  at  prices  deviating  from  their  values,  but
+92 672 135 17 these deviations are to be considered as infractions of the laws of the exchange of commodities ‖ ,
+92 752 135 17 surplus-value,  there  lurks  a ‖ quid  pro  quo ‖ ,  a  mixing  up  of  use-value  and  exchange-value.  For
+92 847 135 17 What is more to the one is less to the other, and ‖ vice versâ ‖ . ... It is not to be assumed that we offer
+92 1018 135 17 only  the  excess  over  his  own  requirements ‖ Still,  Condillac’s  argument  is  frequently  used  by
+93 193 135 17 the  hands  of  producers,  and  it  may  strictly  be  considered  an  act  of  production.” ‖ But
+93 681 135 17 again as a buyer. ‖ The net result is, that all owners of commodities sell their goods to one another
+93 837 135 17 gained 10% as buyer. ‖ Everything is just as it was.
+93 976 135 17 than their production costs.” ‖ In  relation  to  circulation,  producers  and  consumers  meet  only  as
+94 387 135 17 to  it. ‖ The  towns  of  Asia  Minor  thus  paid  a  yearly  money  tribute  to  ancient  Rome.  With  this
+94 818 135 17 surplus-value results, and if non-equivalents are exchanged, still no surplus-value. ‖ Circulation,
+94 1017 135 17 equivalents are exchanged; ‖ that, therefore, it can only have its origin in the two-fold advantage
+95 152 135 17 generally cheating.” ‖ If  the  transformation  of  merchants’  money  into  capital is  to  be  explained
+95 681 135 17 itself. ‖ But  can  surplus-value possibly  originate  anywhere else than  in  circulation,  which is the
+96 335 135 17 conditions of the problem. ‖ Hic Rhodus, hic salta!
+98 556 135 16 Originates from the traditional Latin translation of the  punch line from Aesop’s fable ‖ The  Boastful
+98 578 135 16 Athlete ‖ which has been the subject of some mistranslations. In Greek, the maxim reads:
+98 696 135 16 deeds, not by their own claims for themselves. In the context in which Hegel used it in the ‖ Philosophy
+98 714 135 16 of Right ‖ , this could be taken to mean that the philosophy of right must have to do with the ‖ actuality ‖ of
+98 773 135 16 The epigram is given by Hegel first in Greek, then in Latin (in the form “ ‖ Hic ‖ Rhodus, ‖ hic ‖ saltus”), and
+98 791 135 16 he then says: “With little change, the above saying would read (in German): “ ‖ Hier ‖ ist die Rose, ‖ hier
+98 886 135 16 punning  first  on  the  Greek  ( ‖ Rhodos ‖ =  Rhodes, ‖ rhodon ‖ =  rose),  then  on  the  Latin  ( ‖ saltus ‖ =  jump
+98 904 135 16 [noun], ‖ salta ‖ = dance [imperative]). [MIA Editors.]
+99 297 135 17 petrified, never varying. ‖ Just as little can it originate in the second act of circulation, the re-sale
+99 686 135 17 owner  of  his  capacity  for  labour,  i.e.,  of  his  person. ‖ He  and  the  owner  of  money  meet  in  the
+100 932 135 17 a value. ‖ How is that value determined?
+101 269 135 17 expenditure demands a larger income. ‖ If the owner of labour-power works to-day, to-morrow he
+101 440 135 17 formed. ‖ In  contradistinction  therefore  to  the  case  of  other  commodities,  there  enters  into  the
+101 574 135 17 procreation.” ‖ The labour-power withdrawn from the market by wear and tear and death, must be
+102 483 135 17 labourer  and  wages.” ‖ When  we  speak  of  capacity  for  labour,  we  do  not  speak  of  labour,  any
+102 795 135 17 means of payment. ‖ In every country in which the capitalist mode of production reigns, it is the
+102 909 135 17 but also by a series of more enduring consequences. ‖ Nevertheless, whether money serves as a
+103 953 135 16 of ‖ peonage ‖ . By  means of advances, repayable in labour, which are handed down from generation to
+103 971 135 16 generation,  not  only  the  individual  labourer,  but  his  family,  become, ‖ de  facto ‖ ,  the  property  of  other
+103 989 135 16 persons  and  their  families.  Juarez  abolished ‖ peonage ‖ .  The  so-called  Emperor  Maximilian  re-
+107 871 135 17 The elementary factors of the labour-process are 1, the personal activity of man, ‖ i.e ‖ ., work itself,
+108 255 135 17 other substances subservient to his aims. ‖ Leaving out of consideration such ready-made means of
+108 406 135 17 labour. ‖ No sooner does labour undergo the least development, than it requires specially prepared
+108 444 135 17 period  of  human  history  domesticated  animals, ‖ i.e ‖ .,  animals  which  have  been  bred  for  the
+108 482 135 17 of labour along with specially prepared stones, wood, bones, and shells. ‖ The use and fabrication
+108 596 135 17 instruments, that enables us to distinguish different economic epochs. ‖ Instruments of labour not
+109 155 135 17 both the instruments and the subject of labour, are means of production, ‖ and that the labour itself
+111 639 135 17 commodity purchased, ‖ i. e., ‖ of labour-power; but this consumption cannot be effected except by
+112 515 135 17 spindle, ‖ i. e., ‖ if the same working-time is required to produce the commodities on either side of
+112 984 135 17 The  values  of  the  means  of  production, ‖ i.  e., ‖ the  cotton  and  the  spindle,  which  values  are
+113 833 135 17 in  the  cotton.  We  say  labour, ‖ i.e ‖ .,  the  expenditure  of  his  vital  force  by  the  spinner,  and  not
+113 932 135 17 social  conditions.  If  under  normal, ‖ i.e ‖ .,  average  social  conditions  of  production, ‖ a ‖ pounds  of
+113 951 135 17 cotton ought to be made into ‖ b ‖ pounds of yarn by one hour’s labour, then a day’s labour does not
+113 967 135 17 count as 12 hours’ labour unless 12 ‖ a ‖ pounds of cotton have been made into 12 ‖ b ‖ pounds of yarn;
+114 468 135 17 our spinner by working for one hour, can convert 1 2/3 lbs. of cotton into 1 2/3 lbs. of yarn, ‖ it
+114 837 135 17 simple  addition  of  existing  values,  no  surplus-value  can  possibly  arise. ‖ These  separate  values
+114 1017 135 17 and he might just as easily have intended to make money, without producing at all. ‖ He threatens
+115 322 135 17 with the reflection that virtue is its own reward. But no, he becomes importunate. He says: ‖ “ ‖ The
+115 341 135 17 yarn is of no use to me: I produced it for sale. ‖ ” ‖ In that case let him sell it, or, still better, let him
+115 535 135 17 Moreover, there is here no question of service. ‖ A service is nothing more than the useful effect
+115 554 135 17 of a use-value, be it of a commodity, or be it of labour. ‖ But here we are dealing with exchange-
+115 645 135 17 superintendence and of overlooking the spinner? And does not this labour, too, create value?” ‖ His
+115 1032 135 17 What really influenced him was the specific use-value which this commodity possesses of being ‖ a
+116 136 135 17 source not only of value, but of more value than it has itself. ‖ This is the special service that the
+116 904 135 17 Candide ‖ ]
+118 311 135 17 average social labour, ‖ e.g. ‖ , one day of skilled to six days of unskilled labour, is unavoidable. ‖ We
+119 431 135 16 is ‖ Work; ‖ in  the  process  of  creation  of  Value,  it  is ‖ Labour, ‖ taking  the  term  in  its  strictly  economic
+119 449 135 16 sense. — ‖ F. E.
+122 690 135 17 and  anvil  become  constituent  elements  of  the  product,  of  a  new  use-value. ‖ Each  use-value
+126 212 135 17 inasmuch as it preserves the existing value of his capital. ‖ So long as trade is good, the capitalist
+126 311 135 17 value, ‖ and it would therefore be inaccurate to say that it is reproduced. It is rather preserved; not
+126 1027 135 17 of value. I therefore call it the constant part of capital, or, more shortly, ‖ constant capital.
+127 212 135 17 variable magnitude. I therefore call it the variable part of capital, or, shortly, ‖ variable capital. ‖ The
+127 672 135 17 they are, as it were, only individuals of the species, ‖ and their value at any given time is measured
+128 938 135 16 which he demands, ‖ e.g. ‖ , interest.” (l.c.) How very “skilful” is this “anatomico-physiological method”
+129 196 135 16 In ‖ The  Times ‖ of  26th  November,  1862,  a  manufacturer,  whose  mill  employed  800  hands,  and
+130 800 135 17 and thus make it appear on both sides of our calculation. ‖ We should, in this way, get £1,500 on
+131 155 135 17 transfer to the product. This component of the value of the product, ‖ i.e ‖ ., the £410 in our example,
+132 752 135 17 value of his labour-power already advanced ‖ by the capitalist; the new value created only replaces
+132 806 135 17 during  which  this  reproduction  takes  place,  I  call  “ ‖ necessary ‖ ”  labour  time,  and  the  labour
+132 828 135 17 expended during that time I call “ ‖ necessary ‖ ” labour. ‖ Necessary, as regards the labourer, because
+133 761 135 17 remainder,  to  find the  variable capital.  And ‖ vice versâ, ‖ if the  latter  be  given,  and  we  require to
+134 396 136 17 Seed ‖ £1 9s. 0d. ‖ Tithes, Rates, ‖ £1 1s. 0d.
+134 437 136 17 Manure ‖ £2 10s. 0d. ‖ Rent ‖ £1 8s. 0d.
+134 455 136 17 Wages ‖ Farmer’s Profit ‖ £1 2s. 0d.
+134 499 136 17 TOTAL ‖ £7 9s. 0d. ‖ TOTAL ‖ £3 11s 0d.
+136 601 135 17 our spinner, for example, produces or replaces in the first 8 hours of his working day the ‖ value ‖ of
+136 619 135 17 the  cotton;  in  the  following  hour  and  36  minutes  the ‖ value ‖ of  the  instruments  of  labour  worn
+136 639 135 17 away;  in  the  next  hour  and  12  minutes  the ‖ value ‖ of  the  wages;  and  that  he  devotes  to  the
+137 217 186 17 profit is derived ‖ from the last hour ‖ . I will suppose a manufacturer to invest
+137 463 186 17 were reduced by one hour per day (prices remaining the same), the ‖ net ‖ profit
+137 482 186 17 would be destroyed – if they were reduced by one hour and a half, even the ‖ gross
+138 937 135 17 Senior invented the battle cry of the “last hour” in 1836. ‖ In the London ‖ Economist ‖ of the 15th
+139 324 135 17 The sum of the necessary labour and the surplus labour, ‖ i.e. ‖ , of the periods of time during which
+139 604 135 16 Note  added  in  the  3rd  German  edition. ‖ —  The  author  resorts  here  to  the  economic  language  in
+139 640 135 16 the labourer “advances” to the capitalist and not the capitalist to the labourer. — ‖ F. E.
+142 335 135 17 and is, therefore, ‖ caeteris paribus ‖ [other things being equal], a given quantity. But with this, the
+142 421 147 17 Working day I. ‖ Working day II. ‖ Working day III.
+142 443 162 17 A–––B–C. ‖ A–––B––C. ‖ A–––B–––C.
+142 600 135 17 surplus-value alone would not give us the extent of the working day. If this rate, ‖ e.g ‖ .,  were 100
+142 737 135 17 therefore, determinable, but is, ‖ per se ‖ , indeterminate.
+142 799 135 17 extension line B–-C or the surplus labour = 0, we have a minimum limit, ‖ i.e ‖ ., the part of the day
+143 259 135 17 ultima  Thule ‖ [the  outermost  limit],  the  necessary  limit  of  the  working  day.  As  capitalist,  he  is
+143 827 135 17 consume it in 10 years, you pay me daily 1/10950 instead of 1/3650 of its total value, ‖ i.e ‖ ., only
+144 269 135 17 struggle, a struggle between collective capital, i.e. ‖ , ‖ the class of capitalists, and collective labour,
+144 288 135 17 i.e. ‖ , ‖ the working-class.
+144 440 135 17 owners of the means of production ‖ , whether this proprietor be the Athenian χαλος γαχαθος [well-
+144 459 135 17 to-do  man], Etruscan theocrat, ‖ civis Romanus ‖ [Roman citizen], Norman baron, American slave-
+144 478 135 17 owner, Wallachian Boyard, modern landlord or capitalist. ‖ It is, however, clear that in any given
+144 592 135 17 working  to  death  is  here  the  recognised  form  of  over-work.  Only  read  Diodorus  Siculus. ‖ Still
+145 368 135 17 the other hand took origin from the corvée. ‖ This is what took place in the Roumanian provinces.
+145 425 135 17 community, another part – ‖ ager publicus – ‖ was cultivated by them in common. The products of
+145 657 135 17 peasant owes to the so-called landlord, besides a mass of detailed payments in kind: ‖ (1) ‖ , 12 days
+145 677 135 17 of general labour; ‖ (2) ‖ , one day of field labour; ‖ (3) ‖ , one day of wood carrying. In all, 14 days in the
+146 757 136 17 Before 6 a.m., ‖ 15 minutes.
+146 778 136 17 After 6 p.m., ‖ 15 "
+146 800 136 17 At breakfast time, ‖ 10 "
+146 821 136 17 At dinner time, ‖ 20 "
+146 842 217 17 Five days – 300 minutes, ‖ 60 "
+146 863 136 17 On Saturday before 6 a.m., ‖ 15 minutes.
+146 884 136 17 At breakfast time, ‖ 10 "
+146 906 136 17 After 2 p.m., ‖ 15 "
+146 948 136 17 Total weekly, ‖ 340 minutes.
+147 699 186 17 for cleaning, &c., either before 6 a.m. ‖ [sic.!] ‖ or before 2 p.m. on Saturday
+147 817 186 17 should be detected there will still be a considerable balance of gain.... ‖ In cases
+147 913 135 17 inspectors also designate as “petty pilferings of minutes,” ‖ “snatching a few minutes,” ‖ or, as the
+148 327 135 17 English  bourgeois  economist,  by  the  cruelties  of  the  Spaniards  to  the  American  red-skins ‖ ,
+150 720 186 17 time.” ‖ (Does this Mr. Smith take no meals himself during 10½ hours?) “We (this
+150 880 135 17 Still this same Mr. Smith, who is so extremely devoted to the ‖ pluralis majestatis ‖ [the Royal “we,”
+151 198 135 17 time,  i.e. ‖ , ‖ the  time  for  appropriating  the  labour  of  others,  and  thence  losing  profit  is  not  a
+151 431 135 17 “Adulterations  detected.” ‖ The  consequence  of  these  revelations  was  the  Act  of  August  6th,
+151 488 135 17 or  selling  of  adulterated  commodities  “to  turn  an  honest  penny.” ‖ The  Committee  itself
+151 567 135 17 the  Eleatics  how  to  demonstrate ‖ ad  oculos ‖ [before  your  own  eyes]  that  everything  is  only
+151 686 135 17 was  appointed  Royal  Commissioner  of  Inquiry.  His  report, ‖ together  with  the evidence  given,
+152 341 186 17 afternoon. ‖ ... During what is called ‘the London season,’ the operatives
+152 786 135 17 labour  of  the  men  was  made  the  source  whereby  the  competition  was  carried  on.” ‖ And  the
+152 947 135 17 nominal  master  baker. ‖ Thus  was laid the  foundation  of  capitalistic  production  in  this  trade,  of
+153 857 135 17 with  4  hours’  additional  work  on  Sunday  (in  this land  of  Sabbatarians!), ‖ whilst,  at  the  same
+154 506 135 17 was  divided  by  partitions  of  board. ‖ And  this  was  one  of  the  best  millinery  establishments  in
+154 710 135 17 “Our  white  slaves,”  cried  the ‖ Morning  Star ‖ ,  the  organ  of  the  Free-traders,  Cobden  and  Bright,
+155 726 135 17 Placing on one side the generally injurious influence of night-labour, ‖ the duration of the process
+156 444 186 17 other days I have been here at 6 a.m. Aye! it ‖ is ‖ hot in here. Before I came here I
+156 704 186 17 relays, but all the other parts of the work are day-work, i.e. ‖ , ‖ from 6 a.m. to 6 p.m.
+156 875 186 17 number.... But from the small proportion of boys that we employ, the subject ‖ (i.e ‖ .,
+157 450 186 17 were such a regulation.” ‖ ( ‖ i.e. ‖ , ‖ Ellis Brown & Co. might fall into the fatal
+158 235 135 17 handicraft  in  the  day. ‖ In  addition  to  this,  it  would  throw  night-labour  on  those  who  worked
+159 155 135 17 rest  time  of  Sunday  (and  that  in  a  country  of  Sabbatarians!) ‖ –  moonshine!  But  in  its  blind
+159 539 135 17 power itself. ‖ It extends the labourer’s time of production during a given period by shortening his
+160 255 135 17 Mutato nomine de te fabula narratur ‖ [It is of you that the story is told – Horace]. For slave-trade
+160 387 135 17 the whole trade employed from 15,000 to 20,000 people. ‖ In the year 1861 the population alone
+160 510 135 17 e.g ‖ . But then the manufacturers proposed to the Poor Law Commissioners that they should send
+160 899 135 17 The ‖ Bury  Guardian ‖ said,  on  the  completion  of  the  French  treaty,  that “10,000 additional  hands
+161 193 135 17 other,  plucked,  so  to  say,  before  maturity. ‖ And,  indeed,  experience  shows  to  the  intelligent
+161 421 135 17 gold and placed it in safety. ‖ Après moi le déluge! [After me, the flood] is ‖ the watchword of every
+161 459 135 17 the labourer, unless under compulsion from society. ‖ To the out-cry as to the physical and mental
+161 634 135 17 well  into  the  middle  of  the  18th. ‖ Whilst  the  modern  Factory  Acts  compulsorily  shortened  the
+161 672 135 17 capital in embryo – when, beginning to grow, it secures the right of absorbing a ‖ quantum sufficit
+161 748 135 17 thanks  to  the  development  of  capitalistic  production,  agrees,  i.e. ‖ ,  is ‖ compelled  by  social
+161 858 135 17 State to prevent the coining of children’s blood into capital. That which to-day, ‖ e.g ‖ ., in the State
+161 1018 135 17 work on reasonable terms ‖ (i.e ‖ ., at a price that left their employers a reasonable quantity of surplus
+162 133 135 17 labour)  grew  to  such  a  height  as  to  be  quite  intolerable.” ‖ Reasonable  wages  were,  therefore,
+162 250 135 17 exactly twice as much as under the factory acts now in force. ‖ In winter, work was to last from 5
+162 875 135 17 obstinacy in the most violent manner, another party defends the labourers. Let us listen, ‖ e.g., to
+163 866 186 17 appearance are the happiest of all our labouring poor, ‖ but the Dutch do this in
+163 904 186 17 holidays do not intervene. ‖ But our populace have adopted a notion, that as
+164 251 135 17 labourers as become dependent on public support, in a word, paupers, in “an ‖ ideal workhouse.”
+164 464 135 17 Republic!” ‖ At Zürich the work of children over 10, is limited to 12 hours; in Aargau in 1862,
+164 506 135 17 for children between 14 and 16, the same reduction was made. ‖ “What a progress,” since 1770!
+164 728 135 17 then  beyond  this  to  the  limit  of  the  natural  day  of  12  hours, ‖ there  followed  on  the  birth  of
+164 819 135 17 sagacity to explain “judicially” what was day and what was night. ‖ Capital celebrated its orgies.
+164 964 186 17 persons and children were worked all night, all day, or both ‖ ad libitum ‖ .”
+165 174 135 17 to employ young persons ‖ (i.e ‖ ., persons between 13 and 18 years of age), at any time of the day,
+165 288 135 17 day, night-work, ‖ i.e ‖ ., according to this Act, work between 8:30 p.m. and 5:30 a.m., was forbidden
+166 444 135 17 invented  relay  system. ‖ In  the  meantime,  however,  circumstances  had  greatly  changed.  The
+166 634 135 17 Ten  Hours’  Bill in the  Free-trade  millennium. ‖ Thus  they  still  less  dared to  oppose a  measure
+166 672 135 17 land, the Tories  thundered with  philanthropic  indignation  against  the  “nefarious practices” ‖ of
+166 852 186 17 regret at their ‖ rights ‖ being thus far interfered with.” ‖ The working-time of
+166 998 135 17 So that if A, ‖ e.g., ‖ begins work at 8 in the morning, and B at 10, B’s work-day must nevertheless
+167 293 186 17 allowed to remain in any room in which any manufacturing process is then [ ‖ i.e ‖ ., at
+168 273 135 17 place. ‖ Under such favourably prepared conditions the agitation among the factory workers for
+168 365 135 17 but not exactly by the Factory Act.” ‖ But  if  the  manufacturers  did  not  succeed  in  making  the
+169 393 186 17 course of the factory working day.” ‖ The manufacturers maintained therefore
+169 940 135 17 factories. ‖ Still, this was not enough. The Lynx eye of Capital discovered that the Act of 1844
+170 179 135 17 This Shylock-clinging ‖ to the letter of the law of 1844, so far as it regulated children’s labour,
+170 255 135 17 declaration  that  the  sections  of  the  Act  of  1844  which  prohibited  the ‖ ad  libitum ‖ use  of  young
+170 308 135 17 Hours’  Act  they  were  a  “grievous  hardship.” ‖ They  informed  the  inspectors  in  the  coolest
+170 349 135 17 system  on  their  own  account. ‖ They  were  acting  in  the  interests  of  the  ill-advised  operatives
+170 937 135 17 introduced the system at once into his own factory. ‖ Of course, the composition of this tribunal
+171 510 135 17 enormous  over-work. ‖ Now,  the  same  children  and  young  persons  were  shifted  from  the
+171 529 135 17 spinning-room to the weaving-room, now, during 15 hours, from one factory to another. ‖ How
+171 724 135 17 “what a reasonable degree of care and method can accomplish.” The ‖ personnel ‖ of the workpeople
+171 1009 135 17 hours’  lordship  over  labour-power. ‖ This  was  the  gist  of  the  matter,  this  the  masters’
+172 193 135 17 enrich the capitalists. ‖ This revolt of capital, after two years was at last crowned with victory by
+172 266 135 17 rendered  it  meaningless.  “By  this  decision,  the  Ten  Hours’  Act  was  abolished.” ‖ A  crowd  of
+172 648 135 17 and shortened to 7½ on the Saturday. The work was to go on between 6 a.m. and 6 p.m. ‖ , with
+172 704 135 17 system once for all. ‖ For children’s labour, the Act of 1844 remained in force.
+172 781 135 17 away, it would stop their works.” ‖ It would be impossible for them to buy a sufficient number of
+172 823 135 17 investigation  to  be  a  deliberate  lie. ‖ It  did  not,  however,  prevent  them,  during  10  years,  from
+172 861 135 17 for the performance of their work. ‖ The Act of 1844 certainly “robbed” them of the “liberty” of
+173 190 135 17 fabrics,  and  less  likely  in  other  respects  also  to  be  prejudicial  to  health.” ‖ Official  medical
+173 548 135 17 all workers in the branches of industry that come under it. ‖ Since the passing of the first Factory
+173 666 135 17 13 to be worked at will day and night. ‖ It is a Parliamentary abortion.
+173 781 135 17 ostentatiously  to  the  contrast  with the  branches  of exploitation  still “free.” ‖ The  Pharisees  of
+173 823 135 17 day as a characteristic new discovery of their “science.” ‖ It will be easily understood that after
+173 922 135 17 The  dye-works  and  bleach-works  all  came  under  the  Factory  Act  of  1850  in  1860; ‖ lace  and
+173 1018 135 17 the name of “finishing.” In the year 1863 bleaching in the open air ‖ and  baking  were  placed
+174 521 135 17 First ‖ . The passion of capital for an unlimited and reckless extension of the working day, is first
+174 597 135 17 social relations of the producers ‖ gave rise first to an extravagance beyond all bounds, and then
+174 654 135 17 first half of the nineteenth century simply as exceptional legislation. ‖ As soon as this primitive
+174 749 135 17 as nail-making, ‖ had long since fallen as completely under capitalist exploitation as the factories
+174 829 135 17 Second ‖ . The history of the regulation of the working day in certain branches of production, and
+174 943 135 17 modern industry, it first breaks out in the home of that industry – England. ‖ The English factory
+174 981 135 17 as their theorists were the first to throw down the gauntlet to the theory of capital. ‖ Hence, the
+175 194 135 17 world the 12 hours’ law, ‖ which is much more deficient than its English original. For all that,
+175 273 135 17 lost  in  a  hopelessly  bewildering  tangle  of  contradictory  enactments. ‖ On  the  other  hand,  the
+175 832 135 17 he is free to sell his labour-power is the time for which he is forced to sell it, ‖ that in fact the
+175 866 135 17 exploited.” ‖ For “protection” against “the serpent of their agonies,” the labourers must put their
+175 927 135 17 their  families  into  slavery  and  death. ‖ In  place  of  the  pompous  catalogue  of  the  “inalienable
+176 957 135 16 Hanssen, “Leibeigenschaft in Schleswig-Holstein.” — ‖ F. E.)
+178 562 135 16 original in some parts, ‖ e.g., ‖ on commercial crises. The historical part is, to a great extent, a shameless
+178 603 135 16 Daily Telegraph, 17th ‖ January, 1860.
+179 657 135 16 Workman’s Advocate ‖ , January 13th, 1866.) The formation since the close of 1865 of a Trades’ Union
+180 191 135 16 goods man ( ‖ i.e ‖ .,  78  hours).... He then asked for  what he  had made over and above the 78  hours per
+180 209 135 16 week, but was refused. However, he was at last told they would give him another quarter, ‖ i.e ‖ ., 10d.,”
+180 585 135 16 Morning Star ‖ , 23rd June, 1863. — ‖ The Times ‖ made use of the circumstance to defend the American
+180 676 135 16 lightly.”  In  the  same  manner,  the ‖ Standard, ‖ a  Tory  organ,  fell  foul  of  the  Rev.  Newman  Hall:  “He
+180 821 135 16 ( ‖ Macmillan’s Magazine. ‖ Ilias Americana in nuce. August, 1863.) Thus, the bubble of Tory sympathy
+182 979 135 16 encourage this “Sunday labour.” These “holy ones,” so zealous ‖ in cute curanda ‖ [in attending to their
+182 1015 135 16 privations, and the hunger of others. ‖ Obsequium ventris istis (the labourers) perniciosius est ‖ [Gluttony
+184 322 135 16 ( ‖ Times ‖ , November 5th, 1861.) “The men of the West Riding became the clothiers of mankind ... the
+185 490 135 16 Macaulay might have reported further that “extremely well-disposed” ‖ amis du commerce ‖ in the 17th
+185 526 135 16 that this example of “ ‖ vertu  mise  en  pratique ‖ ” [applied virtue] passes muster in all  the humanitarian
+185 544 135 16 works, ‖ à la ‖ Macaulay, to the time of Adam Smith. It is true that with the substitution of manufacture
+185 635 135 16 especially worthy of remark and as wonders by the far-seeing “ ‖ amis du commerce ‖ ,” and recommended
+186 576 135 16 admit that, ‖ in a moral point of view ‖ , so entire an absorption of the time of the working-classes, without
+186 802 135 16 administration,  left  to  the  good-will  of  the ‖ amis  du  commerce ‖ .  Only  since  1853,  in  one  single
+188 255 135 16 F.  Engels:  “The  English  Ten  Hours’  Bill.”  (In  the  “ ‖ Neue  Rheinische  Zeitung.  Politisch-
+188 273 135 16 oekonomische  Revue. ‖ ”  Edited  by  K.  Marx.  April  number,  1850,  p.  13.)  The  same  “high”  Court  of
+188 662 135 14 Pecentage of Adult Males ‖ 14.9 ‖ 42.6 ‖ 37.3 ‖ 41.9 ‖ 31.0 ‖ 14.9 ‖ 36.6 ‖ 30.4 ‖ —
+188 694 135 14 Death-rate from ‖ 598 ‖ 708 ‖ 547 ‖ 611 ‖ 691 ‖ 588 ‖ 721 ‖ 726 ‖ 305
+188 741 135 14 Name of District ‖ Wigan ‖ Black ‖ Halifax ‖ Brad ‖ Maccle ‖ Leek ‖ Stoke- ‖ Woolst ‖ 8 healthy
+188 757 368 14 burn ‖ ford ‖ sfield ‖ upon- ‖ anton ‖ agricultural
+188 772 622 14 Trent ‖ districts
+188 795 135 14 Death-rate from ‖ 644 ‖ 734 ‖ 564 ‖ 603 ‖ 804 ‖ 705 ‖ 665 ‖ 727 ‖ 340
+188 843 135 14 Pecentage of Adult ‖ 18.0 ‖ 34.9 ‖ 20.4 ‖ 30.0 ‖ 26.0 ‖ 17.2 ‖ 19.3 ‖ 13.9 ‖ —
+188 890 135 14 Kind of ‖ Female ‖ Cotton ‖ Do. ‖ Wors ‖ Do. ‖ Silk ‖ Do. ‖ Earthen ‖ Do. ‖ —
+188 906 135 14 Occupation ‖ ted ‖ ware
+189 191 135 16 while  we  are  confined  to  the  mills ‖ nearly  two  days  a  week  more ‖ than  the  other  operatives  of  the
+189 445 135 16 Thus, ‖ e.g ‖ ., E. Potter in a letter to the ‖ Times ‖ of March 24th, 1863. The ‖ Times ‖ reminded him of the
+189 562 135 16 10 hours, ‖ i.e ‖ ., at 10½ hours for ordinary days, and 7½ for Saturday. Now, when the fatal year, 1862,
+190 504 135 16 Note to the 2nd Ed. ‖ Since 1866, when I wrote the above passages, a reaction has again set in.
+193 289 135 17 individual labourer furnishes  to  the  capitalist in  a  definite  period  of time.  If, ‖ e.g. ‖ ,  the  necessary
+194 307 135 17 labourers. ‖ On  the  contrary,  a  fall  in  the  rate  of  surplus-value  leaves  unaltered  the  mass  of  the
+195 653 135 17 seen  later ‖ how  the  school  of  Ricardo  has  come  to  grief  over  this  stumbling  block.  Vulgar
+195 752 135 17 regarded as a single collective working day. If, ‖ e.g. ‖ , the number of labourers is a million, and the
+195 866 135 17 population, this limit is formed by the possible lengthening of the workingday. ‖ It will, however,
+196 421 135 17 the labour of others, and to the selling of the products of this labour. ‖ The guilds of the middle
+197 136 135 17 mere means and material of his own intelligent productive activity. In tanning, ‖ e.g. ‖ , he deals with
+197 512 135 17 this  “very  intelligent  gentleman”  then  wrote  a letter ‖ in  the ‖ Glasgow  Daily  Mail ‖ of  April  25th,
+198 472 135 16 formula.  Thus  the  series  of  paraffins:  C ‖ H ‖ ,  that  of  the  normal  alcohols:  C ‖ H ‖ O;  of  the  normal
+198 490 135 16 fatty acids: CnH ‖ O ‖ and many others. In the above examples, by the simply quantitative addition of
+198 508 135 16 CH ‖ to  the  molecular  formula,  a  qualitatively  different  body  is  each  time  formed.  On  the  share
+198 562 135 16 Development of Organic Chemistry.” London, 1879, p. 54. — ‖ F. E. ‖ . See Letter from Marx to Engels,
+198 603 135 16 For  Hegel’s  formulation  of  the  idea  in  the ‖ Logic ‖ ,  see  Remark:  Examples  of  Such  Nodal  Lines;  the
+200 868 135 17 labour-power  is  given; ‖ and  given  the  value  of  his  labour-power,  the  duration  of  his  necessary
+201 634 135 17 value. ‖ Hitherto  in  treating  of  surplus-value,  arising  from  a  simple  prolongation  of  the  working
+201 809 135 17 The surplus-value produced by prolongation of the working day, I call ‖ absolute surplus-value ‖ . On
+201 866 135 17 day, I call ‖ relative surplus-value ‖ .
+202 463 135 17 raising the general rate of surplus-value. ‖ The general and necessary tendencies of capital must be
+203 463 135 17 labour. ‖ Let the necessary labour-time amount to 10 hours, the value of a day’s labour-power to
+203 995 135 17 new  method. ‖ The  general  rate  of  surplus-value  is,  therefore,  ultimately  affected  by  the  whole
+204 742 135 17 production, when labour is economised by increasing its productiveness. ‖ It is only the shortening
+204 875 135 17 treatises, therefore, of economists of the stamp of MacCulloch, Ure, Senior, and ‖ tutti quanti ‖ [the
+205 402 135 16 to what is necessary to procure him his subsistence.] (Turgot, “Réflexions, &c.,” ‖ Oeuvres ‖ , éd. Daire t.
+207 787 135 17 time do as much work as any other five. ‖ But, however that may be, it is clear, that the collective
+209 354 135 17 turning a winch, or removing an obstacle. ‖ In such cases the effect of the combined labour could
+209 529 135 17 men each working 12 hours, or than one man who works twelve days in succession. ‖ The reason
+209 548 135 17 of this is that man is, if not as Aristotle contends, a political, ‖ at all events a social animal.
+209 723 135 17 separately up and down the ladder with his burden. ‖ The object is carried over the same distance
+210 288 135 17 to do the same amount of work in the same period. ‖ It is owing to the absence of this kind of co-
+211 648 135 17 amount  of  surplus-value, ‖ and  consequently  to  exploit  labour-power  to  the  greatest  possible
+211 842 135 17 over  the  proper  application  of  those  means. ‖ Moreover,  the  co-operation  of  wage  labourers  is
+212 288 135 17 of  superintendence  among  the ‖ faux  frais ‖ of  production. ‖ But,  when  considering  the  capitalist
+212 364 135 17 capitalist and labourer. ‖ It is not because he is a leader of industry that a man is a capitalist; on
+213 354 135 17 chase, ‖ or, say, in the agriculture of Indian communities, is based, on the one hand, on ownership
+213 525 135 17 carrying on of independent handicrafts whether in guilds or not. ‖ From the standpoint of these,
+213 913 135 17 manufacture, ‖ and in that kind of agriculture on a large scale, which corresponds to the epoch of
+215 857 135 16 That  Philistine  paper,  the ‖ Spectator ‖ ,  states  that  after  the  introduction  of  a  sort  of  partnership
+218 939 135 17 time, or the productive power of labour is increased. ‖ Moreover, when once this fractional work is
+220 231 135 17 detail labourer. ‖ It thus creates at the same time one of the material conditions for the existence of
+221 193 135 17 workshops, &c. ‖ Nevertheless the position of this detail labourer who, though he works at home,
+221 373 135 17 passing from one stage to another is shortened, so is the labour that effectuates this passage. ‖ In
+221 700 135 17 Hence,  production  of  a  greater  quantum  of  finished  commodities  in  a  given  time. ‖ This
+221 1008 135 17 continuity, uniformity, regularity, order, ‖ and even intensity of labour, of quite a different kind,
+222 525 135 17 only  by  employing  a  multiple  of  each  particular  group. ‖ There  is  this  to  boot,  that  the  same
+222 757 135 17 and  lime,  &c.,  and  melting  them  into  a  fluid  mass  of  glass. ‖ Various  detail  labourers  are
+223 449 135 17 production of commodities ‖ , was accepted and formulated: and the use of machines, especially
+223 525 135 17 pounding of the ores was effected by stamping mills. ‖ The Roman Empire had handed down the
+223 605 135 17 part which Adam Smith assigns to it in comparison with division of labour. ‖ The sporadic use of
+223 932 135 17 performing their special functions. ‖ The one-sidedness and the deficiencies of the detail labourer
+223 951 135 17 become  perfections  when  he  is  a  part  of  the  collective  labourer. ‖ The  habit  of  doing  only  one
+224 212 135 17 capabilities. ‖ Every  process  of  production,  however,  requires  certain  simple  manipulations,
+224 402 135 17 power  falls. ‖ An  exception  to  this  law  holds  good  whenever  the  decomposition  of  the  labour-
+224 692 135 17 main divisions or ‖ genera ‖ – viz., agriculture, industries, &c., as division of labour in general, and
+224 791 135 17 points. Within a family, ‖ and after further development within a tribe, there springs up naturally
+225 330 135 17 exchange of commodities, is the separation between town and country. ‖ It may be said, that the
+225 449 135 17 in  society. ‖ Nevertheless,  this  density  is  more  or  less  relative.  A  relatively  thinly  populated
+225 624 135 17 more  and  more  differentiated. ‖ If  the  manufacturing  system  seize  upon  an  industry,  which,
+225 909 135 17 every special advantage. ‖ The Colonial system and the opening out of the markets of the world,
+226 406 135 17 branch  of  labour,  obscure  the  connexion. ‖ But  what  is  it  that  forms  the  bond  between  the
+226 463 135 17 manufactures? The fact that the detail labourer produces no commodities. ‖ It is only the common
+226 482 135 17 product  of  all the  detail  labourers that  becomes  a  commodity. ‖ Division  of  labour  in  society  is
+226 805 135 17 equilibrium.  The ‖ a  priori ‖ system  on  which  the  division  of  labour,  within  the  workshop,  is
+226 824 135 17 regularly carried out, becomes in the division of labour within the society, an ‖ a posteriori ‖ , nature-
+226 938 135 17 by the pressure of their mutual interests; just as in the animal kingdom, the ‖ bellum omnium contra
+226 957 135 17 omnes ‖ [war  of  all  against  all  –  Hobbes]  more  or  less  preserves  the  conditions  of  existence  of
+227 904 135 17 to  the  sizes  of  the  villages,  two  or  three  of  each,  instead  of  one. ‖ The  law  that  regulates  the
+227 1018 135 17 when  accidentally  destroyed,  spring  up  again  on  the  spot  and  with  the  same  name ‖ ‒  this
+229 212 135 17 himself is made the automatic motor of a fractional operation, ‖ and the absurd fable of Menenius
+229 231 135 17 Agrippa, which makes man a mere fragment of his own body, becomes realised. ‖ If, at first, the
+229 322 135 17 develops productive activity as a mere appendage of the capitalist’s workshop. ‖ As  the  chosen
+229 482 135 17 employs  them. ‖ It  is  a  result  of  the  division  of  labour  in  manufactures,  that  the  labourer  is
+230 294 186 17 labour,” he says, “that between hand labour and head labour ‖ is more
+230 491 135 17 further, and also, by its peculiar division, attacks the individual at the very roots of his life ‖ , it is
+231 198 135 17 manufacture, views the social division of labour only from the standpoint of manufacture, ‖ and
+231 273 135 17 writers of classical antiquity, who hold exclusively by quality and use-value. ‖ In consequence of
+231 311 135 17 bents and talents of men select a suitable field, ‖ and without some restraint no important results
+231 330 135 17 can  be  obtained  anywhere. ‖ Hence  both  product  and  producer  are  improved  by  division  of
+231 406 135 17 as  well  by  Plato, ‖ who  treats  division  of  labour  as  the  foundation  on  which  the  division  of
+231 425 135 17 society  into  classes  is  based,  as  by  Xenophon ‖ ,  who  with  characteristic  bourgeois  instinct,
+231 501 135 17 country  to  many  of  his  contemporaries  also,  amongst  others  to  Isocrates, ‖ and  it  continued  to
+231 970 135 17 among the workmen ‖ . And had we not the testimony of contemporary writers, the simple facts,
+232 889 135 16 loom. ( ‖ Added in the 4th German edition ‖ . The Krefeld silk industry also has its tale to tell anent this
+235 508 135 16 Note to the third edition. ‖ Subsequent very searching study of the primitive condition of man, led the
+236 508 135 16 “making” umbrellas with all their belongings. But since an umbrella is a ‖ mixtum compositum ‖ of very
+237 734 135 16 introduction  to  his  work,  where  he ‖ ex  professo ‖ praises  division  of  labour,  he  indicates  only  in  a
+238 345 135 16 to him “various wages” (diverse ‖ Arbeitslöhne ‖ ). The more or less extensive application of division of
+238 723 135 17 Thus,  in  the  Odyssey  xiv.,  228,  [“ ‖  ‖ ς ‖  ‖  ‖  ‖  ‖ ς”  For
+238 739 135 17 different  men  take  joy  in  different  works]  and  Archilochus  in  Sextus  Empiricus,  [“ ‖  ‖ ς
+238 757 135 17  ‖ .” men differ as to things cheer their hearts]
+238 788 135 17 [“ ‖  ‖ ς ‖  ‖ .”  He  could  do  many  works,  but  all  of
+238 861 135 17 Peloponnesian war: [“ ‖  ‖  ‖  ‖  ‖   ‖  ‖ 
+238 881 135 17  ‖ ” people producing for their own consumption will rather let war have their bodies than
+238 924 135 17 self-sufficiency],  as  opposed  to  division  of  labour  remained  their  ideal,  [“ ‖  ‖ 
+238 939 135 17  ‖  ‖  ‖  ‖  ‖ ς.” For with the latter there is well-being, but with the former
+239 191 135 17 [“ ‖ 
+239 251 135 17  ‖ .”] [For the workman must wait upon the work; it will not wait
+239 405 135 17 missed and the article spoiled, “ ‖  ‖ .” [If someone lets slip ...] The same
+239 522 135 17 valuable  goods  to  the  risk  of  danger  by  incomplete  operations.” ‖ Le  platonisme  où  va-t-il  se
+240 581 135 17 the inclined plane, the screw, the wedge, &c. ‖ As a matter of fact, every machine is a combination
+240 676 135 17 water,  wind,  and  so  on. ‖ According  to  this,  a  plough  drawn  by  oxen,  which  is  a  contrivance
+241 311 135 17 loom, ‖ or the working parts fitted in the frame of the machine are old acquaintances, as spindles
+241 406 135 17 machinery. ‖ The  machine  proper  is  therefore  a  mechanism  that,  after  being  set  in  motion,
+241 847 135 17 instance,  by  turning  the  crank  of  a  mill, ‖ by  pumping,  by  moving  up  and  down  the  arm  of  a
+241 885 135 17 animals,  water ‖ and  wind  as  motive  powers.  Here  and  there,  long  before  the  period  of
+242 174 135 17 continued  to  be  down  to  1780, ‖ did  not  give  rise  to  any  industrial  revolution.  It  was,  on  the
+242 406 135 17 motion by a single motive power, whatever the form of that power may be. ‖ Here we have the
+242 582 135 17 extent  to  which  he  is  applicable  in  factories  is  very  restricted. ‖ Nevertheless  the  horse  was
+242 795 135 17 wheel, which afterwards plays so important a part in modern industry. ‖ In this way, during the
+242 890 135 17 essentially  local. ‖ Not  till  the  invention  of  Watt’s  second  and  so-called  double-acting  steam-
+242 966 135 17 towns instead  of, like the water-wheels,  being  scattered  up  and  down the  country, ‖ that  was of
+243 472 135 17 system  of  Manufacture. ‖ For  example,  in  the  manufacture  of  envelopes,  one  man  folded  the
+243 662 135 17 case, in the factory, ‖ i.e ‖ ., in the workshop in which machinery alone is used, we meet again with
+244 136 135 17 organisation,  of  the  process  of  production. ‖ Nevertheless  an  essential  difference  at  once
+244 288 135 17 solved by the aid of machines, chemistry, &c. ‖ But, of course, in this case also, theory must be
+245 843 135 17 they worked, ‖ the perfecting of the automatic system, and the use, every day more unavoidable,
+246 212 135 17 became possible on the enormous scale at present required. ‖ But more especially, the revolution
+247 193 135 17 ordinary hammer head, but of such a weight that not Thor himself could wield it. ‖ These steam-
+247 665 135 17 current  circulates,  cost  never  a  penny. ‖ But  the  exploitation  of  these  laws  for  the  purposes  of
+248 640 186 17 “each real mechanical horse-power ‖ will drive 450 self-acting mule spindles,
+248 979 135 17 transferred  depends  on  the  total  value  of  the  machinery. ‖ The  less  labour  it  contains,  the  less
+249 425 135 17 required for the 450 mule spindles, inclusive of preparation machinery, ‖ that are driven by one-
+249 536 135 17 cotton  would  absorb  2,700  days’  labour  of  ten  hours  each,  or  27,000  hours’  labour. ‖ Where
+249 596 135 17 in one hour, as it formerly took 200 men to do. ‖ Before Eli Whitney invented the cotton gin in
+250 387 135 17 produce the machine and the total quantity replaced by it, remain constant. ‖ But it is the former
+250 669 135 17 timers.” ‖ Before  the  labour  of  women  and  of  children  under  10  years  of  age  was  forbidden  in
+250 744 135 17 breaking machine. The English do not make use of it, because the “wretch” ‖ who does this work
+250 786 135 17 production to the capitalist. ‖ In England women are still occasionally used instead of horses for
+250 805 135 17 hauling  canal  boats ‖ ,  because  the  labour  required  to  produce  horses  and  machines  is  an
+251 532 135 17 human material that forms the principal object of capital’s exploiting power, ‖ at the same time
+251 691 135 17 He  has  become  a  slave-dealer. ‖ The  demand  for  children’s  labour  often  resembles  in  form  the
+252 155 135 17 quite disgraceful.” ‖ It has also occurred in England, that women have taken “children from the
+252 171 135 17 workhouse and let any one have them out for 2s. 6d. a week.” ‖ In spite of legislation, the number
+252 212 135 17 there  exist  plenty  of  machines  to  replace  them)  exceeds  2,000. ‖ The  revolution  effected  by
+252 653 135 17 Manchester,  26,125. ‖ As  was  shown  by  an  official  medical  inquiry  in  the  year  1861,  the  high
+252 748 135 17 intentional  starving  and  poisoning  of  the  children. ‖ In  those  agricultural  districts,  “where  a
+252 858 135 17 Public Health.” ‖ Up to that time it was supposed, that the children were decimated by malaria,
+252 938 135 17 death-rate of the infants. ‖ The 70 medical men, whom Dr. Hunter examined in that district, were
+253 709 186 17 educated, ‖ contains no enactment by which that professed end can be secured. It
+254 377 186 17 space 75 children, who were gabbling something unintelligible” ‖ But it is not
+255 638 135 17 moving and working independent of the workman. They are thenceforth an industrial ‖ perpetuum
+255 657 135 17 mobile ‖ , that would go on producing forever, did it not meet with certain natural obstructions in
+255 733 135 17 yet elastic natural barrier, man. ‖ This resistance is moreover lessened by the apparent lightness of
+256 255 135 17 cheaper  than  it,  or  by  better  machines  entering  into  competition  with  it. ‖ In  both  cases,  be  the
+256 368 135 17 cheaply follow blow upon blow ‖ , and so do improvements, that not only affect individual parts
+256 544 135 17 machinery  and  buildings. ‖ Not  only  is  there,  therefore,  an  increase  of  surplus-value,  but  the
+256 714 135 17 one  of  our  people  leaves  the  mill,  he  renders  useless  a  capital  that  has  cost  £100,000.” ‖ Only
+257 516 135 17 capitalist, without his being conscious of the fact, ‖ to excessive lengthening of the working day,
+257 672 135 17 the  labourers  it  supplants,  a  surplus  working  population, ‖ which  is  compelled  to  submit  to  the
+257 858 135 17 for the master workers, or of slaves for the lords.” ‖ And Antipatros, a Greek poet of the time of
+257 919 135 17 of the golden age. ‖ Oh! those heathens! They understood, as the learned Bastiat, and before him
+259 136 135 17 which the capitalist pays him. ‖ In those industries, such as potteries, where machinery plays little
+259 193 135 17 energy  of  the  labour. ‖ It  seemed,  however,  doubtful  whether  this  effect  was  produced  in  the
+259 464 135 17 they did before in twelve.” ‖ I pass over the experiments made in the spinning and carding rooms,
+261 293 135 17 would necessarily diminish production. ‖ He himself, ten years later, cites his opinion of 1845 in
+261 591 135 17 in 1828 ‖ , is only nominal, and can serve only as an index of their real power, he goes on to say:
+261 762 186 17 periods, there are fewer hands employed in proportion to the machinery.” ‖ “In the
+261 914 186 17 have required in 1856.” ‖ “The facts thus brought out by the Return (of 1856)
+263 212 135 17 hours  of  labour  will  again  be  inevitable. ‖ On  the  other  hand,  the  rapid  advance  of  English
+263 944 135 17 machines; ‖ in the  place  of  the artificially  produced  differentiations  of  the  detail  workmen,  step
+264 326 135 17 aggregated to it. ‖ This division of labour is purely technical.
+264 463 135 17 annexation of a particular man to a particular function. ‖ Since the motion of the whole system
+264 520 135 17 relays system ‖ , put into operation by the manufacturers during their revolt from 1848-1850. Lastly,
+264 558 135 17 of  bringing  up  for  exclusive  employment  by  machinery,  a  special  class  of  operatives. ‖ With
+264 596 135 17 machines, ‖ and owing to its extreme simplicity, it allows of a rapid and constant change of the
+264 752 135 17 detail-machine. ‖ In  this  way,  not  only  are  the  expenses  of  his  reproduction  considerably
+265 136 135 17 and intellectual activity. ‖ The lightening of the labour, even, becomes a sort of torture, since the
+265 787 135 17 persons past the age of puberty, into useful factory hands.” ‖ The factory code in which capital
+265 961 135 17 that a violation of his laws is, if possible, more profitable to him than the keeping of them. ‖ We
+266 155 135 17 and wounded in the industrial battle. ‖ Economy of the social means of production, matured and
+266 250 135 17 comfort of the workman. ‖ Is Fourier wrong when he calls factories “tempered bagnos"?
+266 338 135 17 It  raged  on  throughout  the  whole  manufacturing  period. ‖ But  only  since  the  introduction  of
+267 729 135 17 workpeople more productive. ‖ Long before the period of modern industry, co-operation and the
+267 919 135 17 on a great scale. ‖ Hence this subversion of agriculture puts on, at first, more the appearance of a
+267 980 135 17 competitor  of  the  workman  himself. ‖ The  self-expansion  of  capital  by  means  of  machinery  is
+268 459 135 17 vegetated  for  a  long  time  on  2½  d.  a  day. ‖ On  the  other  hand,  the  English  cotton  machinery
+268 639 135 17 thorough antagonism. ‖ Therefore, it is with the advent of machinery, that the workman for the
+268 818 186 17 aid of an iron instead of the human apparatus.” ‖ “The adaptation of power to
+268 989 186 17 self-regulating that a child can superintend it.” ‖ “On the automatic plan skilled
+268 1008 186 17 labour gets progressively superseded.” ‖ “The effect of improvements in
+269 190 186 17 rate of wages.” ‖ “The effect of substituting the self-acting mule for the common
+269 697 135 17 of cloth, and cheaper than from the yarn produced by old  machinery.” ‖ Mr.  Redgrave  further
+269 905 147 17 Number of Factories ‖ 1857 ‖ 1861 ‖ 1868
+269 926 147 17 England and Wales ‖ 2,046 ‖ 2,715 ‖ 2,405
+269 948 147 17 Scotland ‖ 152 ‖ 163 ‖ 131
+269 970 147 17 Ireland ‖ 12 ‖ 9 ‖ 13
+269 992 147 17 United Kingdom ‖ 2,210 ‖ 2,887 ‖ 2,549
+269 1013 147 17 Number of Power Looms ‖ 1857 ‖ 1861 ‖ 1868
+269 1035 147 17 England and Wales ‖ 275,590 ‖ 368,125 ‖ 344,719
+270 138 147 17 Scotland ‖ 21,624 ‖ 30,110 ‖ 31,864
+270 159 147 17 Ireland ‖ 1,633 ‖ 1,757 ‖ 2,746
+270 181 147 17 United Kingdom ‖ 298,847 ‖ 399,992 ‖ 379,329
+270 203 147 17 Number of Spindles ‖ 1857 ‖ 1861 ‖ 1868
+270 225 147 17 England and Wales ‖ 25,818,576 ‖ 28,352,125 ‖ 30,478,228
+270 246 147 17 Scotland ‖ 2,041,129 ‖ 1,915,398 ‖ 1,397,546
+270 268 147 17 Ireland ‖ 150,512 ‖ 119,944 ‖ 124,240
+270 289 147 17 United Kingdom ‖ 28,010,217 ‖ 30,387,467 ‖ 32,000,014
+270 321 382 17 1857 ‖ 1861 ‖ 1868
+270 352 147 17 England and Wales ‖ 341,170 ‖ 407,598 ‖ 357,052
+270 374 147 17 Scotland ‖ 34,698 ‖ 41,237 ‖ 39,809
+270 395 147 17 Ireland ‖ 3,345 ‖ 2,734 ‖ 4,203
+270 417 147 17 United Kingdom ‖ 379,213 ‖ 452,569 ‖ 401,064
+270 693 135 17 threatened  the  newly  born  factory  system  with  a  crisis. ‖ It  would  be  possible  to  write  quite  a
+271 826 186 17 children and increases the rate of ‖ their ‖ wages.”
+272 332 135 17 consumed  costs  £3,000,  both  before  and  after  the  change. ‖ Is  any  capital  set  free  by  this
+273 809 135 17 inferior kind, that are over-supplied with underpaid workmen. ‖ Further, every branch of industry
+274 482 135 17 employment  in  any  way,  and  is  an  enemy  of  social  progress! ‖ Exactly  the  reasoning  of  the
+275 250 135 17 has  been  less  rapid,  owing  to  the  use  of  new  machinery  in  mining. ‖ A  new  type  of  workman
+275 307 135 17 every  day. ‖ As  to  raw  material, ‖ there  is  not  the  least  doubt  that  the  rapid  strides  of  cotton
+275 615 135 17 work  full  time  without  increased  outlay.  Their  earnings  accordingly  rose. ‖ Hence  a  flow  of
+275 966 135 17 the production of luxuries increases. ‖ The refined and varied forms of the products are also due
+276 755 147 17 Agricultural  labourers  (including ‖ 1,098,261
+276 842 147 17 All who are employed in cotton, woollen, ‖ 642,607
+276 929 147 17 All who are employed in coal mines and ‖ 565,835
+276 978 147 17 All who are employed in metal works ‖ 396,998
+277 142 147 17 The servant class ‖ 1,208,648
+277 726 135 17 persons  employed  decreased  5½%. ‖ Between  1852  and  1862,  considerable  extension  of  the
+278 686 135 17 numbered 800,000, ‖ not to mention those thrown out of work in Asia, and on the Continent of
+279 174 135 17 the same way, for example, as the cotton gin augmented the production of cotton. ‖ On the other
+279 269 135 17 indigo  for  Great  Britain. ‖ By  constantly  making  a  part  of  the  hands “supernumerary,”  modern
+279 345 135 17 growing wool. ‖ A new and international division of labour, a division suited to the requirements
+279 561 136 15 ANNUAL ‖ 1831-1835 ‖ 1836-1840 ‖ 1841-1845 ‖ 1846-1850 ‖ 1851-1855 ‖ 1856-1860 ‖ 1861-1865 ‖ 1866
+279 607 136 15 Import ‖ 1,096,373 ‖ 2,389,729 ‖ 2,843,865 ‖ 8,776,552 ‖ 8,345,237 ‖ 10,913,612 ‖ 15,009,871 ‖ 16,457,340
+279 636 136 15 Export ‖ 225,263 ‖ 251,770 ‖ 139,056 ‖ 155,461 ‖ 307,491 ‖ 341,150 ‖ 302,754 ‖ 216,218
+279 665 136 15 Excess of ‖ 871,110 ‖ 2,137,959 ‖ 2,704,809 ‖ 8,621,091 ‖ 8,037,746 ‖ 10,572,462 ‖ 14,707,117 ‖ 16,241,122
+279 758 136 15 Yearly ‖ 24,621,107 ‖ 25,929,507 ‖ 27,262,569 ‖ 27,797,598 ‖ 27,572,923 ‖ 28,391,544 ‖ 29,381,460 ‖ 29,935,404
+279 821 136 15 Average ‖ 0.036 ‖ 0.082 ‖ 0.099 ‖ 0.310 ‖ 0.291 ‖ 0.372 ‖ 0.501 ‖ 0.543
+281 349 135 17 events. ‖ No  doubt,  among  the  2,887  cotton  mills  in  the  United  Kingdom  in  1861,  there  were
+281 406 135 17 H. P., and less than 20 H. P.; while 1,372 employed upwards of 20 H. P. ‖ The majority of the
+281 862 135 17 6d. and 5s. 1d. ‖ Even in this miserable state of things, however, the inventive spirit of the master
+282 198 135 17 operatives. ‖ No wonder that in some parts of Lancashire a kind of famine fever broke out. But
+283 555 135 17 produces near upon 600,000 needles in a day, and upwards of 3,000,000 in a week. ‖ A single
+283 688 135 17 Birmingham trades, or by the use of small caloric-engines, as in some branches of weaving. ‖ In
+283 820 135 17 complete ruin of the 300 cottage factories. ‖ Wherever the nature of the process did not involve
+285 260 135 17 and lackering works. ‖ Owing to the excessive labour of their workpeople, both adult and non-
+285 294 135 17 name of “slaughterhouses.” ‖ Similar excesses are practised in book-binding, where the victims
+285 354 135 17 death at turning the looms in silk weaving, when it is not carried on by machinery. ‖ One of the
+285 506 135 17 and other infectious diseases, and they themselves are the first victims. ‖ A classical example of
+286 721 135 17 Number of Persons of all ‖ Industry ‖ Death-rate per 100,000 men
+286 740 135 17 ages in the respective ‖ compared as ‖ in the respective industries
+286 759 135 17 industries ‖ regards health ‖ between the stated ages
+286 793 280 17 Age 25-35  Age 35-45 ‖ Age 45-55
+286 827 226 17 958,265 ‖ Agriculture in ‖ 743 ‖ 805 ‖ 1141
+286 910 497 17 958 ‖ 1,262 ‖ 2,093
+286 917 182 17 12,379 women ‖ London tailors
+286 955 235 17 13,803 ‖ London printers ‖ 894 ‖ 1,747 ‖ 2,367
+287 203 135 17 industry, one must go to the apparently quite idyllic trade of nail-making, ‖ carried on in a few
+290 871 135 17 machine sewing. ‖ The new workwomen turn the machines by hand and foot, or by hand alone,
+291 273 135 17 to the rent of the workrooms, ‖ &c. In dressmaking, for instance, where the labour for the most
+291 349 135 17 material from the capitalist ‖ en chef ‖ , and group around their sewing-machines, in “chambers” and
+291 425 135 17 use  of  their  own  sewing-machines. ‖ The  system  actually  prevalent  in  England  is,  that  the
+291 463 135 17 produce of those machines for further manipulation amongst the domestic workers. ‖ The variety
+291 615 135 17 them. The constantly increasing amount of capital invested in sewing-machines, ‖ gives the spur
+291 691 135 17 crushing  by  their  deadly  competition  the  small  owners  of  machines. ‖ Constant  changes  in  the
+291 824 135 17 overcome  by  experience. ‖ If,  on  the  one  hand,  the  concentration  of  many  machines  in  large
+292 174 135 17 necessitate on the one hand more machinery ‖ and the substitution of steam as a motive power in
+292 193 135 17 the place of muscles. ‖ On the other hand, in order to make up for the loss of time, an expansion
+292 909 135 17 the workers. ‖ So, at the present time, in those branches of the lace manufacture not  yet subject
+293 701 135 17 the adult workman, and ruins his wife and children. ‖ Although this absence of regularity in the
+294 365 186 17 it, but shudder to go further.” ‖ “They are curious men,” said one of the
+294 525 135 17 business  has  been  treated  by  the  Factory  inspectors  as  a  mere  sham. ‖ The  thoroughly
+294 582 135 17 previously employed more evenly over the whole year ‖ that this regulation was the first rational
+294 601 135 17 bridle on the murderous, meaningless caprices of fashion, ‖ caprices that consort so badly with
+294 657 135 17 supported, ‖ and that all other so-called unconquerable difficulties vanish before larger buildings,
+294 677 135 17 additional  machinery,  increase  in  the  number  of  workpeople  employed, ‖ and  the  alterations
+294 695 135 17 caused by all these in the mode of conducting the wholesale trade. ‖ But for all that, capital never
+294 733 135 17 representatives  –  except  “under  the  pressure  of  a  General  Act  of  Parliament” ‖ for  the
+295 1008 135 17 education to be an indispensable condition to the employment of children. ‖ The success of those
+295 1027 135 17 clauses  proved  for  the  first  time  the  possibility  of  combining  education  and  gymnastics ‖ with
+296 445 135 17 energy  of  the  children.” ‖ From  the  Factory  system  budded,  as  Robert  Owen  has  shown  us  in
+296 643 135 17 machinery  and  machine  workers, ‖ partly  by  re-establishing  the  division  of  labour  on  a  fresh
+296 948 135 17 the week, and frequently for 36 hours, with only 2 hours’ rest for meals and sleep. ‖ A great part
+297 335 135 17 exclusively, the breaking up of the multifariousness of his employment ‖ is a necessary step in
+297 483 135 17 the different trades were called “mysteries” (mystères); ‖ into  their  secrets  none  but  those duly
+297 757 135 17 essentially conservative. ‖ By means of machinery, chemical processes and other methods, it is
+297 947 135 17 taking away the instruments of labour, to snatch from his hands his means of subsistence, ‖ and,
+298 193 135 17 natural law that meets with resistance ‖ at all points, modern industry, on the other hand, through
+298 714 135 17 regulating the so-called “home-labour,” ‖ it is immediately viewed as a direct attack on the patria
+299 677 135 17 compensates itself all the more recklessly at other points; ‖ secondly, the cry of the capitalists for
+300 330 135 17 industries and by the so-called home-work. ‖ It says,
+300 662 135 17 The Tory Cabinet ‖ announced in the Speech from the Throne, on February 5, 1867, that it had
+300 681 135 17 framed the proposals of the Industrial Commission of Inquiry ‖ into Bills. To get that far, another
+300 700 135 17 twenty years of ‖ experimentum in corpore vili ‖ had been required. Already in 1840 a Parliamentary
+301 416 186 17 “ ‖ Handicraft ‖ shall mean any manual labour exercised by way of trade, or for
+301 497 186 17 “ ‖ Workshop ‖ shall mean any room or place whatever in the open air or undercover,
+301 577 186 17 “ ‖ Employed ‖ shall mean occupied in any handicraft, whether for wages or not,
+301 620 186 17 “ ‖ Parent ‖ shall mean parent, guardian, or person, having the custody of, or control
+302 709 135 17 1. Employment in mines of boys of 10 years and upwards. ‖ – In the mines the work, inclusive
+303 387 135 17 II. Education. ‖ – The working miners want a law for the compulsory education of their children,
+304 463 135 17 III. Employment of women. ‖ – Since 1842 women are no more employed underground, but are
+304 560 186 17 “ ‖ What is the feeling among the working miners as to the employment of women?”
+306 217 135 17 V.  False  weights  and  measures. ‖ –  The  workmen  demand  to  be  paid  weekly  instead  of
+306 396 135 17 VI. Inspection of mines. ‖ – Casualties from explosions are not the only things the workmen suffer
+307 874 135 17 mine-owner himself calculates ( ‖ Times ‖ , 26th January, 1867), that putting on one side their office
+307 950 135 17 production! ‖ [This sentence has been added to the English text in conformity with the 4th German
+307 969 135 17 edition. – Ed. ‖ ]
+309 212 135 17 rural labourer. ‖ But while upsetting the naturally grown conditions for the maintenance of that
+309 497 135 17 rapid is this process of destruction. ‖ Capitalist production, therefore, develops technology, and
+312 830 135 16 explaining various citations in the subsequent pages. — ‖ F. E ‖ .
+312 925 135 16 surplus-value,  we  cannot  assume ‖ a  priori ‖ the  existence  of  any  part  of  that  value  under  the  name  of
+312 943 135 16 interest. The capitalist mode of calculating, which appears, ‖ primâ facie ‖ , absurd, and repugnant to the
+314 952 135 16 “Children’s Employment Commission, Fifth Report,” London, 1866, p. 81, n. 31. ‖ [Added in the 4th
+314 970 135 16 German edition. — The Bethnal Green silk industry is now almost destroyed. — F. E. ‖ ]
+316 363 135 16 The Manchester Spinner ( ‖ Times ‖ , 26th Nov., 1862) before referred to says in relation to this subject:
+318 331 135 16 Redgrave, Factory Inspector – in the ‖ Journal of Arts ‖ , 5th January, 1872.)
+318 496 135 18 1848. ‖ Quantity
+318 537 135 18 1851. ‖ Quantity
+318 578 135 18 1860. ‖ Quantity
+318 622 135 15 1865.COTTON ‖ Cotton yarnlbs.
+318 812 135 15 2,015,237,851 ‖ FLAX & HEMP ‖ Yarnlbs.
+318 950 135 15 247,012.529 ‖ SILK ‖ Yarnlbs.
+319 172 135 15 2,869,837 ‖ WOOL ‖ Woollen and
+319 380 231 18 £ ‖ Value
+319 448 231 18 £ ‖ Value
+319 515 231 18 £ ‖ Value
+319 585 231 15 £ ‖ COTTON ‖ Yarn5,927,8316,634,0269,870,87510,351,049Cloth16,753,369
+319 608 231 15 23,454,81042,141,50546,903,796 ‖ FLAX &
+319 630 231 15 HEMP ‖ Yarn493,449951,4261,801,2722,505,497Cloth2,802,7894,107,3964
+319 653 231 15 ,804,8039,155,358 ‖ SILK ‖ Yarn77,789196,380826,107768,064Cloth—
+319 676 231 15 1,130,3981,587,3031,409,221 ‖ WOOL ‖ Yarn776,9751,484,5443,843,4505,42
+319 697 231 15 4,047Cloth5,733,8288,377,18312,156,99820,102,259 ‖ See the Blue
+321 653 135 16 London.  —  [Added ‖ in  the  4th  German  edition.  —  This ‖ has  now  been  done  away  with.  With  few
+323 666 135 16 [Note in the 4th German edition. ‖ — This applies to Germany too. Where in our country agriculture
+323 721 135 16 and was particularly so since 1648. — ‖ F. E. ‖ ]
+324 1019 135 16 Nota bene ‖ . My illustration is entirely on the lines of those given by the above named economists.
+327 237 135 16 colony.  [ ‖ Added  in  the  4th  German  edition.  —  “Since  then  they  have  developed  into  country  whose
+327 273 135 16 character.” — F. E. ‖ ]
+329 598 135 16 5  cases  of  death  from  starvation.  On  the  same  day ‖ The  Times ‖ reports  another  case.  Six  victims  of
+334 426 135 16 [ ‖ Added  in  the  4th  German  edition ‖ —  The  “hopelessly  bewildering  tangle  of  contradictory
+334 540 135 16 1) ‖ Textile  Mills ‖ .  Here  everything  remains  about  as  it  was:  children  more  than  10  years  of  age  may
+334 599 135 16 2) ‖ Non-Textile Factories ‖ . Here the regulations are brought closer than before to those of No. 1, but
+334 657 135 16 3) ‖ Workshops ‖ ,  defined approximately  as in  the  former  Act;  as for the children,  young workers and
+334 716 135 16 4) ‖ Workshops ‖ in which no children or young workers are employed, but only persons of both sexes
+334 757 135 16 5) ‖ Domestic Workshops ‖ , where only  members of  the family are employed,  in the  family dwelling:
+334 938 135 16 application to workshops. ‖ ]
+335 373 135 16 Econ.,’  Vol.  1,  p.  17,  as  follows:  ‘That  the  produce  of  land  increases, ‖ caeteris  paribus ‖ ,  in  a
+335 685 135 16 almost entirely to such ‖ quid-pro-quos ‖ .
+338 662 135 17 absolute surplus-value, if, ‖ e.g. ‖ , it is sufficient that handicraftsmen who previously worked on their
+339 468 135 17 flesh of another. ‖ No mystical ideas must in any way be connected, as sometimes happens, with
+339 619 135 17 portion  of  society  increases  both  absolutely  and  relatively. ‖ Besides,  capital  with  its
+340 449 135 17 develop himself. ‖ It is not the tropics with their luxuriant vegetation, but the temperate zone, that
+340 582 135 17 decisive part in the history of industry. Examples are, the irrigation works in Egypt, ‖ Lombardy,
+340 738 135 17 countries,  a  different  mass  of  requirements, ‖ consequently,  that  under  circumstances  in  other
+340 852 135 17 surplus-product. ‖ But  consider,  for  example,  an  inhabitant  of  the  eastern  islands  of  the  Asiatic
+342 193 135 17 calculated  upon  the ‖ sum  total ‖ of  the  capital  advanced.  If,  for  example,  the  capitalist  have
+342 396 135 17 on our earth. ‖ But let us finish – Mill is willing to concede,
+343 870 135 16 “Chaque travail doit (this appears also to be part of the ‖ droits et devoirs du citoyen ‖ [rights and duties
+343 934 135 16 In  earlier  editions  of ‖ Capital ‖ the  quotation  from  John  Stuart  Mill,  “I  assume  throughout...of  the
+343 988 135 16 Danielson, the Russian translator of ‖ Capital ‖ , adding:
+344 255 135 16 The substance of this note has been taken from the ‖ Volksausgabe ‖ . The quotation from Mill is from his
+344 273 135 16 Principles of Political Economy ‖ , Book II, Chap XV, 5.
+345 824 135 17 (1.) ‖ A working day of given length always creates the same amount of value, no matter how the
+345 947 135 17 (2.) ‖ Surplus-value  and  the value  of  labour-power  vary  in  opposite  directions.  A  variation  in  the
+346 852 135 17 (3.) ‖ Increase or diminution in surplus-value is always consequent on, and never the cause of, the
+348 1005 135 17 (1.) ‖ The working day creates a greater or less amount of value in proportion to its length – thus, a
+349 136 135 17 (2.) ‖ Every  change  in  the  relation  between  the  magnitudes  of  surplus-value  and  of  the  value  of
+349 198 135 17 (3.) ‖ The absolute value of labour-power can change only in consequence of the reaction exercised
+349 302 135 17 (1.) ‖ A  shortening  of  the  working  day  under  the  conditions  given  above,  leaves  the  value  of
+349 358 135 17 i.e. ‖ , ‖ its  magnitude  relatively  to  the  value  of  labour-power  whose  magnitude  remains  unaltered.
+349 500 135 17 (2.) ‖ Lengthening  of  the  working  day.  Let  the  necessary  labour  time  be  6  hours, or  the  value  of
+349 851 135 17 into motion, ‖ in conformity with the nature of man. Up to a certain point, the increased wear and
+350 560 135 17 the  surplus  labour  remains  at  6  hours,  the  surplus-value  at  3  shillings ‖ ,  but  the  surplus-value
+350 906 135 17 which  the  right  to  prolong  the  hours  of  labour  to  an  outrageous  extent  was  established; ‖ the
+351 795 135 16 Note in the 3rd German edition ‖ . — The case considered at pages 321-324 is here of course omitted.
+351 813 135 16 — ‖ F. E.
+353 265 167 17 Surplus-value ‖ s ‖ Surplus-value ‖ Surplus-labour
+353 276 136 17 I. ‖ =
+353 283 158 17 Variable Capital ‖ = ‖ Value of labour-power ‖ Necessary labour
+353 270 274 36 ( ‖ v ‖ )
+353 413 167 17 Surplus-labour ‖ Surplus-value ‖ Surplus-product
+353 423 136 17 II. ‖ = ‖ =
+353 434 172 17 Working day ‖ Value of the Product ‖ Total Product
+353 620 145 17 6 hours surplus-labour ‖ Surplus-value of 3 sh.
+353 631 312 17 = ‖ = 100%
+353 642 137 17 6 hours necessary labour ‖ Variable Capital of 3 sh.
+353 691 150 17 6 hours surplus-labour ‖ Surplus-value of 3 sh.
+353 701 323 17 = ‖ = 50%
+353 712 141 17 Working day of 12 hours ‖ Value created of 6 sh.
+353 794 135 17 hold  good:  Surplus-labour  or  surplus-value  can  never  reach  100%. ‖ Since  the  surplus-labour  is
+353 953 136 17 Working day ‖ Value created
+353 1035 135 17 other  hand  3/4  of  the  product ‖ or  its  value,  apart  from  the  question  of  how  the  booty  is
+354 567 145 17 Surplus-labour of 6 hours ‖ 100
+354 589 137 17 Necessary labour of 6 hours ‖ 100
+354 638 213 17 Surplus-value ‖ Surplus-labour ‖ Unpaid labour
+354 648 136 17 III. ‖ = ‖ =
+354 659 183 17 Value of labour-power ‖ Necessary labour ‖ Paid labour
+354 957 135 17 costs him no equivalent. ‖ This expenditure of labour-power comes to him gratis. In this sense it is
+355 499 135 16 capital, ‖ a ‖ form ‖ which ‖ he ‖ confounds ‖ with ‖ the ‖ concept ‖ itself ‖ of ‖ capital.”
+355 557 135 16 “social letters” finally dwindle down. — ‖ F. E.
+357 729 135 17 the one being realized, the other living. ‖ This is the more absurd as the value of a commodity is
+359 365 135 17 slave’s labour appears as unpaid labour. ‖ In wage labour, on the contrary, even surplus labour, or
+359 1017 135 17 quantity, ‖ to the assertion that the value of labour is constant, although the value of the means of
+362 507 135 17 The sum of money ‖ which the labourer receives for his daily or weekly labour, forms the amount
+362 583 135 17 of money for the same quantity of labour. ‖ We must, therefore, in considering time-wages, again
+363 311 135 17 6 or 8 hours, he receives, with this price of labour, only 2s. or 1s. 6d. a day. ‖ As on our hypothesis
+364 171 135 17 paid better (“extra pay”), although often in a proportion ridiculously small. ‖ The normal working
+364 212 135 17 lasts longer than the former. ‖ The increase in the price of labour with the extension of the working
+364 269 135 17 paid  over-time,  if  he  wishes  to  obtain  a  sufficient  wage  at  all. ‖ Legal  limitation  of  the  working
+364 330 135 17 are the wages. ‖ A. Redgrave, factory inspector, illustrates this by a comparative review of the 20
+364 756 135 17 up  still  further  the  working-time. ‖ Soon,  however,  this  command  over  abnormal  quantities  of
+364 1018 135 17 money is made, but only the public gets the benefit.” ‖ The reader will remember the two sorts of
+368 592 135 17 by  time. ‖ But  it  is,  moreover,  self-evident  that  the  difference  of  form  in  the  payment  of  wages
+368 1019 135 17 of products in which the labour has embodied itself during a given time. ‖ The price of labour time
+369 572 135 17 they actually allow to reach the labourer. ‖ In England this system is characteristically called the
+369 747 135 17 of labour. ‖ It is moreover now the personal interest of the labourer to lengthen the working day,
+369 766 135 17 since with it his daily or weekly wages rise. ‖ This gradually brings on a reaction like that already
+369 922 135 17 skill, strength, energy, staying-power, &c., of the individual labourers. ‖ Of course this does not
+370 250 135 17 among  the ribbon-weavers  of  Coventry. ‖ Piece-wage  is finally  one of the  chief  supports  of  the
+371 250 135 17 same proportion as the number of the pieces produced in the same time rises, ‖ and, therefore, as
+371 487 135 17 wage-labour. ‖ He cries out against this usurping attempt to lay taxes on the advance of industry,
+374 161 182 27 Chapter 22: ‖ National Differences of Wages
+374 285 135 17 fluctuations  independent  of,  or  different  from,  the  changes  of  this  price. ‖ As  has  been  already
+374 830 135 17 national intensity and productivity of labour there rise above the international level. ‖ The different
+375 718 136 17 England ‖ , ‖ average of spindles per factory ‖ 12,600
+375 740 136 17 France ‖ , ‖ average of spindles per factory ‖ 1,500
+375 762 136 17 Prussia ‖ , ‖ average of spindles per factory ‖ 1,500
+375 784 136 17 Belgium ‖ , ‖ average of spindles per factory ‖ 4,000
+375 806 136 17 Saxony ‖ , ‖ average of spindles per factory ‖ 4,500
+375 828 136 17 Austria ‖ , ‖ average of spindles per factory ‖ 7,000
+375 850 136 17 Switzerland ‖ , ‖ average of spindles per factory ‖ 8,000
+375 894 136 17 France ‖ one person to ‖ 14 spindles
+375 916 136 17 Russia ‖ one person to ‖ 28 spindles
+375 938 136 17 Prussia ‖ one person to ‖ 37 spindles
+375 960 136 17 Bavaria ‖ one person to ‖ 46 spindles
+375 982 136 17 Austria ‖ one person to ‖ 49 spindles
+375 1004 136 17 Belgium ‖ one person to ‖ 50 spindles
+375 1026 136 17 Saxony ‖ one person to ‖ 50 spindles
+376 138 136 17 Switzerland ‖ one person to ‖ 55 spindles
+376 160 136 17 Smaller States of Germany ‖ one person to ‖ 55 spindles
+376 182 136 17 Great Britain ‖ one person to ‖ 74 spindles
+376 479 135 17 In an “Essay on the Rate of Wages,” ‖ one of his first economic writings, H. Carey tries to prove
+378 459 135 17 The  capitalist  who  produces  surplus-value  – ‖ i.e ‖ .,  who  extracts  unpaid  labour  directly  from  the
+378 692 135 17 all  consider  accumulation  from  an  abstract  point  of  view  – ‖ i.e ‖ .,  as  a  mere  phase  in  the  actual
+379 381 135 17 the  means  of  production  –  i.e. ‖ , ‖ the  instruments  of  labour,  the  raw  material,  and  the  auxiliary
+379 537 135 17 as  a  means  of  reproducing  as  capital  – ‖ i.e ‖ .,  as  self-expanding  value  –  the  value  advanced.  It  is
+379 674 135 17 periodically  as  it  is  gained,  then, ‖ caeteris  paribus, ‖ simple  reproduction  will  take  place.  And
+379 944 135 17 share in the product itself. ‖ What flows back to the labourer in the shape of wages is a portion of
+380 387 135 17 labour, realised in a  product,  which is  advanced  to  him  by  the  capitalist. ‖ Let  us  take  a peasant
+380 539 135 17 lord. He will, ‖ ceteris paribus ‖ , labour 6 days a week as before, 3 for himself, 3 for his lord, who
+380 733 135 17 funds, ‖ when we view the process of capitalist production in the flow of its constant renewal. But
+380 1004 135 17 produce of the unpaid labour of others, ‖ i.e ‖ ., the surplus-value, and is keeping intact his original
+381 790 135 17 that  command  the  producers. ‖ The  labourer  therefore  constantly  produces  material,  objective
+381 866 135 17 labourer, but as a wage labourer. ‖ This incessant reproduction, this perpetuation of the labourer, is
+382 852 135 17 part, is unproductive consumption. ‖ If the accumulation of capital were to cause a rise of wages
+382 890 135 17 labour-power  by  capital,  the  additional  capital  would  be  consumed  unproductively. ‖ In  reality,
+383 354 135 17 down  from  one  generation  to  another. ‖ To  what  extent  the  capitalist  reckons  the  existence  of
+383 483 135 17 “superfluous” hands to emigrate to the colonies or to the United States. Thereupon, ‖ The  Times
+383 540 135 17 manufacturers’ manifesto. ‖ We cull here a few characteristic passages, in which the proprietary
+383 956 186 17 beneficially replaced, nay improved, in a twelvemonth ‖ Encourage or allow (!)
+384 558 135 17 accumulates. ‖ The Times ‖ answered the cotton lord as follows:
+384 901 186 17 emigrate.’ ‖ He says that it is very natural the workers should wish to emigrate;
+385 175 135 17 The Times’ ‖ article was only a jeu d’esprit. The “great public opinion” was, in fact, of Mr. Potter’s
+385 316 135 17 purchase labour-power in order that he may enrich himself. ‖ It is no longer a mere accident, that
+385 411 135 17 bondage ‖ is both brought about and concealed by the periodic sale of himself, by his change of
+385 702 135 16 peut être détruit chaque année sans que le riche en devienne plus pauvre. Ce fruit est le ‖ revenu ‖ qui naît
+385 720 135 16 du ‖ capital ‖ .” [The rich, who consume the labour of others, can only obtain them by making exchanges
+385 883 135 16 the  rich  man  any  poorer  thereby.  This  fruit  is  the ‖ revenue ‖ which  arises  our  of ‖ capital ‖ .]  (Sismondi:
+387 173 135 16 empowering the  municipal  corporations to keep the operatives  in  a half-starved state, ‖ i.e ‖ ., to  exploit
+387 734 135 16 (Karl Marx: “Lohnarbeit und Kapital,” in the ‖ Neue Rheinische Zeitung ‖ : No. 266, 7th April, 1849.) The
+387 752 135 16 articles published under the above title in the ‖ N. Rh. Z. ‖ are parts of some lectures given by me on that
+388 907 135 17 the  sum  of  the  individual  capitals, ‖ i.e ‖ .,  the  total  capital  of  society,  had  been  converted  in  the
+389 311 135 17 the  labour  process  ( ‖ i.e ‖ .,  means  of  production),  and  such  further  articles  as  are  suitable  for  the
+389 330 135 17 sustenance of the labourer ( ‖ i.e ‖ ., means of subsistence). Consequently, a part of the annual surplus
+389 918 135 17 spokesmen of Political Economy. ‖ And, in fact, their supposition appears the only one consonant
+390 349 135 17 one year the capital destined to employ additional labour in the following year. ‖ And this is what
+391 179 135 17 Therefore, ‖ however much the capitalist mode of appropriation may seem to fly in the face of the
+392 464 135 17 done” (should read: before his own labour had borne fruit); “the employer ‖ (le maître), ‖ because the
+393 330 135 17 production  all  the  capital  originally  advanced  becomes  a  vanishing  quantity ‖ (magnitudo
+393 349 135 17 evanescens, ‖ in the mathematical sense), compared with the directly accumulated capital, ‖ i.e ‖ ., with
+393 425 135 17 again in the production of surplus-value,” ‖ and the capitalist as “the owner of surplus-value.” ‖ It
+393 810 135 17 against the popular prejudice, that confuses capitalist production with hoarding, ‖ and fancies that
+393 829 135 17 accumulated wealth is either wealth that is rescued from being destroyed in its existing form, ‖ i.e ‖ .,
+393 886 135 17 hoard  in  the  shape  of  commodities  would  be  sheer  tomfoolery. ‖ The  accumulation  of
+393 924 135 17 circulation. ‖ It  is  true  that  the  popular  mind  is  impressed  by  the  sight,  on  the  one  hand,  of  the
+393 943 135 17 mass of goods that are stored up for gradual consumption by the rich, ‖ and on the other hand, by
+394 217 135 17 Let us see what Ricardo, ‖ e.g ‖ ., says:
+394 922 135 17 bearings  of  the  facts.  It  is  one  of  the  great  merits  of  the  Physiocrats,  that  in  their ‖ Tableau
+394 941 135 17 économique ‖ they were the first to attempt to depict the annual production in the shape in which it
+395 252 135 17 together. One portion is consumed by the capitalist as revenue, ‖ the other is employed as capital,
+395 313 135 17 Caeteris paribus ‖ , the ratio of these parts determines the magnitude of the accumulation. But it is
+396 966 135 17 saving  accumulates.” ‖ Therefore,  save,  save,  i.e.,  reconvert  the  greatest  possible  portion  of
+396 1026 135 17 bourgeoisie, and did not for a single instant deceive itself over the birth-throes of wealth. ‖ But
+397 912 135 17 category, a sycophantic phrase – ‖ voilà tout. ‖ [that’s all]
+398 193 135 17 abstinence  of  the  capitalist.  If  the  wine  gets  time  to  mature  –  abstinence  of  the  capitalist ‖ The
+398 288 135 17 luxuries  and  other  articles  of  consumption. ‖ How  the  capitalists  as  a  class  are  to  perform  that
+398 360 135 17 effort  to  resist  the  temptation  of  consuming  it.” ‖ The  simple  dictates  of  humanity  therefore
+398 577 135 17 shape of capital. ‖ Richard Jones, who died a few years ago, and was the successor of Malthus in
+398 669 135 17 of  accumulation.” ‖ On  the  other  hand,  the  non-agricultural  labourers  in  those  provinces  where
+399 524 135 17 acceleration due to increased exploitation of the labourer. ‖ In the chapters on the production of
+399 837 135 17 level of the French and the Dutch. ‖ With other things he says naïvely:
+400 136 186 17 eat very little bread.” ‖ “To which may be added,” our essayist goes on, “that their
+400 217 135 17 Twenty  years  later,  an  American  humbug,  the  baronised  Yankee,  Benjamin  Thompson  ( ‖ alias
+400 415 135 17 superfluous. ‖ At the end of the 18th and during the first ten years of the 19th century, the English
+400 610 186 17 above that sum decrease regularly till it be at 2s., and then his food ‖ should be ‖ 1/5
+400 805 186 17 Wiltshire, and, I believe, throughout the country.” ‖ “For years,” exclaims a
+401 368 135 17 quantity of labour (day and night shifts of labourers, ‖ e.g ‖ .). All other things being equal, the mass
+402 155 135 17 means  of  production, ‖ i.e ‖ .,  in  more  instruments  of  labour,  materials  of  labour  and  auxiliary
+403 327 135 17 labour  keeps  up  and  eternises  an  always  increasing  capital  value  in  a  form  ever  new.” ‖ This
+403 563 135 17 formers  without  adding  value  to  the  product,  i.e. ‖ , ‖ in  the  same  proportion  as  they  are  wholly
+403 719 135 17 MacCulloch,  ought  to  receive  a  special  remuneration  in  the  shape  of  interest,  profit,  etc. ‖ The
+404 433 135 17 tongued  oracle  of  the  ordinary  bourgeois  intelligence  of  the  19th  century. ‖ Bentham  is  among
+404 471 135 17 England. ‖ In the light of his dogma the commonest phenomena of the process of production, as,
+404 490 135 17 e.g., ‖ its  sudden  expansions  and  contractions,  nay,  even  accumulation  itself,  become  perfectly
+404 509 135 17 inconceivable. ‖ The  dogma  was  used  by  Bentham  himself,  as  well  as  by  Malthus,  James  Mill,
+404 737 135 17 into means of enjoyment for the non-labourer and means of production. ‖ On the other hand, only
+405 416 135 16 either into means of production or means of subsistence, and ‖ vice versà. ‖ In order to examine the object
+405 946 135 16 (London, ‖ Economist, ‖ 19th July, 1851.)
+406 273 135 16 brought  into  the  hands  of  one  class  of  society  alone]  ( ‖ Oeuvres  de  M.  Necker ‖ ,  Paris  and  Lausanne,
+406 504 135 16 commodities is made up of wages, profit (interest) and rent, i.e. ‖ , ‖ of wages and surplus-value. Starting
+408 381 135 16 nearly  identical,  because  the  remaining  aliquot  part  is  the  fund  whence  capital  can,  if  the ‖ owner
+408 399 135 16 pleases, ‖ be accumulated.  But  then  this  does not  generally  happen,  where  there  is  most  fertile  land.”
+408 463 135 16 “An  Essay  on  Trade  and  Commerce,”  Lond.,  1770,  P.  44. ‖ The  Times ‖ of  December,  1866,  and
+408 535 135 16 to figure in ‖ The Times ‖ as model labourers! In the beginning of February, 1867, came the answer: strike
+408 675 135 16 l.  c.,  pp.  70,  71. ‖ Note  in  the  3rd  German  edition: ‖ today,  thanks  to  the  competition  on  the  world-
+408 748 135 16 competitors.”  ( ‖ Times, ‖ Sept.  3,  1873,  p.  8.)  The  wished-for  goal  of  English  capital  is  no  longer
+409 214 135 16 Houses of Parliament on the Corn Laws.” Lond., 1815, p. 20, ‖ note.
+409 395 135 16 Ricardo;  he  says, ‖ e.g. ‖ , whatever the change in productive power, “a million men always produce in
+412 501 135 17 for their employment on the other. I call the former the ‖ value-composition ‖ , the latter the ‖ technical
+412 520 135 17 composition ‖ of capital.
+412 582 135 17 latter, the ‖ organic composition ‖ of capital. Wherever I refer to the composition of capital, without
+412 780 135 17 remaining the same, the composition of capital also remains constant ( ‖ i.e ‖ ., that a definite mass of
+413 231 135 17 capital  relation  itself, ‖ i.e ‖ .,  the  relation  of  capitalists  on  the  one  hand,  and  wage  workers  on  the
+413 250 135 17 other,  so  reproduction  on  a  progressive  scale, ‖ i.e ‖ .,  accumulation,  reproduces  the  capital  relation
+413 1009 135 17 process of accumulation itself increases, along with the capital, the mass of “labouring poor,” ‖ i.e ‖ .,
+414 293 186 17 order .... They are peculiarly the creatures of civil institutions, ‖ which have
+414 624 135 17 capital,  this  relation  of  dependence  only  becomes  more  extensive, ‖ i.e ‖ .,  the  sphere  of  capital’s
+414 814 135 17 controversies  on  this  subject  the  chief  fact  has  generally  been  overlooked,  viz.,  the ‖ differentia
+414 833 135 17 specifica ‖ [defining characteristic] of capitalistic production. Labour power is sold today, not with
+414 966 135 17 additional  capital. ‖ The  conditions  of  its  sale,  whether  more  or  less  favourable  to  the  labourer,
+415 406 135 17 vanishes, ‖ i.e ‖ ., the disproportion between capital and exploitable labour power. The mechanism of
+415 748 135 17 little ‖ money  is  in  circulation.  Their  ignorance  and  complete  misunderstanding  of  facts ‖ are
+416 841 135 17 increasing productivity of labour. ‖ E.g., ‖ with the division of labour in manufacture, and with the
+417 193 135 17 variable constituent. There may be, ‖ e.g., ‖ originally 50 per cent. of a capital laid out in means of
+417 425 135 17 its material constituents. If, ‖ e.g., ‖ the capital-value employed today in spinning is 7/8 constant and
+419 293 135 17 cheapening  of  commodities.  The  cheapness  of  commodities  demands, ‖ caeteris  paribus, ‖ on  the
+419 619 135 17 progress  of  accumulation  increases  the  material  amenable  to  centralisation, ‖ i.e ‖ .,  the  individual
+419 904 135 17 capital. ‖ In  a  given  society  the  limit  would  be  reached  only  when  the  entire  social  capital  was
+421 573 135 17 labourers, ‖ i.e ‖ .,  a  population  of  greater  extent  than  suffices  for  the  average  needs  of  the  self-
+421 843 135 17 difficult absorption of the additional labouring population through the usual channels. ‖ With the
+421 1032 135 17 an  always  increasing  extent. ‖ This  is  a  law  of  population  peculiar  to  the  capitalist  mode  of
+422 577 135 17 characteristic of modern industry, ‖ viz ‖ ., a decennial cycle (interrupted by smaller oscillations), of
+423 136 135 17 that the production of a relative surplus population – ‖ i.e ‖ ., surplus with regard to the average needs
+424 643 135 17 other  part,  and  the  converse,  becomes  a  means  of  enriching  the  individual  capitalists, ‖ and
+425 406 135 17 prices of corn, took place in the English agricultural districts. In Wiltshire, ‖ e.g ‖ ., the weekly wages
+425 482 135 17 insignificant a rise of them expresses itself. If the weekly wage, ‖ e.g ‖ ., is 20s. and it rises to 22s.,
+425 520 135 17 which sounds very fine. Everywhere the farmers were howling, and the London ‖ Economist, ‖ with
+425 555 135 17 advance.” ‖ What  did  the  farmers  do  now?  Did  they  wait  until,  in  consequence  of  this  brilliant
+425 695 135 17 the  ratio  between  the  working  class  – ‖ i.e ‖ .,  the  total  labour  power  –  and  the  total  social  capital,
+425 733 135 17 e.g., ‖ in  consequence  of  favourable  circumstances,  accumulation  in  a  particular  sphere  of
+426 904 135 17 the colonies, ‖ e.g ‖ .) adverse circumstances prevent the creation of an industrial reserve army and,
+427 488 135 17 consequence is that the female population grows more rapidly than the male, ‖ teste ‖ England. That
+428 155 135 17 is  used  here  in  the  sense  of  all  non-agricultural  industries.) ‖ This  source  of  relative  surplus
+428 695 135 17 candidates  for  the  industrial  reserve  army,  and  are,  in  times  of  great  prosperity,  as  1860, ‖ e.g ‖ .,
+428 866 135 17 development  of  wealth.  It  enters  into  the ‖ faux  frais ‖ of  capitalist  production;  but  capital  knows
+429 155 135 17 layers of the working class, and the industrial reserve army, the greater is official pauperism. ‖ This
+429 174 135 17 is  the  absolute  general  law  of  capitalist  accumulation. ‖ Like  all  other  laws  it  is  modified  in  its
+429 449 135 17 becomes their condition of existence, ‖ viz ‖ ., the sale of their own labour power for the increasing of
+429 909 135 17 ignorance,  brutality,  mental  degradation,  at  the  opposite  pole,  i.e. ‖ , ‖ on  the  side  of  the  class  that
+429 928 135 17 produces  its  own  product  in  the  form  of  capital. ‖ This  antagonistic  character  of  capitalistic
+430 511 186 17 improvident” [ ‖ i.e ‖ ., so improvident as to be born ‖ without ‖ a silver spoon in the
+430 648 186 17 God and Nature have established in the world.” ‖ If the Venetian monk found in
+430 666 186 17 the fatal destiny that makes misery eternal, the ‖ raison d’être ‖ of Christian charity,
+430 961 186 17 consume it himself, make him less fit for labour.” According to him, “men” [ ‖ i.e ‖ .,
+431 612 148 17 1811-1821  1.533 ‖ per cent.
+431 636 148 17 1821-1831  1.446 ‖ per cent.
+431 659 148 17 1831-1841  1.326 ‖ per cent.
+431 683 148 17 1841-1851  1.216 ‖ per cent.
+431 706 148 17 1851-1861  1.141 ‖ per cent.
+431 789 135 17 to 1864 amounted to 50.47% or 4.58% as the annual average, ‖ that of the population during the
+431 872 148 17 Excess of annual income ‖ Increase
+431 891 148 17 of 1864 over that of 1853 ‖ per year
+431 915 148 17 Houses ‖ 38.60% ‖ 3.50%
+431 940 148 17 Quarries ‖ 84.76% ‖ 7.70%
+431 964 148 17 Mines ‖ 68.85% ‖ 6.26%
+431 988 148 17 Ironworks ‖ 39.92% ‖ 3.63%
+431 1012 148 17 Fisheries ‖ 57.37% ‖ 5.21%
+432 139 148 17 Gasworks ‖ 126.02% ‖ 11.45%
+432 163 148 17 Railways ‖ 83.29% ‖ 7.57%
+432 209 135 17 of  augmentation  of  the  income  increases  constantly. ‖ It  is, ‖ e.g., ‖ for  that  arising  from  profits
+432 384 135 17 thrown  together  into  larger  farms. ‖ From  1815  to  1825  no  personal  estate  of  more  than
+432 422 135 17 to  June,  1859,  i.e. ‖ , ‖ in  4½  years. ‖ The  centralisation  will,  however,  be  best  seen  from  a  short
+432 498 135 17 £95,844,222, in 1865 to £105,435,579. ‖ The number of persons taxed were in 1864, 308,416, out
+432 562 321 17 Year ending ‖ Year ending
+432 581 309 17 April 5th, 1864. ‖ April 5th, 1865.
+432 606 263 17 Income from ‖ Income from ‖ Income from ‖ Income  from
+432 625 263 17 Profits ‖ People ‖ Profits ‖ People
+432 649 148 17 Total Income ‖ £95,844,222 ‖ 308,416 ‖ 105,435,738 ‖ 332,431
+432 673 148 17 of these ‖ 57,028,289 ‖ 23,334 ‖ 64,554,297 ‖ 24,265
+432 697 148 17 of these ‖ 36,415,225 ‖ 3,619 ‖ 42,535,576 ‖ 4,021
+432 722 148 17 of these ‖ 22,809,781 ‖ 832 ‖ 27,555,313 ‖ 973
+432 746 148 17 of these ‖ 8,744,762 ‖ 91 ‖ 11,077,238 ‖ 107
+432 1029 137 17 1866 ‖ 188,917,563
+433 637 135 17 subsistence,  the  official  statistics, ‖ e.g., ‖ the  accounts  of  the  London  Orphan  Asylum,  show  an
+433 695 135 17 milk, sugar, salt, coals, and a number of other necessary means of subsistence. ‖ Gladstone’s next
+433 819 135 17 Professor Fawcett, not bound like Gladstone by official considerations, declares ‖ roundly:
+434 235 135 17 list  of  paupers  numbered  in  England ‖ 851,369  persons; in  1856,  877,767;  in  1865,  971,433.  In
+434 425 135 17 men, develop. ‖ E.g ‖ ., the barbarity in the treatment of the paupers, at which the English Press ( ‖ The
+434 444 135 17 Times,  Pall Mall  Gazette, ‖ etc.)  have  cried  out  so loudly  during  the last  two  years,  is  of  ancient
+434 989 186 17 standard of bare sufficiency [ ‖ i.e ‖ ., sufficient to avert starvation diseases], and that
+435 255 135 17 were the worst fed. ‖ The insufficiency of food among the agricultural labourers, fell, as a rule,
+435 355 135 17 (“Privation” of the capitalist all this! ‖ i.e ‖ ., “abstinence” from paying for the means of subsistence
+435 485 312 17 carbon ‖ nitrogen
+435 508 137 17 Five ‖ in-door
+435 518 312 17 28,876 grains ‖ 1,192 grains
+435 561 312 17 28,211 grains ‖ 1,295 grains
+435 623 312 17 28,600 grains ‖ 1,330 grains
+435 925 135 17 women,  silk-weavers  and kid-glovers. ‖ Of these facts,  Dr.  Simon  in  his  General  Health  Report
+436 862 135 17 accumulation, and therefore of the capitalistic relations of property generally, ‖ is here so evident,
+437 273 186 17 .... In its higher degrees it [ ‖ i.e ‖ ., over-crowding] almost necessarily involves such
+437 567 186 17 than was the case 20 years ago.” ‖ “It is not too much to say that life in parts of
+439 572 135 17 dwelling is transformed into a lodging house whose ‖ personnel ‖ changes as quickly as the billets in
+439 686 135 17 The frightful cellar habitations and rooms registered in the list, ‖ which Dr. Hunter obtained from
+440 330 135 17 small-pox, typhus, cholera, scarlet fever, &c. ‖ In undertakings that involve much capital outlay,
+440 425 135 17 inhabitant, navvy, or whatever he may be, has to pay 1, 3, or 4 shillings weekly. ‖ One example
+441 273 135 17 The  price  at  which  they  buy  their  wages  was  shown  on  an  earlier  page. ‖ Here  I  merely  cast  a
+441 327 135 17 for firing  “for  nothing”  – ‖ i.e ‖ .,  these  form  part  of  their  wages,  paid  in  kind.  Those  who  are  not
+443 136 135 18 (the end of March, 1867) continues in this and other London industries. ‖ To show the
+443 178 135 18 correspondent of the ‖ Morning Star, ‖ who, at the end of 1866, and beginning of 1867,
+444 582 186 17 black flags ‖ en masse, ‖ the human torrent was imposing enough. Let us remember
+444 749 186 17 charges to the verge of pauperism.” – ( ‖ Standard, ‖ 5th April, 1867.)
+445 152 135 17 tobacco,”  and  on  Sundays  “go  to  the ‖ cabaret ‖ ,”  for  which  a  whole  86  centimes  a  week  are
+445 293 186 17 resources. But in ascribing wages to the mother of the family we ‖ raise the
+445 311 186 17 question of the direction of the household. ‖ How will its internal economy be cared
+445 456 137 17 mother ‖ 300 working days at fr. 0.89 fr. 267
+445 489 137 17 boy ‖ 300 working days at fr. 0.56 fr. 168
+445 522 137 17 girl ‖ 300 working days at fr. 0.55 fr. 165
+445 656 137 17 The soldier ‖ fr. 1,473 Deficit fr. 405
+445 681 137 17 The prisoner ‖ fr. 1,112 Deficit fr. 44
+447 402 135 17 made good by the parish, £18 6s. 4d. ‖ In 1795 the deficit was less than 1/4 the wage, in 1814,
+447 440 135 17 still found in the cottage of the agricultural labourer, had vanished by 1814. ‖ Of all the animals
+447 459 135 17 kept by the farmer, the labourer, the ‖ instrumentum vocale ‖ , was, thenceforth, the most oppressed,
+447 521 186 17 “the Swing riots, in 1830, revealed to us ( ‖ i.e ‖ ., the ruling classes) by the light of
+447 899 135 17 revelations of the ‖ Morning Chronicle ‖ on the condition of the agricultural labourers. This journal,
+448 163 137 17 (a) ‖ Children. ‖ 2 ‖ 3 ‖ 2 ‖ 2 ‖ 6 ‖ 3
+448 188 137 17 (b) ‖ Number of ‖ 4 ‖ 5 ‖ 4 ‖ 4 ‖ 8 ‖ 5
+448 231 137 17 (c) ‖ Weekly Wage of ‖ 8s. ‖ 8s. ‖ 8s. ‖ 8s. ‖ 7s. ‖ 7s. 0d.
+448 250 137 17 the Men. ‖ 0d. ‖ 0d. ‖ 0d. ‖ 0d. ‖ 0d.
+448 274 137 17 (d) ‖ Weekly Wage of ‖ – ‖ – ‖ – ‖ – ‖ 1/-, ‖ 1/-, 2/-
+448 293 137 17 the Children. ‖ 1/6
+448 317 137 17 (e) ‖ Weekly Income of ‖ 8s. ‖ 8s. ‖ 8s. ‖ 8s. ‖ 10s. ‖ 7s. 0d.
+448 336 137 17 the whole Family. ‖ 0d. ‖ 0d. ‖ 0d. ‖ 0d. ‖ 6d.
+448 360 137 17 (f) ‖ Weekly Rent. ‖ 2s. ‖ 1s. ‖ 1s. ‖ 1s. ‖ 2s. ‖ 1s. 4d.
+448 379 287 17 0d. ‖ 6d. ‖ 0d. ‖ 0d. ‖ 0d.
+448 404 137 17 (g) ‖ Total Weekly ‖ 6s. ‖ 6s. ‖ 7s. ‖ 7s. ‖ 8s. ‖ 5s. 8d.
+448 423 137 17 wage after deduction ‖ 0d. ‖ 6d. ‖ 0d. ‖ 0d. ‖ 6d.
+448 466 137 17 (h) ‖ Weekly income ‖ 1s. ‖ 1s. ‖ 1s. ‖ 1s. ‖ 1s. 0 ‖ 1s.
+448 485 137 17 per head. ‖ 6d. ‖ 3½d. ‖ 9d. ‖ 9d. ‖ 3/4d. ‖ 1½d.
+448 538 137 17 (a) ‖ Children. ‖ 6 ‖ 6 ‖ 8 ‖ 4 ‖ 3
+448 563 137 17 (b) ‖ Number of Members in ‖ 8 ‖ 8 ‖ 10 ‖ 6 ‖ 5
+448 606 137 17 (c) ‖ Weekly Wage of the ‖ 7s. ‖ 7s. ‖ 7s. ‖ 7s. ‖ 7s. 0d.
+448 625 137 17 Men. ‖ 0d. ‖ 0d. ‖ 0d. ‖ 0d.
+448 649 137 17 (d) ‖ Weekly Wage of the ‖ 1/-, ‖ 1/-, ‖ – ‖ – ‖ –
+448 668 137 17 Children. ‖ 1/6 ‖ 1/6
+448 692 137 17 (e) ‖ Weekly Income of the ‖ 10s. ‖ 7s. ‖ 7s. ‖ 7s. ‖ 7s. 0d.
+448 711 137 17 whole Family. ‖ 0d. ‖ 0d. ‖ 0d. ‖ 0d.
+448 736 137 17 (f) ‖ Weekly Rent. ‖ 1s. ‖ 1s. ‖ 1s. ‖ 1s. ‖ 1s. 6½d.
+448 755 328 17 6d. ‖ 3½d. ‖ 3½d. ‖ 6½d.
+448 779 137 17 (g) ‖ Total Weekly wage ‖ 8s. ‖ 5s. ‖ 5s. ‖ 5s. ‖ 5s. 5½d.
+448 798 137 17 after deduction of Rent. ‖ 6d. ‖ 8½d. ‖ 8½d. ‖ 5½d.
+448 822 137 17 (h) ‖ Weekly income per ‖ 1s.  0 ‖ 0s. ‖ 0s. ‖ 0s. ‖ 1s. 1d.
+448 841 137 17 head. ‖ 3/4d. ‖ 8½d. ‖ 7d. ‖ 11d.
+449 163 137 17 (a) ‖ Children. ‖ 4 ‖ 3 ‖ 0
+449 188 137 17 (b) ‖ Number of Members in
+449 197 417 17 6 ‖ 5 ‖ 2
+449 231 137 17 (c) ‖ Weekly Wage of the Men. ‖ 7s. 0d.  7s. 0d. ‖ 5s. 0d.
+449 255 137 17 (d) ‖ Weekly Wage of the Children. ‖ - ‖ 1/- 2/- ‖ 1/- 2/6
+449 279 137 17 (e) ‖ Weekly Income of the whole ‖ 11s.
+449 289 382 17 7s. 0d. ‖ 5s. 0d.
+449 298 137 17 Family. ‖ 6d.
+449 332 137 17 (f) ‖ Weekly Rent. ‖ 1s. 0d. ‖ 1s. 0d.
+449 366 137 17 (g) ‖ Total Weekly wage after ‖ 10s.
+449 375 382 17 6s. 0d. ‖ 4s. 0d.
+449 385 137 17 deduction of Rent. ‖ 8d.
+449 418 137 17 (h) ‖ Weekly income per head. ‖ 1s. 0d. ‖ 2s. 0d.
+449 454 135 17 The repeal of the Corn Laws gave a marvellous impulse to English agriculture. ‖ Drainage on the
+449 606 135 17 of  farms,  were  essential  conditions  of  the  new  method. ‖ At  the  same  time,  the  area  under
+449 701 135 17 of all ages are concerned, their number fell from 1,241,396, in 1851, to 1,163, 217 in 1861. ‖ If
+449 881 135 17 farmers.  If  we  take  this,  together  with  the  swift,  unbroken  extension  of  the  markets, ‖ viz ‖ .,  the
+449 900 135 17 towns, and the reign of Free Trade, then the agricultural labourer was at last, ‖ post tot discrimina
+449 919 135 17 rerum, ‖ placed  in  circumstances  that  ought, ‖ secundum  artem, ‖ to  have  made  him  drunk  with
+450 133 135 17 extent, that “the peasant has again become a serf,” and a serf worse fed and worse clothed. ‖ Dr.
+450 235 186 17 from him. He is a zero in farming calculations ... ‖ The means [of subsistence]
+450 255 186 17 being always supposed to be a fixed quantity. ‖ As to any further reduction of his
+450 273 186 17 income, he may say, ‖ nihil habeo nihil curo. ‖ He has no fears for the future, because
+450 469 186 17 the two other classes,” ‖ whilst “the amount of labour required from an ordinary
+450 706 186 17 approaching to the dietary of free labourers? ...” ‖ “He [the agricultural labourer]
+451 163 137 17 Quantity  Of ‖ Quantity Of
+451 163 378 17 Quantity Of ‖ TOTAL
+451 182 292 17 Nitrogenous ‖ Mineral
+451 201 292 17 Ingredients ‖ genous  In-
+451 244 137 17 Ounces ‖ Ounces ‖ Ounces ‖ Ounces
+451 269 137 17 Portland (convict) ‖ 28.95 ‖ 150.06 ‖ 4.68 ‖ 183.69
+451 293 137 17 Sailor in the Navy ‖ 29.63 ‖ 152.91 ‖ 4.52 ‖ 187.06
+451 317 137 17 Soldier ‖ 25.55 ‖ 114.49 ‖ 3.94 ‖ 143.98
+451 342 137 17 Working Coachmaker  24.53 ‖ 162.06 ‖ 4.23 ‖ 190.82
+451 366 137 17 Compositor ‖ 21.24 ‖ 100.83 ‖ 3.12 ‖ 125.19
+451 390 137 17 Agricultural labourer ‖ 17.73 ‖ 118.06 ‖ 3.29 ‖ 139.08
+451 845 208 17 Carbon, ‖ Nitrogen,
+451 864 208 17 grains ‖ grains
+451 888 137 17 England ‖ 46,673 ‖ 1,594
+451 912 137 17 Wales ‖ 48,354 ‖ 2,031
+451 937 137 17 Scotland ‖ 48,980 ‖ 2,348
+451 961 137 17 Ireland ‖ 43,366 ‖ 2,434
+452 478 186 17 settlement and chargeability. ‖ Under this influence, each parish has a pecuniary
+452 630 186 17 rates .... Large proprietors ‖ ... have but to resolve that there shall be no
+452 1009 186 17 servants who receive the good treatment usual to their class. ‖ But the land
+453 573 186 17 of England. ‖ .... Nor on the other hand must it be supposed that even when the
+453 686 186 17 possible bargain for rent. ‖ It may be but a ruinous one-bedroomed hut, having no
+454 307 186 17 almost of necessity must suffer. ‖ Thus, for instance, in the appendix of my last
+454 643 135 17 Wrestlingworth. ‖ Bedrooms about 12 feet long and 10 broad, although many are smaller than this.
+454 856 135 17 Dunton. ‖ High rents, from £4 to £5; weekly wages of the man, 10s. They hope to pay the rent by
+455 160 135 17 Beenham. ‖ In  June,  1864,  a  man,  his  wife  and  4  children  lived  in  a  cot  (one-storied  cottage).  A
+455 415 135 17 Bradenham ‖ comprises 1,000 acres; it numbered, in 1851, 36 houses and a population of 84 males
+455 496 135 17 Winslow. ‖ Great  part of this  newly  built in  good style;  demand  for  houses  appears  very  marked,
+455 538 135 17 Water Eaton. ‖ Here the landlords, in view of the increasing population, have destroyed about 20
+455 615 135 17 Tinker’s End, ‖ near Winslow. A bedroom in which were 4 adults and 4 children; 11 feet long, 9
+455 817 135 17 Gamblingay ‖ belongs to several landlords. It contains the wretchedest cots to be found anywhere.
+456 344 135 17 Hartford ‖ had,  in  1851,  87  houses;  shortly  after  this,  19  cottages  were  destroyed  in  this  small
+456 615 135 17 Langtoft. ‖ A  man  lives  here,  in  Wright’s  house,  with  his  wife,  her  mother,  and  5  children;  the
+456 821 219 17 No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No. ‖ No.
+456 840 225 17 1. ‖ 2. ‖ 3. ‖ 4. ‖ 5. ‖ 6. ‖ 7. ‖ 8. ‖ 9. ‖ 10. ‖ 11. ‖ 12.
+456 864 137 17 Bedrooms.  1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1 ‖ 1
+456 888 137 17 Adults. ‖ 3 ‖ 4 ‖ 4 ‖ 5 ‖ 2 ‖ 5 ‖ 3 ‖ 3 ‖ 2 ‖ 2 ‖ 3 ‖ 2
+456 913 137 17 Children. ‖ 5 ‖ 3 ‖ 4 ‖ 4 ‖ 2 ‖ 3 ‖ 3 ‖ 2 ‖ 0 ‖ 3 ‖ 3 ‖ 4
+456 946 227 17 8 ‖ 7 ‖ 8 ‖ 9 ‖ 4 ‖ 8 ‖ 6 ‖ 5 ‖ 2 ‖ .5 ‖ 6 ‖ 6
+456 1006 135 17 Kennington, ‖ very  seriously  over-populated  in  1859,  when  diphtheria  appeared,  and  the  parish
+457 201 137 17 Kitchen: ‖ 9 ft. 5  by  8 ft. 11  by  6 ft. 6
+457 225 137 17 Scullery: ‖ 8 ft. 6  by  4 ft.  6  by  6 ft. 6
+457 323 135 17 Brinworth, Pickford and Floore: ‖ in these villages in the winter 20-30 men were lounging about
+457 546 135 17 Stratton. ‖ 31 houses visited, 8 with only one bedroom. Pentill, in the same parish: a cot let at Is.
+457 673 135 17 Badsey. ‖ Many cots and little gardens here. Some of the farmers declare that the cots are “a great
+458 193 135 17 of resistance, and makes them more slaves of the landed proprietors and the farmers. ‖ Thus the
+458 326 135 17 exceptional  or  temporary  needs  of  the  cultivation  of  the  soil. ‖ Hence  we  find  in  the  official
+458 970 135 17 enterprise  and ‖ savoir-faire ‖ .  He  is  the  recruiting-sergeant  for  the  gang,  which  works  under  him,
+458 1008 135 17 on the average is not very much above that of an ordinary agricultural labourer, ‖ depends almost
+459 539 135 17 villages  which  supply  the contingent  of  the  gang,  become  Sodoms  and  Gomorrahs, ‖ and  have
+459 719 135 17 The gang-system, which during the last years has steadily increased, ‖ clearly does not exist for
+459 738 135 17 the sake of the gang-master. It exists for the enrichment of the large farmers, ‖ and indirectly of
+459 757 135 17 the landlords. ‖ For the farmer there is no more ingenious method of keeping his labourers well
+459 795 135 17 extracting the greatest possible amount of labour with the least possible amount of money ‖ and
+459 871 135 17 on account of the want of adult male labour and its migration to the towns. ‖ The cleanly weeded
+460 155 135 17 people. ‖ Its  total  emigration  from  May,  1851,  to  July,  1865,  numbered  1,591,487:  the
+460 231 135 17 farms fell 120,000, a fall, therefore, solely due to the suppression of farms under 15 acres – ‖ i.e ‖ ., to
+460 321 173 15 Horses ‖ Cattle ‖ Sheep ‖ Pigs
+460 341 137 15 Year ‖ Total ‖ Total ‖ Total ‖ Total
+460 352 229 15 Decrease ‖ Decrease ‖ Increase ‖ Decrease ‖ Increase ‖ Decrease ‖ Increase
+460 361 173 15 Number ‖ Number ‖ Number ‖ Number
+460 384 137 15 1860 ‖ 619,811 ‖ – ‖ 3,606,374 ‖ – ‖ – ‖ 3,542,080 ‖ – ‖ – ‖ 1,271,072 ‖ – ‖ –
+460 406 137 15 1861 ‖ 614,232 ‖ 5,579 ‖ 3,471,688 ‖ 134,686 ‖ 3,556,050 ‖ 13,970 ‖ 1,102,042 ‖ 169,030 ‖ –
+460 405 167 15 – ‖ –
+460 429 137 15 1862 ‖ 602,894 ‖ 11,338 ‖ 3,254,890 ‖ 216,798 ‖ – ‖ 3,456,132 ‖ 99,918 ‖ – ‖ 1,154,324 ‖ – ‖ 52,282
+460 451 137 15 1863 ‖ 579,978 ‖ 22,916 ‖ 3,144,231 ‖ 110,659 ‖ 3,308,204 ‖ 147,982 ‖ 1,067,458 ‖ 86,866 ‖ –
+460 450 167 15 – ‖ –
+460 474 137 15 1864 ‖ 562,158 ‖ 17,820 ‖ 3,262,294 ‖ – ‖ 118,063 ‖ 3,366,941 ‖ – ‖ 58,737 ‖ 1,058,480 ‖ 8,978 ‖ –
+460 496 137 15 1865 ‖ 547,867 ‖ 14,291 ‖ 3,493,414 ‖ 231,120 ‖ 3,688,742 ‖ 321,801 ‖ 1,299,893 ‖ 241,413
+460 495 167 15 – ‖ – ‖ –
+460 605 137 17 Horses ‖ Cattle ‖ Sheep ‖ Pigs
+460 653 137 17 71,944 ‖ 112,960 ‖ 146,662 ‖ 28,8211
+460 796 211 15 Cereal ‖ Green ‖ Grass and
+460 805 576 15 Flax ‖ Cultivated
+460 814 212 15 Crops ‖ Crops ‖ Clover
+460 822 137 15 Year ‖ Land
+460 845 203 15 Decrease ‖ Decrease ‖ Increase ‖ Decrease ‖ Increase ‖ Decrease ‖ Increase ‖ Decrease ‖ Increase
+460 862 208 15 (Acres) ‖ (Acres) ‖ (Acres) ‖ (Acres) ‖ (Acres) ‖ (Acres) ‖ (Acres) ‖ (Acres) ‖ (Acres)
+460 884 137 15 1861 ‖ 15,701 ‖ 36,974 ‖ 47,969 ‖ 19,271 ‖ 81,373 ‖ –
+460 883 167 15 – ‖ – ‖ –
+460 906 137 15 1862 ‖ 72,734 ‖ 74,785 ‖ 6,623 ‖ 2,055 ‖ 138,841 ‖ –
+460 905 167 15 – ‖ – ‖ –
+460 928 137 15 1863 ‖ 144,719 ‖ 19,358 ‖ 7,724 ‖ 63,922 ‖ 92,431 ‖ –
+460 927 167 15 – ‖ – ‖ –
+460 951 137 15 1864 ‖ 122,437 ‖ 2,317 ‖ – ‖ – ‖ 47,486 ‖ – ‖ 87,761 ‖ – ‖ 10,493
+460 973 137 15 1865 ‖ 72,450 ‖ 25,241 ‖ 68,970 ‖ 50,159 ‖ 28,398 ‖ –
+460 972 167 15 – ‖ – ‖ –
+460 995 137 15 1861-65 ‖ 428,041 ‖ 108,193 ‖ 82,834 ‖ 122,8501 ‖ 330,350 ‖ –
+460 994 187 15 – ‖ – ‖ –
+461 293 135 17 exception  of  those  of  farmers),  includes  also  the  so-called,  “professional”  profits  – ‖ i.e ‖ .,  the
+461 418 137 15 Product ‖ Acres of ‖ Product ‖ Total Product
+461 436 264 15 Cultivated Land ‖ per Acre
+461 492 344 15 Increase or ‖ Decrease, ‖ Increase or
+461 510 216 15 1864 ‖ 1865 ‖ Decrease, 1865 ‖ 1864 ‖ 1865 ‖ 1865 ‖ 1864 ‖ 1865 ‖ Decrease, 1865
+461 532 137 15 Wheat ‖ 276,483 ‖ 266,989 ‖ 9,494 ‖ cwt., ‖ 13.0 ‖ 0.3 ‖ 875,782 ‖ 826,783 ‖ 48,999
+461 531 176 15 – ‖ – ‖ –
+461 549 429 15 13.3 ‖ Qrs. ‖ Qrs. ‖ Qrs.
+461 571 137 15 Oats ‖ 1,814,886 ‖ 1,745,228 ‖ 69,658 ‖ cwt., ‖ 12.3 ‖ 0.2 ‖ 7,826,332 ‖ 7,659,727 ‖ 166,605
+461 570 165 15 – ‖ – ‖ –
+461 588 429 15 12.1 ‖ Qrs. ‖ Qrs. ‖ Qrs.
+461 611 137 15 Barley ‖ 172,700 ‖ 177,102 ‖ 4,402 ‖ – ‖ cwt., ‖ 14.9 ‖ – ‖ 1.0 ‖ 761,909 ‖ 732,017 ‖ – ‖ 29,892
+461 628 429 15 15.9 ‖ Qrs. ‖ Qrs. ‖ Qrs.
+461 650 137 15 Bere ‖ 8,894 ‖ 10,091 ‖ 1,197 ‖ cwt., ‖ 14.8 ‖ 1.6 ‖ 15,160 ‖ 13,989 ‖ 1,171
+461 649 166 15 – ‖ – ‖ –
+461 667 429 15 16.4 ‖ Qrs. ‖ Qrs. ‖ Qrs.
+461 689 137 15 Rye ‖ cwt., ‖ 10.4 ‖ 1.9 ‖ 12,680 ‖ 18,314 ‖ 5,684 ‖ –
+461 707 429 15 8.5 ‖ Qrs. ‖ Qrs. ‖ Qrs.
+461 729 137 15 Potatoes ‖ 1,039,724 ‖ 1,066,260 ‖ 26,536 ‖ tons, ‖ 3.6 ‖ 0.5 ‖ 4,312,388 ‖ 3,865,990 ‖ 446,398
+461 728 188 15 – ‖ – ‖ –
+461 746 429 15 4.1 ‖ ts. ‖ ts. ‖ ts.
+461 768 137 15 Turnips ‖ 337,355 ‖ 334,212 ‖ 3,143 ‖ tons, ‖ 9.9 ‖ 0.4 ‖ 3,467,659 ‖ 3,301,683 ‖ 165,976
+461 767 184 15 – ‖ – ‖ –
+461 786 429 15 10.3 ‖ ts. ‖ ts. ‖ ts.
+461 808 137 15 Mangold- ‖ 14,389 ‖ 316 ‖ tons, ‖ 13.3 ‖ 2.8 ‖ 147,284 ‖ 191,937 ‖ 44,653 ‖ –
+461 808 201 15 14,073 ‖ – ‖ –
+461 825 137 15 wurzel ‖ 10.5 ‖ ts. ‖ ts. ‖ ts.
+461 847 137 15 Cabbages ‖ 31,821 ‖ 33,622 ‖ 1,801 ‖ tons, ‖ 10.4 ‖ 1.1 ‖ 297,375 ‖ 350,252 ‖ 52,877 ‖ –
+461 846 196 15 – ‖ –
+461 865 429 15 9.3 ‖ ts. ‖ ts. ‖ ts.
+461 887 137 15 Flax ‖ 301,693 ‖ 251,433 ‖ 50,260 ‖ st.  (14 ‖ 25.2 ‖ 9.0 ‖ 64,506 st. ‖ 39,561 st. ‖ 24,945
+461 886 164 15 – ‖ – ‖ –
+461 904 429 15 lb.) ‖ st.
+461 943 137 15 Hay ‖ 1,609,569 ‖ 1,678,493 ‖ 68,9241 ‖ tons, ‖ 1.8 ‖ 0.2 ‖ 2,607,153 ‖ 3,068,707 ‖ 461,554 ‖ –
+461 942 162 15 – ‖ –
+461 961 429 15 1.6 ‖ ts. ‖ ts. ‖ ts.
+462 206 137 17 1860 ‖ 1861 ‖ 1862 ‖ 1863 ‖ 1864 ‖ 1865
+462 335 137 17 Industrial, ‖ 4,891,652  4,836,203  4,858,800  4,846,497  4,546,147  4,850,199
+462 559 329 17 1864 ‖ 1865
+462 578 342 17 £ ‖ £
+462 602 137 17 Total yearly ‖ 4,368,610 divided ‖ 4,669,979 divided
+462 621 137 17 income of ‖ among 17,467 persons. ‖ among 18,081 persons.
+462 654 269 17 238,726 divided ‖ 222,575 divided
+462 673 269 17 among 5,015 persons. ‖ among 4,703 persons.
+462 707 137 17 Of the yearly ‖ 1,979,066 divided ‖ 2,028,571 divided
+462 726 137 17 total income ‖ among 11,321 persons. ‖ among 12,184 persons.
+462 750 137 17 Remainder of the ‖ 2,150,818 divided ‖ 2,418,833 divided
+462 769 137 17 total yearly income ‖ among 1,131 persons. ‖ among 1,194 persons.
+462 815 269 17 1,073,906 divided ‖ 1,097,927 divided
+462 834 269 17 among 1,010 persons. ‖ among 1,044 persons.
+462 858 269 17 1,076,912 divided ‖ 1,320,906 divided
+462 877 269 17 among 121 persons. ‖ among 150 persons.
+462 899 137 17 Of these ‖ 430,535 divided ‖ 584,458 divided
+462 920 269 17 among 95 persons. ‖ among 2 persons.
+462 944 269 17 646,377divided ‖ 736,448 divided
+462 962 269 17 among 26 ‖ among 28
+462 986 269 17 262,819 divided ‖ 274,528 divided
+462 1005 269 17 among 3 ‖ among 3
+463 235 135 17 diminished the produce of the soil, ‖ and, in spite of the greater area devoted to cattle breeding,
+463 880 135 17 still  constantly  increasing,  did  not,  as, ‖ e.g., ‖ the  Thirty  Years’  War,  decimate,  along  with  the
+464 345 135 17 than 100 acres – still make up about 8/10ths of the whole number. ‖ They are one after the other,
+464 691 135 17 Reports of the Irish Poor Law Inspectors (1870). ‖ Officials of a government which is maintained
+464 893 137 17 Year ended ‖ Provisions and
+464 937 137 17 29th Sept., 1849. 1s. 3 1/4d. ‖ 3d. ‖ 1s. 6 1/4d.
+464 961 137 17 29th Sept., 1869. 2s. 7 1/4d. ‖ 6d. ‖ 3s. 1 1/4d.
+465 970 186 17 surplus labour of the rural division;” ‖ and then people still wonder “there is still
+465 1012 186 17 scarcity in some of the country divisions.” ‖ The truth is that this want only
+466 152 186 17 many hands are idle;” ‖ that “from the digging out of the main crop of potatoes in
+466 235 135 17 These results of the agricultural revolution – i.e. ‖ , ‖ the change of arable into pasture land, the use of
+467 468 135 17 beginning  of  1867,  one  of  the  Irish  land  magnates,  Lord  Dufferin,  set  about  its  solution  in ‖ The
+467 487 135 17 Times. ‖ “Wie menschlich von solch grossem Herrn!”
+468 163 137 17 No. ‖ Acres
+468 197 391 17 48,653 ‖ 25,394
+468 240 391 17 82,037 ‖ 288,916
+468 284 383 17 176,368 ‖ 1,836,310
+468 327 383 17 136,578 ‖ 3,051,343
+468 370 391 17 71,961 ‖ 2,906,274
+468 413 391 17 54,247 ‖ 3,983,880
+468 456 391 17 31,927 ‖ 8,227,807
+468 490 148 17 (8) TOTAL AREA. ‖ – ‖ 26,319,924
+469 363 135 16 “and  to  riches  and  strength  for  the  state”  ( ‖ viz ‖ .,  for  the  landlords,  capitalists,  and  their  political
+470 568 135 16 virtuous,’  the ‖ character ‖ and ‖ conduct ‖ of  one,  who  seems  to  have  been  possessed  with  an  incurable
+470 590 135 16 antipathy to all that is called ‖ Religion; ‖ and who strained every nerve to explode, suppress and extirpate
+470 680 135 16 I think you will not succeed this time. You would persuade us, by the example of ‖ David Hume, Esq.,
+470 716 135 16 may smile over ‖ Babylon ‖ in ruins and congratulate the hardened ‖ Pharaoh ‖ on his overthrow in the Red
+470 920 135 16 the possibility of the employer realising a ‖ profit ‖ on the produce of their industry. If the rate of wages is
+471 331 135 16 Note in the 4th German edition. ‖ — The latest English and American “trusts” are already striving to
+471 368 135 16 into one great joint-stock company with a practical monopoly. ‖ F. E.
+471 390 135 16 Note in the 3rd German edition. ‖ — In Marx’s copy there is here the marginal note: “Here note for
+471 761 135 16 Added in the 4th German edition. ‖ — The law of progressive diminution of the relative magnitude of
+472 830 135 16 Economist, ‖ Jan. 21. 1860.
+473 771 135 16 part  of  his  doctrine  from  Sir  James  Steuart,  whom  he  however  alters  in  the  borrowing. ‖ E.g ‖ .,  when
+473 807 135 16 workers] ... “Men were then forced to work” [ ‖ i.e ‖ .,to work gratis for others], “because they were slaves
+473 825 135 16 of others; men are now forced to work” [ ‖ i.e ‖ .,  to  work  gratis for  non-workers] “because they  are  the
+474 209 135 16 are  repeated  in  each  of  their  reports.  So ‖ e.g., ‖ “A  Joint-stock  company  returns  £6,000  as  assessable
+474 426 135 16 of  20,000  men  at  Preston. ‖ [Added  in  the  4th  German ‖ edition.  —  That  was  the  prelude  to  the  crisis
+474 445 135 16 which broke out immediately afterwards. — ‖ F. E.]
+474 490 135 16 Gladstone in the House of Commons, Feb. 13th, 1843. ‖ Times, ‖ Feb. 14th, 1843 — “It is one of the
+474 603 135 16 Gladstone in the House of Commons, April 16th, 1863. ‖ Morning Star, ‖ April 17th.
+474 1010 135 16 him  the  word  “workhouse”  is  still  occasionally  used  as  synonymous  with  “manufactory”; ‖ e.g ‖ .,  the
+475 331 135 16 “In no particular have the rights of ‖ persons ‖ been so avowedly and shamefully sacrificed to the rights
+475 349 135 16 of ‖ property ‖ as in regard to the lodging of the labouring class. Every large town may be looked upon as
+475 766 179 16 COLLECTING AGENTS LIST (BRADFORD) ‖ Houses ‖ Vulcan Street, No. 1221 Room16
+475 911 138 16 familiesSalt Pie Street (bottom)1 Room26 persons ‖ Cellars ‖ Regent Square1 cellar8 personsAcre Street1
+476 576 135 16 Spanish, Italian, and other foreign enterprises.” — ‖ January 20th, 1867.
+476 961 135 16 London ‖ Economist, ‖ May 29th, 1845, p. 290.
+477 368 135 16 and Bright, and therefore no ‖ laudator temporis acti ‖ .
+478 553 135 16 villages; ‖ e.g ‖ ., near Market Harboro is sheep-farm of about 500 acres, which only employs the labour
+479 191 135 16 by  it,  an  enhanced  rent  is  sometimes  preferred  in  these  cases  by  the  owner  ( ‖ i.e ‖ .,  the  farmer)  as  the
+480 517 135 16 differently from the rest of the civilised world, means the landlords’ and farmers’ question, ‖ viz ‖ ., how
+481 251 135 16 General Abstracts, Dublin,”  for  the  years  1860, ‖ et  seq., ‖ and  “Agricultural  Statistics,  Ireland.  Tables
+481 313 135 16 Note to 2nd edition ‖ . The official statistics for the year 1872 show, as compared with 1871, a decrease
+484 589 135 17 insipid childishness is every day preached to us in the defence of property. M. Thiers, ‖ e.g ‖ ., had
+484 627 135 17 spirituel ‖ . But as soon as the question of property crops up, it becomes a sacred duty to proclaim
+485 643 135 17 by which the Roman freedman once on a time made himself the master of his ‖ patronus ‖ .
+486 264 135 16 in.  The  labourers  of  the  towns  were  driven ‖ en  masse ‖ into  the  country,  and  gave  an  impulse,  never
+486 282 135 16 before seen, to the ‖ petite culture ‖ , carried on in the form of gardening.
+487 261 135 17 majority of the population ‖ consisted then, and to a still larger extent, in the 15th century, of free
+487 433 135 17 &c. ‖ In all countries of Europe, feudal production is characterised by division of the soil amongst
+487 492 135 17 latter depended on the number of peasant proprietors. ‖ Although, therefore, the English land, after
+488 255 135 17 impoverishing of the mass of the people) figure as the ‖ ultima Thule ‖ of all state-craft. In his history
+488 558 135 17 owned  to  2,000. ‖ The  cry  of  the  people  and  the  legislation  directed,  for  150  years  after  Henry
+488 669 135 17 keep the plough in the hands of the owners and not mere hirelings.” ‖ What the capitalist system
+489 155 135 17 favourites,  or  sold  at  a  nominal  price  to  speculating  farmers  and  citizens,  who  drove  out, ‖ en
+489 174 135 17 masse, ‖ the  hereditary  sub-tenants  and  threw  their  holdings  into  one.  The  legally  guaranteed
+489 193 135 17 property of the poorer folk in a part of the church’s tithes was tacitly confiscated. ‖ “Pauper ubique
+489 266 135 17 traditional usage] it has no preamble whatever.” ‖ By the 16th of Charles I., ch. 4, it was declared
+489 288 135 17 perpetual, and in fact only in 1834 did it take a new and harsher form. ‖ These immediate results
+489 444 135 17 mistresses.  About  1750,  the  yeomanry  had  disappeared, ‖ and  so  had,  in  the  last  decade  of  the
+489 619 135 17 passed  those  laws  of  settlement,  which, ‖ mutatis  mutandis ‖ ,  had  the  same  effect  on  the  English
+489 681 135 17 capitalist  appropriators  of  surplus-value. ‖ They  inaugurated  the  new  era  by  practising  on  a
+489 738 135 17 seizure. ‖ All this happened without the slightest observation of legal etiquette. The Crown lands
+489 795 135 17 of the English oligarchy. ‖ The bourgeois capitalists favoured the operation with the view, among
+489 871 135 17 newly-hatched ‖ haute  finance, ‖ and  of  the  large  manufacturers,  then  depending  on  protective
+490 193 135 17 use of their little independent methods as well. ‖ The parliamentary form of the robbery is that of
+490 307 135 17 that  a  parliamentary ‖ coup  d’état ‖ is  necessary  for  its  transformation  into  private  property),  and
+490 406 135 17 farms, that were called in the 18th century capital farms ‖ or merchant farms, ‖ and to “set free”
+490 544 135 17 average  50-150  acres,  have  been  melted  up  into  three  farms.” ‖ “In  Northamptonshire  and
+490 749 135 17 employed  and  supported  by  them.” ‖ It  was  not  only  the  land  that  lay  waste,  but  often  land
+490 882 135 17 towards  increasing  farms  already  too  large.” ‖ “When,”  says  Dr.  Price,  “this  land  gets  into  the
+491 171 135 17 operating in this kingdom.” ‖ He sums up the effect of the enclosures thus: “Upon the whole, the
+491 231 135 17 same time, their subsistence in that state has become more difficult.” ‖ In fact, usurpation of the
+492 250 135 17 as well claim to drive his subjects into the sea,” says Professor Newman. ‖ This revolution, which
+492 288 135 17 its first phases in the writings of Sir James Steuart ‖ and James Anderson. ‖ In the 18th century
+492 326 135 17 force to Glasgow and other manufacturing towns. ‖ As an example of the method ‖ obtaining in
+492 980 135 17 and to more grinding penury. Deer-forests ‖ and the people cannot co-exist. One or other of the
+493 841 135 16 Japan, with its purely feudal organisation of landed property and its developed ‖ petite culture ‖ , gives a
+495 571 135 16 F. E. ‖ ]
+495 594 135 16 Read, ‖ e.g. ‖ ,  E.  Burke’s  Pamphlet  on  the  ducal  house  of  Bedford,  whose  offshoot  was  Lord  John
+497 173 135 16 civil war, in which every “noble” English heart beat for the slave-owner — I gave in the ‖ New York
+497 191 135 16 Tribune ‖ the  facts  about  the  Sutherland  slaves.  (Epitomised  in  part  by  Carey  in  “The  Slave  Trade.”
+497 386 135 16 passim.  These letters originally appeared in ‖ The Times ‖ .  The English economists of course explained
+498 286 135 16 Note to the second edition. ‖ In April 1866, 18 years after the publication of the work of Robert Somers
+498 518 135 16 of a few persons for a very brief period of the year.” The London ‖ Economist ‖ of June 2, 1866,  says,
+499 348 135 17 discipline of their new condition. They were turned ‖ en masse ‖ into beggars, robbers, vagabonds,
+499 509 135 17 Henry VIII. 1530: ‖ Beggars old and unable to work receive a beggar’s licence. On the other hand,
+499 646 135 17 Edward VI.: ‖ A statute of the first year of his reign, 1547, ordains that if anyone refuses to work,
+499 950 135 17 arms or legs of his slave, by which to know him more easily and to be more certain of him. ‖ The
+500 136 135 17 Elizabeth,  1572: ‖ Unlicensed  beggars  above  14  years  of  age  are  to  be  severely  flogged  and
+500 235 135 17 James 1: ‖ Any one wandering about and begging is declared a rogue and a vagabond. Justices of
+501 155 135 17 advanced,  always  equally  hostile  to  him), ‖ is started in  England by  the  Statute of  Labourers, of
+501 294 186 17 “Formerly the poor demanded such ‖ high ‖ wages as to threaten industry and wealth.
+501 316 186 17 Next, their wages are so ‖ low ‖ as to threaten industry and wealth equally and
+501 331 186 17 perhaps more, but in another way.” ‖ A tariff of wages was fixed by law for town
+501 757 135 17 spinners, and all possible categories of workers. ‖ George II. extended the laws against coalitions
+501 776 135 17 of labourers to manufactures. In the manufacturing period ‖ par excellence ‖ , the capitalist mode of
+502 710 135 17 one year. ‖ This law which, by means of State compulsion, confined the struggle between capital
+502 763 135 17 Penal  Code.  Nothing  is  more  characteristic  than  the  pretext  for  this  bourgeois ‖ coup  d’état.
+505 380 135 17 himself  a  serf.  His  position  is  similar  to  that  of  the  old  Roman ‖ villicus ‖ ,  only  in  a  more  limited
+505 801 135 17 (being  calculated  on the old  value  of  money)  diminished  in  reality. ‖ Thus  they  grew  rich  at  the
+505 1032 135 16 name.  Its  author  is  William  Stafford.  In  one  place  the  knight  reasons  as  follows: ‖ Knight ‖ :  You,  my
+506 246 135 16 that ye thinke should have no losse thereby? ‖ Doctor ‖ : I mean all those that live by buying and selling,
+506 264 135 16 for as they buy deare, they sell thereafter. ‖ Knight ‖ : What is the next sort that ye say would win by it?
+506 282 135 16 Doctor ‖ : Marry, all such  as have takings of  fearmes  in their owne manurance [cultivation] at  the old
+506 318 135 16 good  cheape,  and  sell  all  things  growing  thereof  deare. ‖ Knight ‖ :  What  sorte  is  that  which,  ye  sayde
+506 336 135 16 should  have greater  losse hereby,  than  these  men  had profit? ‖ Doctor ‖ :  It  is  all  noblemen,  gentlemen,
+506 431 135 16 into  a  capitalist.  These  régisseurs  themselves  were  sometimes  noblemen. ‖ E.g. ‖ ,  “C'est  li  compte  que
+506 594 135 16 domain, ‖ e.g ‖ ., financiers, stock-exchange speculators, merchants, shopkeepers skim the cream; in civil
+506 703 135 16 During  the  14th  century  arose  the  farms  or ‖ terriers ‖ .  Their  number  grew  constantly,  far  beyond
+507 424 135 17 rarefaction at another. ‖ In spite of the smaller number of its cultivators, the soil brought forth as
+507 500 135 17 on  the  strain  more  intensely ‖ ,  but  the  field  of  production  on  which  they  worked  for  themselves
+507 614 135 17 agriculture. They  were  transformed  into  an  element of  constant  capital.  Suppose, ‖ e.g ‖ .,  a  part  of
+507 898 135 17 labour. ‖ One does not perceive, when looking at the large manufactories and the large farms, that
+507 1036 186 17 men work under a director and which are commonly called ‖ manufactures réunies ‖ .
+508 474 186 17 only free ones.” ‖ The expropriation and eviction of a part of the agricultural
+508 729 135 17 great market provided for by industrial capital. ‖ Thus, hand in hand with the expropriation of the
+508 995 135 17 phenomenon  which,  at  first,  puzzles  the  student  of  English  history. ‖ From  the  last  third  of  the
+509 250 135 17 agriculture  and  rural  domestic  industry,  whose  roots  –  spinning  and  weaving  –  it  tears  up. ‖ It
+509 991 135 16 Abel,  Where  are  our  thousands  of  freeholders  gone?  But  where  do ‖ you ‖ come  from,  then?  From  the
+510 241 135 17 The  genesis  of  the  industrial ‖ capitalist  did  not  proceed  in  such  a  gradual  way  as  that  of  the
+510 747 135 17 organisation. ‖ These fetters vanished with the dissolution of feudal society, with the expropriation
+511 501 186 17 “This one town of Macassar, ‖ e.g. ‖ , is full of secret prisons, one more horrible than
+512 686 135 17 The system of public credit, i.e. ‖ , ‖ of national debts, whose origin we discover in Genoa and Venice
+512 799 135 17 modern peoples is their national debt. ‖ Hence, as a necessary consequence, the modern doctrine
+512 818 135 17 that a nation becomes the richer the more deeply it is in debt. Public credit becomes the ‖ credo ‖ of
+513 482 135 17 e.g. ‖ , by Bolingbroke’s.
+514 293 135 17 export premiums. They also forcibly rooted out, in their dependent countries, all industry, as, ‖ e.g. ‖ ,
+514 932 186 17 of procuring ‖ apprentices ‖ from the different parish workhouses of London,
+515 474 186 17 Lancashire, that the beds ‖ ”
+515 539 135 17 cynically of every infamy that served them as a means to capitalistic accumulation. Read, ‖ e.g., ‖ the
+515 966 135 17 modern  society. ‖ If  money,  according  to  Augier, ‖ “comes  into  the  world  with  a  congenital
+518 241 135 17 What does the primitive accumulation of capital, ‖ i.e ‖ ., its historical genesis, resolve itself into? In
+518 279 135 17 a  mere  change  of  form,  it  only  means  the  expropriation  of  the  immediate  producers, ‖ i.e ‖ .,  the
+518 905 135 17 rests on exploitation of the nominally free labour of others, ‖ i.e ‖ ., on wage labour.
+519 539 135 17 i.e ‖ ., on co-operation and the possession in common of the land and of the means of production.
+520 702 135 17 have  discovered,  not  anything  new  about  the  Colonies ‖ ,  but  to  have  discovered  in  the  Colonies
+520 740 135 17 protection at its origin ‖ attempted to manufacture capitalists artificially in the mother-country, so
+520 896 135 17 established by the instrumentality of things. ‖ Mr. Peel, he moans, took with him from England to
+520 969 135 17 make his bed or fetch him water from the river.” ‖ Unhappy Mr. Peel who provided for everything
+521 330 135 17 owning  land  prevents  the  existence  of  a  class  of  labourers  for  hire.” ‖ So  long,  therefore,  as  the
+521 498 135 17 owners of labour.... The division was the result of concert and combination.” ‖ In  one  word: the
+521 650 135 17 people.” ‖ Nay, the impulse to self-expropriation on the part of labouring humanity for the glory of
+521 691 135 17 Colonial wealth. His systematic colonisation is a mere ‖ pis aller ‖ , since he unfortunately has to do
+521 923 135 17 same operation. ‖ This is the secret both of the prosperity of the colonies and of their inveterate
+522 269 135 17 secondary pursuit of a blacksmith, a miller or a shopkeeper.” ‖ With such queer people as these,
+522 782 135 17 always not only small but uncertain.” ‖ “Though the produce divided between  the capitalist and
+522 820 135 17 even  those  whose  lives  are  unusually  long,  can  accumulate  great  masses  of  wealth.” ‖ The
+523 152 135 17 colonies?  A  “barbarising  tendency  of  dispersion”  of  producers  and  national  wealth. ‖ The
+523 558 135 17 farm-horses  in  England,  being  a  valuable  property,  are  better fed  than  English  peasants.” ‖ But,
+523 695 135 17 land, and turn himself into an independent peasant. ‖ The fund resulting from the sale of land at a
+523 806 135 17 colonisation.” By this plan, Wakefield cries in triumph, “the supply of labour ‖ must ‖ be  constant
+523 904 135 17 bringing fresh labour to the colony.” ‖ The price of the soil imposed by the State must, of course,
+523 920 135 17 be  a  “sufficient  price”  – ‖ i.e ‖ .,  so  high  “as  to  prevent  the  labourers  from  becoming  independent
+523 939 135 17 landowners until others had followed to take their place.” ‖ This “sufficient price for the land” is
+523 1018 135 17 own  expense,  a ‖ locum  tenens ‖ [placeholder]  on  the  labour  market,  whom  the  Government
+524 459 135 17 especially in Australia ‖ , in conjunction with the stream of men that the gold diggings attract, and
+524 971 135 16 N. Rh. Z ‖ ., No.266, April 7, 1849.)

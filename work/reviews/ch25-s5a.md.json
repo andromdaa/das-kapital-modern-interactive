@@ -1,0 +1,18 @@
+{
+ "file": "ch25-s5a.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch25-p100",
+   "kind": "drift",
+   "severity": "low",
+   "category": "tone",
+   "original": "the declamations of the ministerial journals in recommending dowries for the Royal children",
+   "rewrite": "the speeches of the pro-government newspapers recommending dowries for the Royal children",
+   "problem": "In footnote 41, \"speeches\" flattens Marx's sneer in \"declamations\" (bombastic oratory) and is odd for newspapers.",
+   "fix": "Replace \"the speeches of the pro-government newspapers\" with \"the high-flown articles of the pro-government newspapers\"."
+  }
+ ],
+ "notes_review": "The judgment calls are sound: figures that disagree between prose and table are left unreconciled, the one-reading typos are correctly fixed, the unclosed quotation mark in n. 42 is kept, and the Boileau translation now follows the French literally.",
+ "summary": "Fidelity is very high; all statistics, citations, Gladstone and Fawcett quotations and Marx's interjections are intact and correctly attributed. The prose is plain and the irony toward Gladstone (oily minister, Pindaric dithyramb) is kept, with only one flattened sneer in a footnote."
+}

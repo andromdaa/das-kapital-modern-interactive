@@ -1,0 +1,28 @@
+{
+ "file": "ch09-s3.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch09-p041",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "foisted a petition against the bill on to the shoulders of a few of their work-people",
+   "rewrite": "pushed a petition against the bill onto the shoulders of a few of their workers",
+   "problem": "In [^11], \"foisted\" says the employers imposed the petition deceitfully; \"pushed\" drops the deceit that the footnote's later account of tricks and falsifications depends on.",
+   "fix": "foisted a petition against the bill onto the shoulders of a few of their workers"
+  },
+  {
+   "id": "ch09-p041",
+   "kind": "drift",
+   "severity": "low",
+   "category": "tone",
+   "original": "the factory inspectors have never tired of twitting the masters with this “last,” this “fatal hour.”",
+   "rewrite": "the factory inspectors have never tired of teasing the employers about this “last,” this “fatal hour.”",
+   "problem": "In [^11], \"twitting\" means taunting or reproaching; \"teasing\" softens the inspectors' polemic into playfulness.",
+   "fix": "the factory inspectors have never tired of taunting the employers with this “last,” this “fatal hour.”"
+  }
+ ],
+ "notes_review": "The logged calls are sound: the hypothetical speech in p040–p041 stays clearly marked as what Senior should have said, the [^10] arithmetic oddity is kept as printed, and \"Hovell\" is conservatively kept (it is probably Howell, but not a one-reading fix). \"Apart from questions of principle\" for \"efforts in principle\" is a reasonable, logged interpretation of an opaque translation.",
+ "summary": "Fidelity is high: Senior's quotation, the petition and the factory report are near-verbatim, every figure survives, and the irony at Senior's expense is kept. Readability is good; only two word choices in [^11] weakened the employers' deceit and the inspectors' taunting."
+}

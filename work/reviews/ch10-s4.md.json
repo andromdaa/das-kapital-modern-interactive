@@ -1,0 +1,18 @@
+{
+ "file": "ch10-s4.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch10-p086",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "the girls and women work through the night together with the males",
+   "rewrite": "the girls and women work through the night together with the men",
+   "problem": "\"the males\" covers the boys who also work night sets in these trades; \"the men\" narrows it to adults.",
+   "fix": "the girls and women work through the night together with the male workers"
+  }
+ ],
+ "notes_review": "The logged calls are sound: \"relay system\" is rightly left to Marx's own definition, testimony and employers' evidence stay verbatim, and the [^71] split keeps the glass manufacturers' scruples attributed to them with \"they say\". \"set up\" for \"concocted\" (p099) is acceptable since the paragraph's irony is carried elsewhere.",
+ "summary": "Fidelity is very high: the employers' evidence is verbatim, Marx's interjections keep their sarcasm, and every figure and citation survives. Readability is good throughout, with one narrowed word in p086."
+}

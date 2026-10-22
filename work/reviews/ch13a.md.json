@@ -1,0 +1,18 @@
+{
+ "file": "ch13a.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch13-p004",
+   "kind": "drift",
+   "severity": "low",
+   "category": "structure",
+   "original": "On the one hand, the exchange-value of these means of production is not increased; for the exchange-value of a commodity is not raised by its use-value being consumed more thoroughly and to greater advantage.",
+   "rewrite": "On the one hand, the exchange-value of these means of production is not increased. (Exchange-value is the proportion in which one commodity trades for others, for example how many coats a quantity of linen trades for.) For the exchange-value of a commodity is not raised by its use-value being consumed more thoroughly and to greater advantage.",
+   "problem": "The added explanation is wedged between Marx's claim and its \"for\" reason, so the reason is cut off from the claim it supports.",
+   "fix": "Rejoin the claim and its reason (\"...is not increased, for the exchange-value of a commodity is not raised by...\") and put the exchange-value and use-value explanations together in one parenthesis after that sentence."
+  }
+ ],
+ "notes_review": "The logged calls are sound, especially leaving \"necessary labour-time\" in p003 and \"simple labor\" unexplained, since the §7 senses would misstate this passage, and letting Marx's own p006 definition of cooperation stand.",
+ "summary": "Fidelity is very high: Burke's and Roscher's mockery, all figures, and the foreign quotations with literal translations are intact. Readability is good, with one explanation placed so it interrupts an argument step in p004."
+}

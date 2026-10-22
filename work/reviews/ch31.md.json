@@ -1,0 +1,18 @@
+{
+ "file": "ch31.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch31-p026",
+   "kind": "drift",
+   "severity": "low",
+   "category": "concept explanation",
+   "original": "increase gigantically during the infancy of Modem Industry",
+   "rewrite": "grow to gigantic size during the infancy of modern industry",
+   "problem": "This is the first technical use of \"modern industry\" in the chapter (the typo \"Modem\" hid it from the context file), but the §7 explanation was not added.",
+   "fix": "grow to gigantic size during the infancy of modern industry (large-scale production based on machinery and the factory system)"
+  }
+ ],
+ "notes_review": "The logged calls are sound: the §4 renderings (\"Native Americans\", \"Black Africans\", \"enslaved Africans\"), the one-reading fixes \"Horner\"/\"Bullion\" and the stray full stop, and leaving the corrupt n13 and the Augier/Angier mismatch as printed are all well judged.",
+ "summary": "Fidelity is excellent: every figure, sum, date and quotation survives, and Marx's irony (\"Sweet commerce!\", \"idyllic proceedings\", \"abstain\", \"the worthy A. Anderson\") is intact. Readability is good, and long quotations are kept verbatim as §2 requires."
+}

@@ -1,0 +1,18 @@
+{
+ "file": "ch24-s1.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch24-p009",
+   "kind": "drift",
+   "severity": "low",
+   "category": "glossary",
+   "original": "the reproduction of capital on a progressively increasing scale",
+   "rewrite": "the reproduction of capital on a progressively increasing scale",
+   "problem": "Glossary §3.1 renders \"reproduction on a progressive / extended scale\" as \"reproduction on an extended scale\", which the same chapter uses in p029 and ch24-s3 p073.",
+   "fix": "Seen concretely, accumulation comes down to the reproduction of capital on an extended scale."
+  }
+ ],
+ "notes_review": "The logged calls are sound: keeping the probably wrong £2,000 gross-product figure and \"into money\" in p029 as printed, rendering \"aliquot part\" as \"fractional part\" to avoid an equal-shares claim, keeping the four \"insofar as\" conditions in one sentence, and leaving the commodity-producer's view in p030 untagged as Marx does are all correct.",
+ "summary": "Fidelity is high: the spinner arithmetic, the dialectical reversal of the laws of appropriation, the Sismondi interjections and the free indirect speech of p030 are all preserved. The many first-use §7 explanations make p002 heavy, but the text is otherwise plain and clear."
+}

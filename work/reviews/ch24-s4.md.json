@@ -1,0 +1,38 @@
+{
+ "file": "ch24-s4.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch24-p075",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "quotation",
+   "original": "the smallness of that aliquot part of any produce",
+   "rewrite": "the smallness of that aliquot part [equal fraction] of any produce",
+   "problem": "The gloss says the two parts are equal, but the worker's share and the remainder are not; the glossary was corrected to \"fractional part\" for this reason.",
+   "fix": "Change the bracket to \"aliquot part [fractional part]\"."
+  },
+  {
+   "id": "ch24-p095",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "added content",
+   "original": "the burden falls on the labourer, in the increased exploitation of whom the capitalist looks for his indemnification.",
+   "rewrite": "the burden falls on the worker, since the capitalist looks to the worker’s increased exploitation to make up his loss.",
+   "problem": "Marx's relative clause describes where the capitalist seeks compensation; \"since\" turns it into the reason the burden falls on the worker.",
+   "fix": "the burden falls on the worker, in whose increased exploitation the capitalist looks for compensation."
+  },
+  {
+   "id": "ch24-p096",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "added content",
+   "original": "Though the same quantity of labour adds always to its products only the same sum of new value, still the old capital value",
+   "rewrite": "So although the same quantity of labor always adds only the same sum of new value",
+   "problem": "\"So\" adds an inference from the previous sentence that Marx does not mark.",
+   "fix": "Delete \"So\": \"Although the same quantity of labor always adds only the same sum of new value ...\"."
+  }
+ ],
+ "notes_review": "Most logged calls are sound (Dogberry identification, \"minimum of wages\", literal retranslation of the Say brackets, unmatched marks kept). Note 12's gloss \"aliquot part [equal fraction]\" goes against the corrected glossary entry, and it is fixed here.",
+ "summary": "Fidelity is high: numbers, citations, attributions, French text and Marx's irony (Rumford, Say, MacCulloch) all survive, with only three small slips in a gloss and two added logical links. The prose is plain and readable, and the glossary and spelling are applied consistently."
+}

@@ -1,0 +1,17 @@
+You are applying cross-file consistency fixes to a plain-English rewrite of Marx's Capital Vol. 1 in /home/cole/Projects/das-kapital. You did not write it. Your files: **{FILES}**. Edit ONLY these files in rewrite/, and the matching notes/<file>-notes.md.
+
+1. Read style-bible.md, at least §0, §1, §2, §3 and §4. It is the law.
+2. Read work/notes_conflicts.md in full. It lists 24 cross-file conflicts, each with a **Resolution** and an **Edits** list.
+3. For every conflict, apply the resolution to your files:
+   - Apply the listed edits that fall in your files.
+   - Also search your files (grep rewrite/<file> and compare with original/<file>) for further instances the list may have missed, and apply the same resolution to them.
+   - Make targeted edits only. Change only the words the resolution concerns, and never re-rewrite paragraphs.
+4. Exceptions:
+   - Do NOT change ch24-p072 (conflict 1, ch24-s3). It awaits the user's decision; leave it as it is.
+   - Where a conflict's text says a note is stale, or the fix was already applied, check the current rewrite before editing.
+5. After editing, run `python3 scripts/check_pair.py <file>` for each of your files until it prints PASS.
+6. Append one line to each edited file's notes: "Phase 5 consistency fixes applied: conflicts #…, N edits." List the conflict numbers.
+
+Do not edit original/, style-bible.md, glossary.json, or any file not in your list.
+
+Reply with one line per file: the conflicts applied, the number of edits, and the final check_pair line. Then give a short list of any resolution you could not apply, and why.

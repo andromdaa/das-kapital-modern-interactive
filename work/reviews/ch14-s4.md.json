@@ -1,0 +1,38 @@
+{
+ "file": "ch14-s4.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch14-p034",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "ambiguity resolved",
+   "original": "an industry, which, previously, was carried on in connexion with others, either as a chief or as a subordinate industry, and by one producer",
+   "rewrite": "an industry that was previously carried on by one producer together with others, either as a chief or as a subordinate industry",
+   "problem": "'together with others' now reads as other producers, whereas Marx means the industry was carried on in connection with other industries by a single producer.",
+   "fix": "an industry that was previously carried on by one producer together with other industries, either as the chief or as a subordinate industry"
+  },
+  {
+   "id": "ch14-p035",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "the iron law of proportionality subjects definite numbers of workmen to definite functions",
+   "rewrite": "the iron law of proportionality assigns definite numbers of workers to definite functions",
+   "problem": "'assigns' drops the subjection Marx stresses and which the paragraph builds on ('complete subjection to capital').",
+   "fix": "the iron law of proportionality subjects definite numbers of workers to definite functions"
+  },
+  {
+   "id": "ch14-p037",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "are based on possession in common of the land",
+   "rewrite": "are based on owning the land in common",
+   "problem": "'possession' is not 'ownership'; the rewrite turns common possession into a property claim Marx does not make.",
+   "fix": "are based on holding the land in common"
+  }
+ ],
+ "notes_review": "The logged calls are sound: the 'on'/'ou' misprint is kept, 'Helots' is glossed inside the quotation, the 'On this view' tag keeps Smith's 'merely subjective' claim attributed, and the 'to some extent' hedge was correctly restored. Rewriting the editors' bracketed Skarbek translation with 'manufacturing establishments' is reasonable and explains the script warning.",
+ "summary": "Fidelity is good, with attributions, irony (the 'one immense factory' punchline) and the conditional structure of p036 preserved; three small wording slips were corrected. The text reads plainly and the first-use explanations are well placed."
+}

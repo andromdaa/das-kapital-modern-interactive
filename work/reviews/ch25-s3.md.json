@@ -1,0 +1,7 @@
+{
+ "file": "ch25-s3.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound: Marx defines relative surplus population and the industrial reserve army in p034 and p036, so the §7 wording is rightly left out; the former/latter cases in p044 are resolved correctly; and the open pronouns in p048 and p050 are kept as open as in the original.",
+ "summary": "The paragraphs and footnotes, including the census figures in n. 14 and the Barton/Ricardo/Jones/Ramsay chain in n. 15, match the original in content, strength and attribution. The rewrite reads plainly and keeps the irony (\"beautiful law\", \"beau ideal\", Sancho Panza) intact."
+}

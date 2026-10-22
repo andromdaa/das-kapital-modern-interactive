@@ -1,0 +1,25 @@
+# Notes: ch01-s3a.md
+
+Format: paragraph ID – the problem – what I decided – why.
+
+1. ch01-p037 – First technical use of "form of value" in Ch. 1 ("a value form"; the section heading comes earlier, but a heading is kept as printed). – Added the §7 wording in parentheses after "a form of value". – §7.0 first-use rule. Marx names the form here but does not define it yet, and the gloss matches what he develops later in the section.
+2. ch01-p039 – First appearance of "money form" ("I mean their money form"). – Added the §7 wording verbatim in parentheses. – §7.0. Marx points at the money form here but does not define it. Risk: the gloss mentions gold and "universal equivalent" before Marx gets to them (later in §3). I kept the bible's wording anyway because §7.0 says to use it verbatim and it does not contradict the text. Flag for reviewer.
+3. ch01-p043 – First prose use of "relative form / equivalent form". – No §7 explanation added. – Marx defines both terms himself in this very paragraph ("The linen expresses its value in the coat; the coat serves as the material in which that value is expressed…"), and the §7 wording almost repeats him. §7.0: "his own words are the definition".
+4. ch01-p038 – "Dame Quickly" and "where to have it". – Added a neutral identification, "(the hostess in Shakespeare's *Henry IV*)", and a bracketed gloss after the quoted phrase: “where to have it” [how to get hold of it]. Did not explain the joke (Falstaff's bawdy line). – §1.1(c), §2.5. Without knowing who she is, the reader cannot see that the phrase is a quotation. The gloss is the plain sense, which Marx confirms in the next sentence ("it seems impossible to grasp it").
+5. ch01-p057 – Romance verbs "valere," "valer," "valoir". – Kept them exactly, with one bracketed gloss: [each: to be worth]. "Wertsein, to be worth" kept as printed (the source already glosses it). The source's bracketed translation of *Paris vaut bien une messe* was rewritten as [Paris is well worth a mass]. – §2.3. Safest literal gloss; all three verbs mean "to be worth".
+6. ch01-p058 [^19] – "genus homo". – Kept the Latin, with [the human kind]. – §2.3. Literal ("the kind/genus man"); not "species", to avoid a modern biological term Marx does not use.
+7. ch01-p058 – *in propriâ personâ*. – Rendered "in person", following the §3.4 table. – Within the sentence it is an ordinary tag, not a quotation.
+8. ch01-p057 – "its buckram body". – Kept "buckram" and added "(its body of stiff cloth)". – Keeps the image (§1.3). "Buckram" is unreadable to most modern readers.
+9. ch01-p054 – "in mufti". – "in plain clothes". – Same meaning, plainer.
+10. ch01-p037, ch01-p055 – "depositories of value". – "containers of value". – Plain wording, same image.
+11. ch01-p051, ch01-p053 – "congelations of human labour". – "congealed amounts of human labor" / "congealed human labor". – Keeps Marx's "congealed" image, which recurs (p053, p061).
+12. ch01-p061 – "the same amount of labour of the same quantity of labour time" reads like a slip for "or", but "labour [consisting] of the same quantity of labour time" is also possible. – Not treated as a typo. Rendered "the same amount of labor, of the same quantity of labor-time", which allows both readings. – §1.4: more than one possible reading, so it stays as printed.
+13. ch01-p062, ch01-p063 – "rises and falls directly as / inversely as the value of". – "rises and falls directly with / inversely with the value of". – Keeps "directly" and "inversely" (the proportional claim), so nothing is weakened or strengthened.
+14. ch01-p062 – "say in consequence of the exhaustion of flax-growing soil". – Moved the cause after the main clause: "Say the labor-time … is doubled, as a result, perhaps, of the exhaustion…". – Both "say" and "perhaps" mark the cause as an example, as Marx's "say" does; the hypothetical ("Let…", "If…") stays marked.
+15. ch01-p047, ch01-p059 – Sub-heading lines printed as ordinary paragraphs, "(a.) The nature and import of this form", "(b.) Quantitative determination of Relative value". – Kept them as one-line paragraphs with their labels. Rendered "(b.)" as "How the quantity of relative value is determined" (§3.2: determination → determining/fixing). – They have ID lines, so they are paragraphs, not headings. Only plain-English wording changed.
+16. ch01-p041 – The formula paragraph, including the capital "Y" in "20 Yards", copied exactly. – §1.4 formulas.
+17. ch01-p039, ch01-p048 [^17] – "*bourgeois* economy" (the science) → "*bourgeois* economics", italics kept; "the practical bourgeois" (a person) kept. – Checkpoint decision 10 / §3.1.
+18. ch01-p060 – "corn" → "grain" ("15 bushels of grain"). – §3.3.
+19. Typo corrections (§1.4): none made. "Fichtian" → "Fichtean" in n. 19 is a spelling modernization in Marx's voice, not a typo fix.
+20. Whole unit – Length ratio 1.01. – Did not pad. Checked every paragraph against the original for lost or added content. – Marx's English here is fairly plain already, and much of it is formulas and quotations.
+Review fixes applied (0 findings) by group reviewer.

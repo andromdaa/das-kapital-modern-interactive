@@ -1,0 +1,18 @@
+{
+ "file": "ch11.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch11-p018",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "how this sophistication, peculiar to and characteristic of capitalist production, this complete inversion of the relation",
+   "rewrite": "how this falsification, peculiar to and characteristic of capitalist production, this complete inversion of the relation",
+   "problem": "\"Falsification\" implies a deliberate lie or forgery, whereas Marx means a real twisting or perversion of the relation (glossed by him as \"complete inversion\"), which the capitalists' minds then mirror.",
+   "fix": "Replace \"this falsification\" with \"this distortion\"."
+  }
+ ],
+ "notes_review": "The logged calls are sound: Colbert for \"Clobber\" has only one reading, value-product and constant capital are rightly left to Marx's own definitions, and the Carlile sentence keeps \"he imagines\"/\"he thinks\" so the claim stays his. Only the \"falsification\" choice (note 11) overshoots: it adds a sense of deliberate deceit.",
+ "summary": "Fidelity is very high: every figure, formula, law and citation survives, and the irony in p018-p019 and the footnotes is kept. Readability is good, though p002 is heavy with required first-use explanations."
+}

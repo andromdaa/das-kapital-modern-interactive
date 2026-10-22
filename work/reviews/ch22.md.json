@@ -1,0 +1,18 @@
+{
+ "file": "ch22.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch22-p007",
+   "kind": "drift",
+   "severity": "low",
+   "category": "structure",
+   "original": "(Ure, op. cit., p. 314.)",
+   "rewrite": "(Ure, cited above, p. 314.)",
+   "problem": "\"op. cit.\" is not in the §2.6/§3.4 list of abbreviations to expand, so the citation must stay as printed. This is also inconsistent with ch20, which keeps \"op. cit.\".",
+   "fix": "Restore \"(Ure, op. cit., p. 314.)\" in note [^4]."
+  }
+ ],
+ "notes_review": "Most calls are sound: keeping the ambiguous \"its extensive and intensive magnitude\" and \"in many cases 50%\", adding \"he says\"/\"according to him\" to mark Carey's free indirect speech, and keeping the ironic purpose clause in p016. Expanding \"op. cit.\" (note 13) goes beyond the abbreviations §2.6 lists and has been reverted.",
+ "summary": "Fidelity is high. The national-wage argument, Redgrave's figures and tables, and the polemic against Carey all survive with their irony and attributions. The prose is plain, but p001 is heavy with stacked §7 explanations."
+}

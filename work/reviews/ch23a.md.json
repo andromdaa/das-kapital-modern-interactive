@@ -1,0 +1,7 @@
+{
+ "file": "ch23a.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound: treating the Part 7 introduction as the start of the chapter for §7 explanations, leaving simple reproduction unexplained where Marx defines it, the literal retranslation of Sismondi in n. 1, and keeping \"guise\", \"wonderful\" and \"without any means\" all keep the original's sense without adding to it.",
+ "summary": "Fidelity is high: every argument step, figure (£100/£20, £1,000/£200, 5 and 10 years), attribution and footnote citation survives, and the §7 explanations are placed at first technical use. The prose is plain and readable, though the five-term parenthesis in pt7-p001 is dense."
+}

@@ -1,0 +1,7 @@
+{
+ "file": "ch24-s5.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound: the Tupper identification is neutral and given once, the open \"(by which ...)\" parenthesis stays where it was printed, the passive \"fabled\" keeps the agent hidden, and the unmatched quote and garbled Latin motto are kept as printed and logged.",
+ "summary": "Every claim, hedge, attribution and citation checks out against the original, including the Bentham polemic in n. 50 and the Fawcett quotations. The rewrite is plain and keeps Marx's sarcasm (\"arch-Philistine\", \"invented by God and Bentham\") intact."
+}

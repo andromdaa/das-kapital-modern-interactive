@@ -1,0 +1,18 @@
+{
+ "file": "ch23b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch23-p013",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "that means of production so indispensable to the capitalist: the labourer himself",
+   "rewrite": "the means of production the capitalist can least do without: the worker himself",
+   "problem": "Marx's intensive \"so indispensable\" becomes a superlative (\"can least do without\"), a stronger comparative claim than the original makes.",
+   "fix": "It is the production and reproduction of that means of production so indispensable to the capitalist: the worker himself."
+  }
+ ],
+ "notes_review": "The logged calls are sound: declining the §7 explanations for \"living labour machines\" and Potter's \"surplus-population\" correctly avoids putting Marx's concepts into Potter's mouth, the typo fixes are one-reading, and keeping the Durham footnote's two sentences unlinked is right. The shortened working-day explanation in p012 follows an earlier precedent and is acceptable.",
+ "summary": "Fidelity is very high: Potter's letter and The Times reply are near-verbatim, Marx's interjections and the irony of \"superfluous\" hands and \"moral workhouse\" are intact, and only one slight intensification was found. Readability is good, with long periods split cleanly."
+}

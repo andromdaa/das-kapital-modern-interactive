@@ -1,0 +1,38 @@
+{
+ "file": "ch01-s3b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch01-p072",
+   "kind": "drift",
+   "severity": "low",
+   "category": "glossary",
+   "original": "But, mark well, that this *quid pro quo* exists in the case of any commodity B",
+   "rewrite": "But note well that this *quid pro quo*, this taking of one thing for another, exists for any commodity B",
+   "problem": "§2.3/§3.4 say a Latin tag in Marx's voice is replaced with the plain rendering ('one thing taken for another'), not kept with a gloss, and this tag is not a famous motto.",
+   "fix": "But note well that this taking of one thing for another exists for any commodity B"
+  },
+  {
+   "id": "ch01-p076",
+   "kind": "drift",
+   "severity": "low",
+   "category": "register",
+   "original": "In the expression of value of the linen, the utility of the tailoring consists, not in making clothes, but in making an object, which we at once recognise to be Value, and therefore to be a congelation of labour, but of labour indistinguishable from that realised in the value of the linen.",
+   "rewrite": "In the expression of the linen's value, the usefulness of the tailoring lies not in making clothes, but in making an object that we at once recognize to be Value, and therefore to be a congealed mass of labor, but of labor that cannot be told apart from the labor realized in the value of the linen.",
+   "problem": "At 57 words this sentence is well above the §1.3 target, and it splits safely at the final 'but'.",
+   "fix": "Split after 'congealed mass of labor': '...and therefore to be a congealed mass of labor. But it is labor that cannot be told apart from the labor realized in the value of the linen.'"
+  },
+  {
+   "id": "ch01-p090",
+   "kind": "drift",
+   "severity": "low",
+   "category": "register",
+   "original": "is, therefore, made evident externally by two commodities being placed in such relation to each other, that the commodity whose value it is sought to express, figures directly as a mere use value, while the commodity in which that value is to be expressed, figures directly as mere exchange value.",
+   "rewrite": "is made visible on the outside when two commodities are placed in such a relation to each other that the commodity whose value is to be expressed figures directly as a mere use-value, while the commodity in which that value is to be expressed figures directly as mere exchange-value.",
+   "problem": "This 63-word sentence is too long for the target reader, and a split at the 'such … that' clause changes no meaning.",
+   "fix": "'...is made visible on the outside when two commodities are placed in a particular relation to each other. In that relation, the commodity whose value is to be expressed figures directly as a mere use-value, while the commodity in which that value is to be expressed figures directly as mere exchange-value.'"
+  }
+ ],
+ "notes_review": "The logged calls are sound. Broadhurst's parody keeps its 'might just as well say' tag, the untagged 'makeshift' sentence in p085 stays ambiguous, the Greek glosses are literal and safe, and §3.3 is applied to 'bagmen'/'hawkers' with the sneer kept. The one exception is note 9: keeping *quid pro quo* alongside the gloss goes against §3.4.",
+ "summary": "Fidelity is high. The equivalent-form peculiarities, the Aristotle passage, the Bailey/mercantilist/free-trade polemic and Engels' attributed bracket are all intact. Readability is good apart from two over-long sentences and one Latin tag that should have been replaced."
+}

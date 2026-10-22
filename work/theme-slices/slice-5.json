@@ -1,0 +1,411 @@
+[
+ {
+  "kind": "theme",
+  "title": "Machinery lengthens the working day under capital",
+  "claim": "Because machinery is fixed capital that loses value unless kept running, and because of moral depreciation and first-mover profits, capital gains new motives to extend hours beyond natural limits; the tool that could shorten labour-time instead places all of the worker's time at capital's disposal.",
+  "quote": "machinery sweeps away every moral and natural restriction on the length of the working day",
+  "anchors": [
+   "ch15-p061",
+   "ch15-p066",
+   "ch15-p067",
+   "ch15-p070"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Hours worked in machine-intensive industries can be compared with pre-machine and post-regulation periods.",
+  "notes": "Argued for the early factory period before legal limits."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Senior/Ashworth: long hours desirable for fixed capital",
+  "claim": "Marx reports Senior, instructed by the cotton magnate Ashworth, as concluding that increased use of machinery makes constantly longer hours desirable; Marx mocks the idea that it is monstrous for a worker to leave the mill.",
+  "quote": "makes a constantly increasing lengthening of the working day \"desirable.\"",
+  "anchors": [
+   "ch15-p067"
+  ],
+  "speaker": "opponent:Senior",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Reported as a motive of employers; Marx uses it ironically as evidence, not as his own claim.",
+  "notes": "Marx agrees about the capitalist incentive but derides the framing; ambiguous partial agreement."
+ },
+ {
+  "kind": "theme",
+  "title": "Absolute limits on hours give way to intensification of labour",
+  "claim": "Once Parliament fixes the working day, capital turns to relative surplus-value and intensity: faster machines, more machines per worker, 'closer filling up of the pores' of the day. Duration and intensity are 'mutually exclusive' beyond a point.",
+  "quote": "a point must inevitably be reached",
+  "anchors": [
+   "ch15-p072",
+   "ch15-p077",
+   "ch15-p094"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Intensity measures (machine speed, spindles/loom per worker, work pace, injury and stress rates) can be compared across hours reductions.",
+  "notes": ""
+ },
+ {
+  "kind": "forecast",
+  "title": "Intensification will force another hours reduction",
+  "claim": "Marx says capital's drive to convert every machine improvement into more exhaustion of the worker must soon lead to a state in which a further shortening of hours is inevitable; the eight-hour agitation is noted as beginning.",
+  "quote": "a reduction of the hours of labour will again be inevitable",
+  "anchors": [
+   "ch15-p096"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Subsequent history of the 8-hour day and later reductions can be compared; 'soon' is vague.",
+  "notes": "Fn 95 notes the 8-hour agitation in Lancashire in 1867."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Shorter hours raise output per hour (and need not lower total output)",
+  "claim": "Experiments (Gardner, Horrocks) and later factory-inspector reports show output in 11 or 10 hours equalling or exceeding that of 12, with the same wages; shortening the day spurs machinery improvement and economy; masters' claims that it is impossible were refuted.",
+  "quote": "the same amount of product for the same cost was received",
+  "anchors": [
+   "ch15-p076",
+   "ch15-p089",
+   "ch15-p096"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Can be tested against modern evidence on hours reductions and productivity per hour.",
+  "notes": "Evidence is cited from source:Robert Gardner/Inspectors; Marx's inference is the compensating-intensity mechanism."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Manufacturers/Horner: shorter hours must cut output",
+  "claim": "In 1844 the masters and even inspector Horner argued that mill-owners already ran machines at maximum safe speed and workers at maximum vigilance, so any cut below 12 hours would reduce production. Marx shows this was refuted by experience and by Horner's later admission.",
+  "quote": "it would not be possible to produce as much in eleven hours as in twelve",
+  "anchors": [
+   "ch15-p075",
+   "ch15-p083",
+   "ch15-p084"
+  ],
+  "speaker": "opponent:Leonard Horner and the manufacturers",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Reported to be refuted; not Marx's claim.",
+  "notes": "Horner is a sympathetic inspector who later disowned the view."
+ },
+ {
+  "kind": "theme",
+  "title": "Machine as master: worker becomes appendage, skill drained into capital",
+  "claim": "In the automatic factory the machine uses the worker, not vice versa; skill passes into the machine, work is levelled to minding, the intellectual powers of production become capital's power over labour, and the worker faces barrack-like factory discipline and fines.",
+  "quote": "in the factory, the machine makes use of him",
+  "anchors": [
+   "ch15-p100",
+   "ch15-p101",
+   "ch15-p104",
+   "ch15-p106",
+   "ch15-p108"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Deskilling, work discipline and autonomy trends can be studied empirically, though outcomes vary by sector.",
+  "notes": "Marx distinguishes the technical process from its capitalist form; also notes a minority superior class of engineers (p102)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Ure: the automatic factory and docile labour",
+  "claim": "Ure describes the factory as a vast automaton with workers as conscious organs, and says science in capital's service will always teach 'the refractory hand of labour' docility. Marx quotes him as unvarnished expression of the capitalist view.",
+  "quote": "the refractory hand of labour will always be taught docility",
+  "anchors": [
+   "ch15-p099",
+   "ch15-p100",
+   "ch15-p137",
+   "ch15-p138"
+  ],
+  "speaker": "opponent:Ure",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Ure's boast, quoted by Marx as cynical expression of capital's aims.",
+  "notes": "Marx largely agrees that capital uses machines this way but rejects Ure's celebration and his contradictions."
+ },
+ {
+  "kind": "forecast",
+  "title": "Machinery constantly displaces skilled by less skilled labour",
+  "claim": "Improvement in machinery tends to replace skilled men with women, children and unskilled hands, and to make whole classes of craft workers superfluous, while cheapening labour-power.",
+  "quote": "The instrument of labour strikes down the labourer.",
+  "anchors": [
+   "ch15-p117",
+   "ch15-p120",
+   "ch15-p121",
+   "ch15-p131"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Testable via technological unemployment, deskilling and polarisation research; Marx's evidence is largely quoted (Ure, inspectors, Nasmyth).",
+  "notes": "Much of the supporting language (p121, p118 fn) is from Ure and inspectors, used as source:Ure / source:inspectors."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Machinery is deployed as a weapon against strikes",
+  "claim": "Inventions since 1830 have been driven partly by capital's wish to break workers' resistance (self-acting mule, Nasmyth's tools after the 1851 engineers' strike); machinery is the most powerful weapon for repressing strikes.",
+  "quote": "the most powerful weapon for repressing strikes",
+  "anchors": [
+   "ch15-p129",
+   "ch15-p130",
+   "ch15-p131"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Historical case studies on automation timed to labour disputes can corroborate or not.",
+  "notes": "Evidence from Nasmyth, Fairbairn, Ure, Gaskell (sources)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Theory of compensation: displaced workers automatically re-employed",
+  "claim": "J. Mill, MacCulloch, Torrens, Senior, J.S. Mill and others hold that displacing machinery necessarily frees capital sufficient to re-employ the same workers. Marx's carpet-factory example argues the capital is locked up as constant capital, not freed.",
+  "quote": "simultaneously and necessarily sets free an amount of capital",
+  "anchors": [
+   "ch15-p145",
+   "ch15-p146",
+   "ch15-p149",
+   "ch15-p150"
+  ],
+  "speaker": "opponent:J. Mill / MacCulloch / Torrens / Senior / J. S. Mill",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Listed to attribute correctly; Marx refutes it.",
+  "notes": "Ricardo originally held it but disclaimed it (fn 132)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Machinery has no bad effects; only its capitalist use does",
+  "claim": "Marx reports the economist's apologetic move: the contradictions arise 'not from machinery as such but from its capitalist employment', and critics of capitalist use are branded enemies of progress. He lampoons it with Bill Sykes and the knife.",
+  "quote": "it is the fault of the knife",
+  "anchors": [
+   "ch15-p153",
+   "ch15-p154"
+  ],
+  "speaker": "opponent:MacCulloch and bourgeois economists",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx here mocks a rhetorical move; he himself agrees the distinction exists (machinery vs capitalist use) but denies it dissolves the contradictions.",
+  "notes": "Ironic: Marx's own position (p153) is the same machine/capital distinction used differently."
+ },
+ {
+  "kind": "forecast",
+  "title": "Compensation is partial: displacement followed by absorption elsewhere, never automatic",
+  "claim": "Workers displaced by machinery may find work in other branches (machine-making, raw materials, transport, luxury goods, servants) only through new additional capital; transition sees the displaced 'for the most part starve and perish'; new industries employ a small share.",
+  "quote": "the original victims, during the period of transition, for the most part starve and perish",
+  "anchors": [
+   "ch15-p152",
+   "ch15-p155",
+   "ch15-p156",
+   "ch15-p160"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Employment effects of technology can be compared (job creation vs destruction); his 1861 count of new industries employing 94,145 is a historical benchmark.",
+  "notes": "Marx himself states that machinery may increase employment in other industries (p155). He promises Part VII for the fuller analysis."
+ },
+ {
+  "kind": "forecast",
+  "title": "Growth of the servant class as productivity rises",
+  "claim": "Productivity of modern industry permits ever larger parts of the working class to be unproductively employed, reproducing domestic servitude as a servant class (1.2 million in 1861, more than textile factory plus mine workers).",
+  "quote": "allows of the unproductive employment of a larger and larger part of the working-class",
+  "anchors": [
+   "ch15-p161",
+   "ch15-p163",
+   "ch15-p164"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Share of employment in domestic/personal service can be compared with later trends (declining in domestic service, rising in broader services).",
+  "notes": "Marx's examples: male servants nearly doubled 1861-70; later trends in domestic service in Britain fell, so the specific claim could be partly contradicted, though broader service growth fits."
+ },
+ {
+  "kind": "forecast",
+  "title": "Factory system will in time employ fewer workers relative to capital, and sometimes absolutely",
+  "claim": "Relative decline in operatives is certain as the composition of capital rises; absolute decline occurs in some trades (silk, worsted, cotton 1861-68) while periods of quantitative extension absorb workers.",
+  "quote": "the number of persons employed decreased 5½%",
+  "anchors": [
+   "ch15-p091",
+   "ch15-p128",
+   "ch15-p166",
+   "ch15-p169",
+   "ch15-p178"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Employment vs output or capital stock series, by sector, are testable.",
+  "notes": "Marx admits growth in operatives can be consistent with relative decline (p169)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Industrial cycle: boom, over-production, crisis, stagnation as the normal life of modern industry",
+  "claim": "The factory system's power of sudden expansion, combined with dependence on world markets, necessarily produces feverish production, glut, crisis; instability of employment becomes normal; during downturns wages are forcibly cut below the value of labour-power.",
+  "quote": "periods of moderate activity, prosperity, over-production, crisis and stagnation",
+  "anchors": [
+   "ch15-p177",
+   "ch15-p178",
+   "ch15-p180",
+   "ch15-p191"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Business-cycle history can be tested, though 'cycles occur' is hard to falsify; the claim that they are inherent and that wages are cut in slumps is more testable.",
+  "notes": "1770-1863 cotton chronology supplied as evidence."
+ },
+ {
+  "kind": "forecast",
+  "title": "International division of labour: industrial centres vs raw-material suppliers",
+  "claim": "Machinery's cheapness and transport improvements allow industrial countries to ruin handicrafts abroad and convert those countries into suppliers of raw materials, creating a new international division of labour (India for cotton, Australia for wool), spurring emigration and colonisation.",
+  "quote": "converts one part of the globe into a chiefly agricultural field of production",
+  "anchors": [
+   "ch15-p171",
+   "ch15-p180"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Long-run patterns of trade, deindustrialisation of India, and later industrialisation of peripheries can be compared.",
+  "notes": "Fn 154 (Engels) notes the US had since become a major industrial power."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Mechanisation concentrates capital and ruins small producers",
+  "claim": "Factory expansion ruins small mills and cottage factories, 338 cotton factories disappeared 1861-68 while machinery became concentrated in fewer hands; sewing-machines, steam power and Factory Acts hasten the ruin of small masters and domestic workers.",
+  "quote": "more productive machinery on a larger scale was concentrated",
+  "anchors": [
+   "ch15-p128",
+   "ch15-p181",
+   "ch15-p192",
+   "ch15-p229",
+   "ch15-p237"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Firm-size and concentration data can be compared with the claim; note small-scale firms persist in many sectors.",
+  "notes": "Footnote 167 forecasts rapid concentration in the US when 'the inevitable transition to the factory system' arrives there."
+ },
+ {
+  "kind": "theme",
+  "title": "Sweating of domestic and manufacturing industry; later factorisation",
+  "claim": "Modern 'domestic industry' is an outside department of the factory: the most shameless exploitation occurs in dispersed home/workshop labour (lace, straw-plait, clothing) where resistance is weakest. Cheapening by sweat reaches natural limits, after which machinery (e.g. the sewing-machine) and then steam convert it into factories.",
+  "quote": "the power of resistance in the labourers decreases with their dissemination",
+  "anchors": [
+   "ch15-p193",
+   "ch15-p194",
+   "ch15-p205",
+   "ch15-p223",
+   "ch15-p226",
+   "ch15-p229"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Outwork/sweatshop conditions and their later industrial reorganisation can be compared historically and in present gig/home work.",
+  "notes": "Evidence is mostly source:Children's Employment Commission."
+ },
+ {
+  "kind": "forecast",
+  "title": "Factory regulation will force technical improvement and concentration",
+  "claim": "Marx argues that legal limits on hours, pauses and children's work force more machinery, steam power and larger scale, destroying domestic industries based on unlimited cheap labour; each 'impossibility' claimed by manufacturers vanishes (potteries, matches).",
+  "quote": "every “impossibility” had vanished",
+  "anchors": [
+   "ch15-p230",
+   "ch15-p231",
+   "ch15-p233",
+   "ch15-p237"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Compare effects of labour regulation on technology and firm structure; the induced-innovation claim is testable.",
+  "notes": "Evidence: pottery and match industry (source:factory inspectors)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capital resists even the cheapest safety and health provisions; a limit to reform",
+  "claim": "Capitalism 'excludes all rational improvement beyond a certain point'; legislation on 500 cubic feet of air would expropriate thousands of small employers and so stalls; capital 'never becomes reconciled' to limits except under a general Act of Parliament. Competitors themselves petition for equal restraint.",
+  "quote": "excludes all rational improvement beyond a certain point",
+  "anchors": [
+   "ch15-p244",
+   "ch15-p246",
+   "ch15-p247",
+   "ch15-p242",
+   "ch15-p261"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Compare regulatory history: whether capital accepts safety/health limits only under universal compulsion.",
+  "notes": "The 'certain point' is vague, which makes the strong claim hard to falsify; the narrower claim about general legislation is testable."
+ },
+ {
+  "kind": "forecast",
+  "title": "Education combined with productive labour will be the education of the future",
+  "claim": "From the factory system 'budded the germ of the education of the future', which will combine productive labour, instruction and gymnastics for every child over a given age, not only to raise production but as the only way to produce fully developed human beings.",
+  "quote": "the germ of the education of the future",
+  "anchors": [
+   "ch15-p248",
+   "ch15-p250",
+   "ch15-p257"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Compare actual mass education, which generally separated schooling from labour; vocational and work-study programmes partly echo it.",
+  "notes": "Includes Owen's influence; Marx draws the pedagogic inference from half-time factory schooling."
+ },
+ {
+  "kind": "forecast",
+  "title": "Modern industry compels replacing the detail-worker with the all-round individual",
+  "claim": "Because modern industry constantly revolutionises production, it makes variation of work and universal mobility a condition of survival; society is compelled 'under penalty of death' to replace the detail-worker with the fully developed individual fit for varied labours, though in capitalist form it reproduces the old division of labour.",
+  "quote": "compels society, under penalty of death, to replace the detail-worker",
+  "anchors": [
+   "ch15-p251",
+   "ch15-p256",
+   "ch15-p257"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Compare the prevalence of narrow specialisation versus flexible, multi-skilled labour, and whether society was 'compelled' to adopt it.",
+  "notes": "Strong 'must' language; partly a normative/dialectical claim ('through its catastrophes')."
+ },
+ {
+  "kind": "forecast",
+  "title": "The working class will inevitably come to power and introduce technical education",
+  "claim": "Marx says that when the working class comes into power, 'as inevitably it must', technical instruction theoretical and practical will take its place in workers' schools; the antagonisms within the capitalist form are the only way it can be dissolved.",
+  "quote": "when the working-class comes into power, as inevitably it must",
+  "anchors": [
+   "ch15-p257"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Whether working-class political power emerged and what followed is historically checkable, though the timescale is unspecified.",
+  "notes": "Dialectical element: historical development of antagonisms is the way a form of production dissolves."
+ },
+ {
+  "kind": "forecast",
+  "title": "Modern industry will create a higher form of the family",
+  "claim": "By drawing women and children into socially organised production, modern industry dissolves the traditional family but creates 'a new economic foundation for a higher form of the family and of the relations between the sexes'; mixed collective labour must, under suitable conditions, become a source of humane development.",
+  "quote": "creates a new economic foundation for a higher form of the family",
+  "anchors": [
+   "ch15-p258",
+   "ch15-p260"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "no",
+  "testable_rationale": "'Higher form' and 'suitable conditions' are normative and elastic; hard to falsify.",
+  "notes": "Related: the Commission's view that children need protection against parents (p259, source)."
+ }
+]

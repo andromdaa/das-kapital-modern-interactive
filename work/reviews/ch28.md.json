@@ -1,0 +1,18 @@
+{
+ "file": "ch28.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch28-p011",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "English and French legislation run parallel and are identical in purport.",
+   "rewrite": "English and French legislation run parallel and have the same purpose.",
+   "problem": "\"Identical in purport\" means identical in content or substance; \"have the same purpose\" narrows it to aims and drops \"identical\".",
+   "fix": "English and French legislation run parallel and are identical in content."
+  }
+ ],
+ "notes_review": "The logged calls are sound: keeping \"James 1\" as printed, keeping \"master\" in the guild setting, retranslating the French bracket of n6 literally, and adding the repeated \"Chapelier goes on\" tag all follow the bible.",
+ "summary": "Fidelity is very high: every statute, penalty, date, sum and attribution survives, and the irony (\"well-known straightforward fashion\", \"great Liberal party\", \"forsooth\") is kept. The prose is plain and readable, though p009 is heavy with the §7 parentheticals the rules require."
+}

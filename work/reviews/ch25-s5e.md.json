@@ -1,0 +1,28 @@
+{
+ "file": "ch25-s5e.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch25-p244",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "added content",
+   "original": "he binds them to himself by the charms of the gipsy life under his direction",
+   "rewrite": "he binds them to himself by the charms of the Romani life under his direction",
+   "problem": "Marx uses \"gipsy life\" as a metaphor for a roving, free-and-easy way of life; \"Romani life\" turns the image into a statement about an actual ethnic group.",
+   "fix": "Replace \"the Romani life\" with \"the roving, vagabond life\" and log the choice."
+  },
+  {
+   "id": "ch25-p245",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "added content",
+   "original": "The gipsy fun has vanished here",
+   "rewrite": "The Romani-style fun has vanished here",
+   "problem": "As in p244, the metaphor for a roving way of life becomes a claim about the Romani people.",
+   "fix": "Replace \"The Romani-style fun\" with \"The vagabond fun\"."
+  }
+ ],
+ "notes_review": "The logged calls are sound (the condensed county entries treated as Marx's voice, the table copied with its odd \".5\", the \"Is. 3d.\" typo fix, the Dupont translation corrected to the French). The exception is the \"gipsy\" → \"Romani\" call, which the rewriter rightly flagged: the word is a metaphor here and needs a non-ethnic rendering.",
+ "summary": "The Hunter county entries, the figures, the gang-system paragraphs and the footnotes all match the original closely in content, strength and attribution, and the irony (\"beautiful fruit\", \"Agricultural Juvenile Industrial Self-supporting Association\") survives. The only problem is the \"gipsy\" metaphor in p244/p245, which the rewrite has tied to the Romani people. The text otherwise reads plainly."
+}

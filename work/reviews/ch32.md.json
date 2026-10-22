@@ -1,0 +1,7 @@
+{
+ "file": "ch32.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound. Leaving out §7 glosses where Marx defines primitive accumulation, expropriation and centralization himself, keeping \"by society\" governing both nouns, and the more literal Sismondi translation are all correct.",
+ "summary": "Every step of the argument, from petty property through its expropriation to \"the expropriators are expropriated\", is kept at the original strength, with the negation-of-the-negation formula in glossary form. The prose is plain and keeps the force of Marx's imagery."
+}

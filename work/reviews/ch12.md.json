@@ -1,0 +1,18 @@
+{
+ "file": "ch12.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch12-p013",
+   "kind": "drift",
+   "severity": "low",
+   "category": "structure",
+   "original": "(“Considerations Concerning Taking off the Bounty on Corn Exported,” &c., London, 1753, p. 7.)",
+   "rewrite": "(“Considerations Concerning Taking off the Bounty on Corn Exported,” etc., London, 1753, p. 7.)",
+   "problem": "In [^6] this \"&c.\" abbreviates the rest of the book title, so it is part of the citation and must stay as printed (§2.6); every other unit keeps \"&c.\" in this position.",
+   "fix": "Restore \"&c.\": (“Considerations Concerning Taking off the Bounty on Corn Exported,” &c., London, 1753, p. 7.)"
+  }
+ ],
+ "notes_review": "The logged calls are sound: moving the misplaced bracket in [^2] to follow Galiani's Italian (with a new literal bracket for Sismondi) prevents a misattribution, and keeping p016 as a statement rather than a hypothetical preserves Marx's claim. Note 25's handling of \"&c.\" missed one title abbreviation in [^6].",
+ "summary": "Fidelity is excellent: the worked example in p011-p012 keeps every figure and ratio, and Quesnay's riddle and the economists' contradiction in p016 keep their attribution and irony. Readability is good; p001 and p006 carry many required §7 explanations but remain followable."
+}

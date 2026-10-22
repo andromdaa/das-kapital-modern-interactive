@@ -1,0 +1,28 @@
+{
+ "file": "ch24-s2.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch24-p043",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "In this process the labour-power is itself consumed by the capitalist while the means of production are consumed by the labour-power",
+   "rewrite": "In this process the capitalist himself consumes the labor-power, while the labor-power consumes the means of production",
+   "problem": "Marx's \"itself\" stresses that the labor-power, the consumer of the means of production, is in turn consumed; moving the emphasis to \"the capitalist himself\" changes the point of the sentence.",
+   "fix": "In this process the labor-power is itself consumed by the capitalist, while the means of production are consumed by the labor-power as it performs its function, labor."
+  },
+  {
+   "id": "ch24-p043",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "added content",
+   "original": "an analysis which, even from the bourgeois standpoint of the science, cries out for rectification",
+   "rewrite": "although even from the bourgeois standpoint of the science it cries out to be corrected",
+   "problem": "The footnote 17 relative clause is turned into an \"although\" clause, adding a concessive link the original does not make.",
+   "fix": "an analysis that, even from the bourgeois standpoint of the science, cries out to be corrected."
+  }
+ ],
+ "notes_review": "The logged calls are sound: the literal retranslation of the Necker brackets, matching Storch's \"résoudre\" and Marx's mocking repetition with the same verb, keeping \"productive labour\"/\"productive labourer\" as mentioned terms, and leaving \"his master's\" unnamed all respect fidelity.",
+ "summary": "Fidelity is high: Ricardo's and Smith's quoted words, the echoed \"There can be no greater error\", and the separation of Smith's cloth-manufacturer example from Marx's comment are all intact; two small shifts were found in p043 and its footnote. Readability is good."
+}

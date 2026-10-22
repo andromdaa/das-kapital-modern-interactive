@@ -1,0 +1,7 @@
+{
+ "file": "ch27a.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound. The rewriter adds no §7 gloss for the descriptive use of \"wages\" in a 14th-century setting, keeps the Latin title with a bracketed gloss, keeps the doubtful \"1604 under Charles X.\" as printed, adds one neutral identification for the laws of settlement, and keeps the long p009 sentence unsplit to preserve its open \"While\" relation.",
+ "summary": "The rewrite matches the original in content, dates and figures, keeps Bacon, Harrison, More and the Snigge questions near-verbatim, and keeps Marx's contempt (Macaulay the \"systematic falsifier\", the \"bourgeois hero\", \"tomtit of Liberalism\"). It is clear and readable at the target level."
+}

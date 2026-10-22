@@ -1,0 +1,28 @@
+{
+ "file": "ch07-s2.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch07-p025",
+   "kind": "drift",
+   "severity": "medium",
+   "category": "concept explanation",
+   "original": "not only value, but at the same time surplus-value.",
+   "rewrite": "and not only value, but surplus-value at the same time.",
+   "problem": "First technical use of surplus-value in Ch. 7 body text (ch07-s1 had it only in headings) gets no §7 explanation, though the term is not defined by Marx here.",
+   "fix": "Append the §7 wording: \"…but surplus-value at the same time (surplus-value is the extra value that workers produce beyond the value of their own labor-power, which the capitalist keeps without paying for it).\""
+  },
+  {
+   "id": "ch07-p040",
+   "kind": "drift",
+   "severity": "low",
+   "category": "glossary",
+   "original": "that its subject is cotton and its product yarn, than we are about the fact that the subject itself is already a product … the subject of his labour, the coal",
+   "rewrite": "that its subject is cotton, and that its product is yarn, than we are with the fact that the subject itself is already a product … the subject of his labor, the coal",
+   "problem": "\"subject of labour\" (the material worked on) must be rendered \"object of labor\" per the Phase 4 glossary entry and ch07-s1's usage.",
+   "fix": "Replace the three occurrences with \"its object is cotton\", \"the object itself\", \"the object of his labor\"."
+  }
+ ],
+ "notes_review": "Sound overall: the capitalist's invented speeches keep their tags and the mocked words ('abstinence', 'service'), and the n. 13 French retranslation and n. 18 figures are handled correctly; declining §7 glosses where Marx defines the term himself (socially necessary labor-time, value of labor-power, metamorphosis as money-into-capital) is right. The notes omitted surplus-value, which ch07-s1 had explicitly passed on; 'wages' and 'proletariat' have no technical use in this file (only inside Olmsted's quotation), so no explanation is owed in Ch. 7.",
+ "summary": "Fidelity is high: no lost or added claims, the irony of the capitalist's dialogue and the 'eternal laws' scare quotes survive, and all figures match. Readability is good; the only problems were a missing first-use surplus-value explanation and three leftover 'subject of labor' renderings."
+}

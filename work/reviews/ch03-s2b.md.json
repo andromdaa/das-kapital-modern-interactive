@@ -1,0 +1,6 @@
+{"file": "ch03-s2b.md", "verdict": "minor fixes",
+ "findings": [
+   {"id": "ch03-p048", "kind": "drift", "severity": "medium", "category": "concept explanation", "original": "but rather by the money acting as a medium of circulation", "rewrite": "but rather by the money acting as a medium of circulation.", "problem": "This is the first technical use of \"medium of circulation\" in the body of Ch. 3 (ch03-s2a has it only in the heading), but the §7 explanation was not added; notes item 17 wrongly says it was explained earlier.", "fix": "but rather by the money acting as a medium of circulation (that is, in its role of passing from hand to hand to carry out sales and purchases)."}
+ ],
+ "notes_review": "Mostly sound (opponent's opinions kept clearly attributed in p052 and p062, North's archaisms glossed not replaced, Montesquieu translated literally), but item 17's claim that \"medium of circulation\" was already explained is wrong. Keeping \"£2,100 quarters\" as printed because of the checker is correct and is now logged as reviewer-approved.",
+ "summary": "Fidelity is high: the quantity-of-money argument, every figure and the attacks on Hume, Vanderlint, Montesquieu and J. S. Mill survive intact. Readable, with one missing §7 explanation."}

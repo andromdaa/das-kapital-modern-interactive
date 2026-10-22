@@ -1,0 +1,7 @@
+{
+ "file": "ch25-s5d.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound. On p180 (orchestrator check): the original's \"of those utterly corrupt, heartless, and genteel loafers\" can only grammatically belong either to \"sympathy\" or to \"the factory operatives\", and the latter is semantically impossible (pretended sympathy with genteel loafers' woes makes no sense; the German reads \"die geheuchelte Sympathie der ... Müßiggänger mit den Leiden der Fabrikarbeiter\"), so the reordering resolves no real ambiguity; it does not name the aristocracy explicitly, and it keeps the epithets inside the bourgeoisie's \"foamed with sullen rage\" frame exactly as the original does, so no change is needed.",
+ "summary": "Fidelity is very high: the run-on sentences across paragraphs, all tables and garbled blocks, Latin tags, and the long Dr. Simon quotation are preserved exactly, and attributions stay clear. The plain rewriting keeps Marx's tone (aristocratic shylocks, low church pope, drunk with happiness) without exaggeration."
+}

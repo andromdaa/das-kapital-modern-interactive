@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s3a.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p043",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "the high death-rates are, apart from local causes, principally due to the employment of the mothers away from their homes, and to the neglect and maltreatment, consequent on her absence",
+   "rewrite": "They are due to the neglect and mistreatment that follow from the mother’s absence",
+   "problem": "In the original 'principally' governs both causes; splitting the sentence drops the qualifier from the second cause, making it unqualified.",
+   "fix": "They are also mainly due to the neglect and mistreatment that follow from the mother’s absence"
+  }
+ ],
+ "notes_review": "The logged calls are sound, including leaving out the spurious 'truck system' explanation, keeping 'freedom of labour' in British spelling as the capitalists' phrase, and preserving the unmatched quotation marks in p053 and p055. 'sold off' for 'got rid of' is a fair reading in context.",
+ "summary": "Fidelity is very high: the testimony and inspectors' quotations are near-verbatim, all mortality figures and citations survive, and irony and attribution are intact; one qualifier was lost in a split sentence. The prose reads plainly at the target level."
+}

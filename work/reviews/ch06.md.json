@@ -1,0 +1,18 @@
+{
+ "file": "ch06.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch06-p006",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "free in the double sense, that as a free man he can dispose of his labour-power as his own commodity, and that on the other hand he has no other commodity for sale, is short of everything necessary for the realisation of his labour-power.",
+   "rewrite": "free in a double sense. As a free man, he can dispose of his labor-power as his own commodity. On the other hand, he has no other commodity for sale: he lacks everything needed to put his labor-power into action.",
+   "problem": "Breaking the \"that ... and that ...\" construction into free-standing sentences loses the explicit statement that these two facts are the two senses of \"free\", which is the point of the sentence (the second sense is the ironic one, free of means).",
+   "fix": "free in a double sense: free in that, as a free man, he can dispose of his labor-power as his own commodity, and free in that, on the other hand, he has no other commodity for sale and lacks everything needed to put his labor-power into action."
+  }
+ ],
+ "notes_review": "Sound: labor-power and value of labor-power are rightly left to Marx's own definitions, \"social division of labor\" and \"classical antiquities\" are correctly not glossed, the Ganilh and Storch retranslations are literal, and the unquoted paraphrase and unmatched quotation mark in nn. 12 and 14 are rightly left as printed.",
+ "summary": "Faithful: the conditions for labor-power as a commodity, its value and historical-moral element, the credit the worker gives the capitalist, and the ironic Eden of the rights of man keep their content and tone. Plain and readable, though p001 is heavy with mandatory first-use glosses."
+}

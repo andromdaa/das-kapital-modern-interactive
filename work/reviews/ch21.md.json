@@ -1,0 +1,18 @@
+{
+ "file": "ch21.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch21-p015",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "added content",
+   "original": "Hence, e.g., in 1860 a great strike among the ribbon-weavers of Coventry.",
+   "rewrite": "Hence, for example, the great strike among the ribbon-weavers of Coventry in 1860.",
+   "problem": "The definite article presents the strike as an already known event, which Marx does not do.",
+   "fix": "\"Hence, for example, a great strike among the ribbon-weavers of Coventry in 1860.\""
+  }
+ ],
+ "notes_review": "The logged calls are sound. \"½d.\" in p023 is correctly kept as printed and flagged (style bible §1.4: figures are not corrected, even where a \"1\" was probably dropped). The citation typo fixes (\"after.\", \"p. 1xx.\") have only one possible reading, \"Brusseles\" is rightly left, and the run-on across p002–p004, the restrictive clause in p007 and the ambiguous \"rightly\" in p025 are preserved.",
+ "summary": "Fidelity is high. The piece-wage arithmetic, the sweating-system and head-worker forms, the Cantillon bibliographic note and all the quoted evidence are complete and correctly attributed. The prose is clear, though the six-term §7 block after p001 is heavy."
+}

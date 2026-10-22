@@ -1,0 +1,397 @@
+[
+ {
+  "kind": "theme",
+  "title": "Value as socially necessary labour time",
+  "claim": "The magnitude of a commodity's value is set by the labour time socially necessary to produce it under average conditions of skill and intensity, not by the labour actually spent by any individual producer. Abstract human labour is the common substance behind exchange values.",
+  "quote": "required to produce an article under the normal conditions of production",
+  "anchors": [
+   "ch01-p012",
+   "ch01-p013",
+   "ch01-p016",
+   "ch01-p017"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Largely a definitional/analytical foundation (labour theory of value); hard to falsify directly, though price-vs-labour-content correlations are studied.",
+  "notes": "Reduced to a single-sentence definition in p017; p016 gives the power-loom example."
+ },
+ {
+  "kind": "theme",
+  "title": "Two-fold character of labour (concrete vs abstract)",
+  "claim": "Labour producing commodities has two aspects: useful concrete labour that makes use-values, and abstract human labour that forms value. Marx claims to be the first to treat this distinction critically and calls it the pivot of political economy.",
+  "quote": "As this point is the pivot on which a clear comprehension of political economy turns",
+  "anchors": [
+   "ch01-p020",
+   "ch01-p030",
+   "ch01-p035",
+   "ch01-p036"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Analytical distinction about categories, not an empirical prediction.",
+  "notes": ""
+ },
+ {
+  "kind": "theme",
+  "title": "Development of the value form into money",
+  "claim": "Money is derived step by step from the simple exchange relation (20 yards linen = 1 coat) through the expanded and general forms of value to the money form, once one commodity (gold) is socially excluded as universal equivalent. Money's riddle is the riddle of the commodity.",
+  "quote": "The simple commodity form is therefore the germ of the money form.",
+  "anchors": [
+   "ch01-p088",
+   "ch01-p111",
+   "ch01-p114",
+   "ch01-p123",
+   "ch01-p124",
+   "ch01-p130",
+   "ch02-p016"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Logical/genetic reconstruction; the historical sequence claim is only loosely testable.",
+  "notes": "Mostly abstract; Marx also claims bourgeois economy never attempted this derivation (p039)."
+ },
+ {
+  "kind": "theme",
+  "title": "Commodity fetishism",
+  "claim": "In commodity production, producers' social relations appear as relations between things (values, prices) that seem to have natural properties and to rule the producers. The social character of private labour only shows itself through exchange of products, so the real relations are disguised.",
+  "quote": "material relations between persons and social relations between things",
+  "anchors": [
+   "ch01-p131",
+   "ch01-p134",
+   "ch01-p136",
+   "ch01-p137",
+   "ch01-p138"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "An interpretive account of how market relations appear; difficult to test as a falsifiable prediction.",
+  "notes": "Central passage of the whole section; p149 extends the point to money and capital."
+ },
+ {
+  "kind": "theme",
+  "title": "Economic categories are historically specific, not natural",
+  "claim": "Categories of bourgeois economy (value, price, wages, capital) express a historically determined mode of production, but political economists treat them as eternal natural necessities, as Church Fathers treated pre-Christian religions. Marx distinguishes classical from vulgar economy.",
+  "quote": "The categories of bourgeois economy consist of such like forms.",
+  "anchors": [
+   "ch01-p140",
+   "ch01-p147",
+   "ch01-p149"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "A methodological/ideological claim about economic thought, not a dated prediction.",
+  "notes": "Footnotes 33-34 define classical vs vulgar economy and attack Bastiat."
+ },
+ {
+  "kind": "theme",
+  "title": "Money as measure of value vs standard of price; price can deviate from value",
+  "claim": "Money serves as ideal measure of value and as a standard of price (fixed weight of metal); price may deviate quantitatively from value, and may exist without any value at all. Money-names drift from weight-names through foreign coin, substitution of metals and debasement.",
+  "quote": "is inherent in the price-form itself",
+  "anchors": [
+   "ch03-p008",
+   "ch03-p014",
+   "ch03-p018",
+   "ch03-p019",
+   "ch03-p020"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Largely conceptual; the specific historical claims on debasement are checkable but minor.",
+  "notes": "Quote shortened by ellipses; only the first words should be treated as verbatim for matching."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Rising productivity lowers value per unit while raising material wealth",
+  "claim": "More productive labour increases the number of use-values but reduces the labour time, and so the value, embodied in each unit. Value varies directly with labour quantity and inversely with productiveness, so wealth in use-values can grow while its total value falls.",
+  "quote": "varies directly as the quantity, and inversely as the productiveness, of the labour",
+  "anchors": [
+   "ch01-p018",
+   "ch01-p035"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against long-run unit labour requirements and prices of goods in industries with rapid productivity growth (falling real prices per unit).",
+  "notes": "Diamond-from-carbon remark in p018 is a hypothetical."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "New technology devalues incumbent labour regardless of effort",
+  "claim": "When a technical change halves socially necessary labour time (power-looms), old-method producers keep spending the same hours but their product counts for only half the value. Social, not individual, labour time governs.",
+  "quote": "The introduction of power-looms into England probably reduced by one-half the labour required",
+  "anchors": [
+   "ch01-p016"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against history of wages and incomes of craft workers displaced by mechanisation or automation.",
+  "notes": "Also anticipated in ch03-p033 (old-fashioned weaving changes behind the weaver's back)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Money must be a commodity with its own value; fiat or 'imaginary' value theories are mistaken",
+  "claim": "Money is by nature gold and silver; the value of the money commodity is real, determined by labour time, and not an arbitrary convention or symbol. Treating money as a mere symbol, or its value as imaginary, confuses value with value-form.",
+  "quote": "money is by Nature gold and silver",
+  "anchors": [
+   "ch02-p011",
+   "ch02-p014",
+   "ch02-p015",
+   "ch03-p005"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be checked against modern fiat currencies that circulate with no commodity backing and no labour-content link.",
+  "notes": "The line is Marx quoting his own 1859 work; 'price depends entirely upon the actual substance that is money' (ch03-p005). Gold assumed as money throughout (ch03-p001)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Abolishing money while keeping commodity production is incoherent (labour-money, Proudhonism)",
+  "claim": "Money exists only by virtue of the antagonism between commodity and money, so petit-bourgeois schemes that keep commodity production while removing money or the non-direct exchangeability of commodities (Proudhon, Gray, Bray) are Utopian. Owen's labour-money is really a ticket for shares of a directly associated community, not money.",
+  "quote": "We might just as well try to retain Catholicism without the Pope.",
+  "anchors": [
+   "ch02-p007",
+   "ch01-p121",
+   "ch03-p003"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be tested against historical labour-money, local-currency, time-bank and similar experiments within market economies.",
+  "notes": "Targets of the argument are listed separately as opponent claims."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Commodity exchange begins at the boundaries of communities and then penetrates inwards",
+  "claim": "Exchange of products first arises between communities (or with foreign members), not inside communal societies; once products become commodities externally they do so internally too. Nomad peoples first develop money forms, and land was never used as money material before developed bourgeois society.",
+  "quote": "The exchange of commodities, therefore, first begins on the boundaries of such communities",
+  "anchors": [
+   "ch02-p008",
+   "ch02-p009"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "A historical/anthropological claim about the origins of exchange; checkable against ethnographic and archaeological evidence.",
+  "notes": ""
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Sale and purchase can split, so crises are possible (not yet explained)",
+  "claim": "Because a sale is not forthwith followed by a purchase, and money can be held, the unity of sale and purchase may assert itself through a crisis if the gap grows too large. The contradictions of commodity form imply only the possibility of crises; their actualisation requires relations not yet analysed.",
+  "quote": "asserts itself by producing – a crisis",
+  "anchors": [
+   "ch03-p046",
+   "ch03-p056"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Testable against crises where hoarding or a seizing-up of purchases (a liquidity or demand crunch) breaks the chain of exchanges; Marx himself disclaims a full explanation here.",
+  "notes": "Marx stresses 'possibility, and no more than the possibility'. Contrast the opponent doctrine of sales=purchases equilibrium."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Markets only reveal ex post whether labour was socially necessary",
+  "claim": "Whether private labour counts as social labour is decided only in the market, and overproduction in a branch means too large a share of social labour was spent there, devaluing every unit. Producers' division of labour is spontaneous and changes behind their backs.",
+  "quote": "too great a portion of the total labour of the community has been expended",
+  "anchors": [
+   "ch03-p033",
+   "ch03-p034",
+   "ch03-p035"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against gluts, price collapses and stranded investment in over-built sectors and against labour reallocation patterns.",
+  "notes": "Weaver example is illustrative; Marx proposed a clarifying edit to the last sentence (fn17)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "The law of value asserts itself through lawless-seeming fluctuation and periodic upheaval",
+  "claim": "Market prices fluctuate chaotically but socially necessary labour time asserts itself as an overriding law, like gravity when a house falls. Capitalist production's inherent laws operate only as the mean of irregularities that compensate one another, with periodic upheavals.",
+  "quote": "forcibly asserts itself like an over-riding law of Nature",
+  "anchors": [
+   "ch01-p138",
+   "ch03-p019"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable via empirical studies of whether market prices gravitate toward labour-content (or production-price) levels.",
+  "notes": "Footnote 29 quotes Engels on a law asserting itself 'only by periodical revolutions'."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Price form extends to things that are not commodities (no value)",
+  "claim": "Items that are not products of labour, such as conscience and honour, can acquire price and the commodity form; a price may be purely imaginary, as with uncultivated land. Price thus may cease to express value at all.",
+  "quote": "Objects that in themselves are no commodities, such as conscience, honour",
+  "anchors": [
+   "ch03-p020"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against commodification of non-produced things (land, offices, votes, attention, data, emissions rights).",
+  "notes": "Land price is explained as masking a real value relation in some cases."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Money quantity is determined by prices and velocity, and stagnation is not caused by a shortage of money",
+  "claim": "The quantity of money in circulation equals the sum of prices divided by velocity; prices are not determined by money in circulation. The public blames slackening circulation on too little money, which is a popular delusion, though bad legislative interference with currency can cause stagnation too.",
+  "quote": "the quantity of money functioning as the circulating medium is equal to the sum",
+  "anchors": [
+   "ch03-p052",
+   "ch03-p055",
+   "ch03-p056",
+   "ch03-p057",
+   "ch03-p062"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against money-supply, velocity and price-level data (endogenous vs exogenous money), including whether stagnation is relieved by more money.",
+  "notes": "Law stated for a metallic (gold) currency; p052 attributes the 16th-18th century price rise to a fall in the value of gold, not to circulating quantity. p061 says money in circulation varies much less than expected except in crises."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "A double (gold and silver) standard of value is unworkable",
+  "claim": "Where two metals are legally measures of value, shifts in their value ratio disturb prices and in practice one metal alone holds the standard; the undervalued metal leaves circulation.",
+  "quote": "a double standard of value is inconsistent with the functions of a standard",
+  "anchors": [
+   "ch03-p006"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against the monetary history of bimetallic regimes (England, France 1855-57 example).",
+  "notes": "The long footnote 4 gives historical evidence."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Religious forms mirror the mode of production (Protestantism fits commodity society)",
+  "claim": "For a society of commodity producers, Christianity with its cult of abstract man, especially Protestantism and Deism, is the fitting form of religion; ancient narrow productive relations are reflected in nature-worship.",
+  "quote": "Christianity with its cultus of abstract man",
+  "anchors": [
+   "ch01-p145"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable by comparing religious forms across modes of production and the correlation of Protestantism with commodity-market societies.",
+  "notes": ""
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Mode of production determines the character of social, political and intellectual life",
+  "claim": "The economic structure of society is the real basis on which juridical and political superstructure is raised; the mode of livelihood explains why politics prevailed in Athens and Rome and Catholicism in the middle ages.",
+  "quote": "real basis on which the juridical and political superstructure is raised",
+  "anchors": [
+   "ch01-p147",
+   "ch02-p001"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Framed so broadly that most outcomes could be reconciled; also a methodological stance.",
+  "notes": "Appears in footnote 34 as a defence against an objection. Ch02-p001 says legal relations are the reflex of the economic relation."
+ },
+ {
+  "kind": "forecast",
+  "title": "Religious mystification vanishes only when social relations become transparent",
+  "claim": "The religious reflex of the real world can finally vanish only when everyday practical relations offer people perfectly intelligible and reasonable relations to each other and to Nature; likewise the mystical veil of social life lifts only under production by freely associated men, consciously regulated by a settled plan, which in turn needs material conditions that are the product of long painful development.",
+  "quote": "The religious reflex of the real world can, in any case, only then finally vanish",
+  "anchors": [
+   "ch01-p145",
+   "ch01-p146"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "no",
+  "testable_rationale": "A conditional about a state of society not yet reached; almost any observed level of religiosity or mystification fits the 'not yet' reading.",
+  "notes": "Phrased as a necessary condition, not a dated prediction. Mentions 'settled plan' as the alternative to commodity production."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Value exists only in exchange ratios (Bailey, Bastiat, free-traders)",
+  "claim": "Bailey and others claim there is no intrinsic value, only relative expression in the exchange relation (a thousand kinds of value, all 'equally real and equally nominal'); Bastiat and Free-trade writers see value and its magnitude only in price lists. Marx says they confuse value-form with value.",
+  "quote": "there are a thousand different kinds of value",
+  "anchors": [
+   "ch01-p089",
+   "ch01-p097",
+   "ch01-p151",
+   "ch01-p152"
+  ],
+  "speaker": "opponent:Bailey",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "This is the opponent's position being refuted (Bailey, Bastiat), not Marx's.",
+  "notes": "Marx also says Bailey, whatever his narrowness, found real defects in the Ricardian theory (fn25). Quote is from the anonymous 1825 work attributed to Bailey in fn25."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Sale is purchase, therefore supply and demand balance (Say, James Mill)",
+  "claim": "The dogma that because every sale is a purchase, circulation implies an equilibrium of sales and purchases; used by apologists to deny crises. Marx calls it childish and dismisses Say as a judge of crises because he knows a commodity is a product.",
+  "quote": "Nothing can be more childish than the dogma",
+  "anchors": [
+   "ch03-p046"
+  ],
+  "speaker": "opponent:J. B. Say",
+  "specificity": "general_warning",
+  "testable": "no",
+  "testable_rationale": "Marx's own reply, a crisis is possible, is covered in a separate item; this entry is the opponent's claim, not the book's.",
+  "notes": "Attribution in text is to an unnamed dogma; fn25 names Say and James Mill and the 'apologetic economy' method. Marx's formulation of the opponent view, not a direct quote of Say."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Prices are determined by the quantity of circulating money (Hume, Vanderlint, Locke, Montesquieu, Ricardo school)",
+  "claim": "Earlier and later economists held that prices rise with the quantity of gold and silver in a country and that commodities and money meet as unpriced mass and unvalued heap. Marx calls this absurd and says it overlooks that commodities have prices and money has value on entering circulation.",
+  "quote": "prices are determined by the quantity of the circulating medium",
+  "anchors": [
+   "ch03-p052",
+   "ch03-p062"
+  ],
+  "speaker": "opponent:Hume, Vanderlint, Locke, Montesquieu, Ricardo school, J. S. Mill",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "The quantity theory is an opponent claim here, but it is empirically testable and Marx's rival account is a separate item.",
+  "notes": "Quote is Marx's paraphrase of the opponent view ('The erroneous opinion that ...'). Footnotes 32-33 collect named proponents; J. S. Mill is said to hold both this and its opposite."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Money is a mere symbol with imaginary value (Locke, Law, jurists)",
+  "claim": "Writers from lawyers serving kings (debasing the coinage) to Locke held that gold and silver have only an imaginary, conventional value given by universal consent, or that money is just a sign. Marx treats this as an 18th-century explanation by convention.",
+  "quote": "an imaginary value",
+  "anchors": [
+   "ch02-p014"
+  ],
+  "speaker": "opponent:Locke",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Opponent position; Marx's counter is covered under the money-as-commodity item.",
+  "notes": "Quote paraphrases fn10's Locke citation (ellipsis in original). Law's view is a mixed one per fn10."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Classical economists treat bourgeois forms as natural; Nature plays a part in exchange value; Greeks lived on plunder",
+  "claim": "Economists divide institutions into artificial (feudal) and natural (bourgeois); some quarrel over Nature's role in exchange value; Bastiat imagines ancient Greeks and Romans lived by plunder alone. Marx rejects all three.",
+  "quote": "Nature has no more to do with it",
+  "anchors": [
+   "ch01-p147",
+   "ch01-p148",
+   "ch01-p149"
+  ],
+  "speaker": "opponent:Bastiat and classical economists",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "These are positions Marx reports and mocks; the text mixes attribution (Bastiat named, others generic 'economists').",
+  "notes": "The quote is Marx's own refutation of the quarrel in p148, not the opponent's words. Fn34 quotes Marx's own Poverty of Philosophy and also a German-American paper objecting that his materialism fits only modern times."
+ }
+]

@@ -1,0 +1,7 @@
+{
+ "file": "ch01-s3c.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound. 'corn' is kept in formulas and tables and glossed inside Bailey's quotation. Not adding a universal-equivalent gloss is right, because Marx defines it in p114. The Goethe translation is properly literal ('concepts', not 'thoughts').",
+ "summary": "Every equation, table, inference ('because, and insofar as') and hedge from forms B–D is carried over faithfully, and the n. 26 polemic against Proudhon keeps its sneer. The prose is plain and at the target level, with no glossary or spelling drift."
+}

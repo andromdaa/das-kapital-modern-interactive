@@ -1,0 +1,396 @@
+[
+ {
+  "kind": "forecast",
+  "title": "Factory legislation spreads to all trades",
+  "claim": "Extension of factory legislation to all trades is inevitable, driven by the need to protect the working class; he sees an irresistible tendency toward its general application, including agriculture.",
+  "quote": "an irresistible tendency towards the general application of those principles",
+  "anchors": [
+   "ch15-p310",
+   "ch15-p311"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Can be checked against the spread of labour-protection law across sectors and countries.",
+  "notes": "Agricultural attempts had so far 'resulted in complete failure' per Marx."
+ },
+ {
+  "kind": "forecast",
+  "title": "Factory regulation accelerates concentration of capital",
+  "claim": "Regulating small workshops speeds the conversion of many small industries into a few large combined ones, so concentration of capital and the exclusive predominance of the factory system advance.",
+  "quote": "accelerates the concentration of capital and the exclusive predominance of the factory system",
+  "anchors": [
+   "ch15-p311"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Testable against firm-size distributions and whether small-shop sectors consolidated after regulation.",
+  "notes": ""
+ },
+ {
+  "kind": "forecast",
+  "title": "Regulation destroys last safety-valve and matures contradictions",
+  "claim": "By destroying petty and domestic industry, factory law removes the last resort of the redundant population (the safety-valve of the social mechanism), and by maturing material conditions provides the forces for exploding the old society while forming elements of the new.",
+  "quote": "the forces for exploding the old one",
+  "anchors": [
+   "ch15-p311"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Implies heightened social antagonism/system rupture; checkable but with a vague timeline and partly dialectical wording.",
+  "notes": "Revolutionary conclusion partly dialectical; the safety-valve claim is more specific than the explosion claim."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Regulation intensifies labour and spurs technical change",
+  "claim": "Limiting the working day does not just constrain capital: it spurs technical improvement, raises intensity of labour and increases competition of machinery with the labourer, while raising order within each workshop and anarchy in capitalism as a whole.",
+  "quote": "the immense spur which the limitation and regulation of the working day give",
+  "anchors": [
+   "ch15-p311"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against productivity/intensity trends after hours limits.",
+  "notes": ""
+ },
+ {
+  "kind": "forecast",
+  "title": "Capitalist agriculture annihilates the peasantry",
+  "claim": "Modern industry in agriculture annihilates the peasant, replaces him with the wage-labourer, evens out class antagonisms between country and town, and concentrates the population in cities (rural population falling absolutely).",
+  "quote": "it annihilates the peasant, that bulwark of the old society",
+  "anchors": [
+   "ch15-p312",
+   "ch15-p313"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Rural population, peasant share and farm wage-labour can be tracked, including counter-cases (family farms).",
+  "notes": "Cites Cambridge/Suffolk rural depopulation; US machines only 'virtually' displacing labour so far."
+ },
+ {
+  "kind": "forecast",
+  "title": "Soil exhaustion and rift in the metabolism of man and earth",
+  "claim": "Capitalist agriculture, concentrating population in towns, disrupts the circulation of matter between man and soil, violating the conditions of lasting fertility; every advance in capitalist agriculture robs the soil as well as the labourer, and the process is fastest in the most industrialised new countries such as the US.",
+  "quote": "a progress towards ruining the lasting sources of that fertility",
+  "anchors": [
+   "ch15-p313"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Soil degradation, fertiliser dependence and nutrient cycling are measurable; counter-evidence (synthetic fertiliser) is also assessable.",
+  "notes": "Relies on Liebig (fn. 246). Marx also says the process 'imperiously calls for' restoration as a systematic law of social production."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "State oversight is evaded when enforcement is thin",
+  "claim": "English factory/workshop/mines laws were largely dead letters because of tiny inspectorates, owner-dominated committees and workers' fear of victimisation; Parliament accepted regulation in principle yet resisted in practice. Mines: 12 inspectors for 3,217 mines in 1865, explosions growing.",
+  "quote": "",
+  "anchors": [
+   "ch15-p282",
+   "ch15-p283",
+   "ch15-p308"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against enforcement capacity and compliance over time, and against accident trends.",
+  "notes": "Includes Select Committee evidence (source: miners, Times). Marx notes the 1872 Act as first limit on mine hours for children."
+ },
+ {
+  "kind": "theme",
+  "title": "Absolute vs relative surplus-value and real subjection",
+  "claim": "Absolute surplus-value turns on lengthening the working day; relative surplus-value revolutionises technical processes and the composition of society. Formal subjection of labour to capital is replaced in development by real subjection. Once capitalism is general, relative surplus-value is the method that continues to operate through revolutions in production.",
+  "quote": "revolutionises out and out the technical processes of labour, and the composition of society",
+  "anchors": [
+   "ch16-p004",
+   "ch16-p006",
+   "ch16-p007"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Largely a definitional/analytic framework; hard to falsify as stated.",
+  "notes": ""
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Mill: profit arises from durability and productivity of labour",
+  "claim": "Mill says profit arises because labour produces more than its support and because capital goods outlast the time to produce them; profit would exist even without exchange or division of employments; profit rate equals the percentage by which labour exceeds wages. Marx calls this tautology and confusion of rate of surplus-value with rate of profit.",
+  "quote": "The cause of profit is that labour produces more than is required for its support.",
+  "anchors": [
+   "ch16-p019",
+   "ch16-p021",
+   "ch16-p023",
+   "ch16-p026",
+   "ch16-p028"
+  ],
+  "speaker": "opponent:John Stuart Mill",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Theoretical dispute about the source of profit; Marx's refutation is arithmetic/definitional.",
+  "notes": "Marx's rebuttal: 4% not 20% profit on £500 capital."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Rising productivity widens the abyss between worker and capitalist",
+  "claim": "Even if the mass of necessaries a worker obtains grows, productivity gains that cheapen labour-power raise surplus-value, so the gap between worker and capitalist keeps widening; the price of labour-power can keep falling while real consumption rises.",
+  "quote": "the abyss between the labourer's position and that of the capitalist would keep widening",
+  "anchors": [
+   "ch17-p014"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Testable via labour share of income/inequality over time while real wages rise.",
+  "notes": "Marx separates real wages from relative position; this is a claim of relative, not absolute, deterioration."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Shorter working day tends to be followed by higher productivity and intensity",
+  "claim": "Arguments against shortening the working day assume constant productivity and intensity, but in reality a change in productiveness and intensity precedes or immediately follows a shortening; intensity and productiveness make shorter days possible, and shortening raises intensity.",
+  "quote": "The more the productiveness of labour increases, the more can the working day be shortened",
+  "anchors": [
+   "ch17-p025",
+   "ch17-p033"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against output per hour after hours reductions in historical episodes.",
+  "notes": "Cites factory inspectors (source) on the Ten Hours Act."
+ },
+ {
+  "kind": "forecast",
+  "title": "Under capitalism the working day cannot shrink to necessary labour",
+  "claim": "Surplus labour cannot vanish under capital (shrinking the working day to the necessary labour-time is utterly impossible under the capitalist regime); the working day could fall to necessary labour only after abolishing the capitalist form, and even then the necessary part would expand with standard of life and accumulation fund.",
+  "quote": "a consummation utterly impossible under the régime of capital",
+  "anchors": [
+   "ch17-p032"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Testable as a claim that hours will not fall below the level that preserves surplus labour; the boundary is loosely specified.",
+  "notes": "Strongly worded 'impossible', though he treats it as a conceptual limit."
+ },
+ {
+  "kind": "theme",
+  "title": "Wage form conceals unpaid labour",
+  "claim": "The wage appears as payment for all labour (price of labour), erasing the division between paid and unpaid labour; this mirror-image phenomenal form underlies juridical notions of liberty and the apologetics of vulgar economy. Slavery and corvee show the division openly; wage labour hides it.",
+  "quote": "The wage form thus extinguishes every trace of the division of the working day",
+  "anchors": [
+   "ch19-p004",
+   "ch19-p011",
+   "ch19-p012",
+   "ch19-p013"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "An interpretive claim about ideology and appearance with no clear outcome that would contradict it.",
+  "notes": ""
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Hourly and casual pay lets capital lengthen hours and cut regularity",
+  "claim": "If wages are fixed per hour with no guaranteed hours, the link between paid and unpaid labour is destroyed: the capitalist can extort surplus labour without allowing necessary labour-time, make overwork alternate with idleness, and abnormally lengthen the day; legal limits end this but not machine competition and crises.",
+  "quote": "He can annihilate all regularity of employment",
+  "anchors": [
+   "ch20-p007",
+   "ch20-p008",
+   "ch20-p010"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against on-call/zero-hours and underemployment trends in hourly-pay regimes.",
+  "notes": "Cites the 1860 London building trades revolt against hourly wage."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Long hours and low wages go together; overtime premium traps workers",
+  "claim": "Where hours are long, wages per hour are low; low hourly pay compels workers into overtime to secure a living, and a normal day is treated as a fraction of the actual one; falling price of labour stimulates longer hours.",
+  "quote": "the longer the working days, in any branch of industry, the lower are the wages",
+  "anchors": [
+   "ch20-p013",
+   "ch20-p014",
+   "ch20-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Cross-sectional correlation of hours and hourly pay can be tested.",
+  "notes": "Cites Redgrave, factory inspector (source)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Piece-wages promote intensity, subcontracting and falling average wages",
+  "claim": "Piece-wage gives capital a measure of intensity, makes supervision superfluous, underlies domestic outwork and sub-letting ('sweating'), exploitation of labourer by labourer, and, by fostering individual competition, tends to lower the average wage while raising individual wages; it becomes the general rule under factory limits.",
+  "quote": "a tendency, while raising individual wages above the average, to lower this average itself",
+  "anchors": [
+   "ch21-p013",
+   "ch21-p014",
+   "ch21-p015",
+   "ch21-p016",
+   "ch21-p022"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against evidence on piece-rate/performance pay, gig subcontracting and average wage trends.",
+  "notes": "Marx calls piece-wage 'the form of wages most in harmony with the capitalist mode of production'."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Employers: productivity gains of labour do not concern workers",
+  "claim": "Capitalists/apologists (Bright & Co., 'On Combination of Trades') say workmen have no claim to share profits from new machinery and that demanding higher wages as labour is abbreviated is a tax on improvement; Watts says piece-workers are their own masters. Marx treats these as apologetic.",
+  "quote": "",
+  "anchors": [
+   "ch21-p004",
+   "ch21-p025",
+   "ch21-p024"
+  ],
+  "speaker": "opponent:Watts / employers",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "The factual question of whether productivity gains pass to wages is testable.",
+  "notes": "Marx quotes the Bright & Co. case (source) as an illustration."
+ },
+ {
+  "kind": "theme",
+  "title": "National differences of wages and the international law of value",
+  "claim": "Countries with more developed capitalism have higher national intensity and productivity, hence higher nominal wages, but the relative price of labour (per unit product, vs surplus-value) can be lower; high nominal wages do not prove high real wages or high labour cost.",
+  "quote": "the national intensity and productivity of labour there rise above the international level",
+  "anchors": [
+   "ch22-p002",
+   "ch22-p003",
+   "ch22-p004",
+   "ch22-p005"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Compare unit labour costs vs wage levels across countries.",
+  "notes": "Supported by factory inspector Redgrave (source) on spindles per operative; cites Cowell."
+ },
+ {
+  "kind": "theme",
+  "title": "Reproduction of the capital relation",
+  "claim": "Continuity of production reproduces not only goods and surplus-value but the capital relation itself: capitalist on one side, wage labourer on the other; the worker is bound by invisible threads, belongs to capital before selling himself, and wages are the worker's own prior product.",
+  "quote": "the wage labourer is bound to his owner by invisible threads",
+  "anchors": [
+   "ch23-p010",
+   "ch23-p015",
+   "ch23-p024",
+   "ch23-p025",
+   "ch23-p005"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Structural/analytic claim; compatible with almost any distribution outcome.",
+  "notes": ""
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Every capital becomes capitalised unpaid labour",
+  "claim": "Even if capital originally came from the owner's own labour, simple reproduction eventually converts every capital into capitalised surplus-value; the older capital is consumed and what remains represents appropriated unpaid labour.",
+  "quote": "sooner or later, and of necessity, converts every capital into accumulated capital, or capitalised surplus-value",
+  "anchors": [
+   "ch23-p008",
+   "ch23-p009",
+   "ch24-p013",
+   "ch24-p036"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "An accounting/labour-theory claim about the origin of capital value, not independently falsifiable.",
+  "notes": "Contrast with the political-economy story of 'primitive labour' and abstinence (ch24-p012, p029)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capital treats worker consumption as productive only if it reproduces labour-power",
+  "claim": "The capitalist and economist count as productive only the worker's consumption needed to perpetuate the class; capital seeks to reduce individual consumption to the strictly necessary and trusts the worker's instincts of self-preservation and propagation; rising wages with no extra demand for labour would be 'unproductive'.",
+  "quote": "reduce the labourer's individual consumption as far as possible to what is strictly necessary",
+  "anchors": [
+   "ch23-p013",
+   "ch23-p014"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable via wage share/consumption policy; but Marx hedges 'within the limits of what is strictly necessary'.",
+  "notes": "Ricardo/Malthus/J. Mill in footnotes hold the 'productive consumption' view."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capital claims proprietary right over a skilled labouring class",
+  "claim": "In the cotton famine capitalists (Potter) treated skilled workers as the manufacturers' 'living machinery', opposed emigration, and public opinion kept the operatives locked in the cotton districts; the Times replied that human machinery rusts and spreads discontent. Skill accumulates across generations.",
+  "quote": "they are the mental and trained power",
+  "anchors": [
+   "ch23-p017",
+   "ch23-p020",
+   "ch23-p021",
+   "ch23-p023"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Compare how employers and states handle labour supply, migration and retraining in downturns.",
+  "notes": "Potter's claims are from a source (a manufacturer's letter to the Times); the Times article is reported as a jeu d'esprit."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Accumulation is self-reinforcing",
+  "claim": "The more the capitalist has accumulated, the more is he able to accumulate; ownership of past unpaid labour becomes the sole condition for appropriating living unpaid labour on a constantly increasing scale; capital arises from the unpaid labour of the working class (the tribute exacted by the capitalist class), and new capital may be a machine that replaces the producers with children.",
+  "quote": "The more the capitalist has accumulated, the more is he able to accumulate.",
+  "anchors": [
+   "ch24-p013",
+   "ch24-p014",
+   "ch24-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Testable as increasing concentration of wealth/capital with cumulative returns; compare wealth-inequality data.",
+  "notes": "The machine-replaces-producers line anticipates later chapters on accumulation and the reserve army."
+ },
+ {
+  "kind": "theme",
+  "title": "Laws of property turn into laws of capitalist appropriation",
+  "claim": "Exchange of equivalents, applied consistently, produces appropriation without equivalent: each act of purchase of labour-power follows commodity-exchange law, yet the ensemble means that capital exchanged for labour-power is itself the product of others' unpaid labour. Capitalist appropriation arises from application, not violation, of commodity-production's property laws.",
+  "quote": "changed into their very opposite",
+  "anchors": [
+   "ch24-p016",
+   "ch24-p017",
+   "ch24-p034",
+   "ch24-p035"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "A dialectical/analytic claim ('inner dialectic') with no definite empirical prediction.",
+  "notes": "The passage ch24-p017 to p035 is a later addition from the 4th German edition."
+ },
+ {
+  "kind": "forecast",
+  "title": "Social wealth becomes ever more the property of those who appropriate unpaid labour",
+  "claim": "In the period of capitalism social wealth becomes to an ever-increasing degree the property of those in a position to appropriate unpaid labour of others continually, and original capital becomes a vanishing quantity relative to accumulated surplus-value.",
+  "quote": "to an ever-increasing degree the property of those who are in a position to appropriate",
+  "anchors": [
+   "ch24-p034",
+   "ch24-p036"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Testable against the trend in concentration of wealth and capital's share, and against the proportion of capital that is accumulated profit.",
+  "notes": "Related claim in the Economist quoted in fn. 11 (source)."
+ }
+]

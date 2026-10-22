@@ -1,0 +1,18 @@
+{
+ "file": "ch25-s5f.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch25-p287",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "the pieces of land belonging thereto from time immemorial, are systematically confiscated",
+   "rewrite": "the pieces of land that have belonged to them from time immemorial are systematically confiscated",
+   "problem": "\"thereto\" refers to the huts (\"these holes\"), but \"them\" now reads as \"the workers\", the nearest antecedent.",
+   "fix": "\"the pieces of land that have belonged to these huts from time immemorial are systematically confiscated\""
+  }
+ ],
+ "notes_review": "The logged judgment calls are sound: the broken table fragments are copied exactly, the oats discrepancy (160,605 / 166,605) and the unmatched quotation marks are left as printed, the Horace and German translations are literal, and adding \"as he sees it\" in p302 keeps Lord Dufferin's free indirect speech from reading as Marx's own claim. The p276 \"naïveté\" restructuring keeps both steps of the argument and the mockery.",
+ "summary": "Fidelity is high throughout: all the figures, the tables, the Baker testimony, the Poor Law quotations and the Dufferin/Sangrado irony are intact. The prose is plain and readable, and there is one small reference slip in p287."
+}

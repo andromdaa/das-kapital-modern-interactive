@@ -1,0 +1,63 @@
+{
+ "&c.": {
+  "paragraphs_with_term": 0,
+  "misses": [
+   {
+    "file": "ch01-s3c.md",
+    "id": "ch01-p095",
+    "kind": "archaic left"
+   },
+   {
+    "file": "ch01-s3c.md",
+    "id": "ch01-p096",
+    "kind": "archaic left"
+   }
+  ]
+ },
+ "manufactory": {
+  "paragraphs_with_term": 26,
+  "misses": [
+   {
+    "file": "ch14-s4.md",
+    "id": "ch14-p030",
+    "kind": "rendering not used",
+    "original": "manufactories"
+   }
+  ]
+ },
+ "operatives": {
+  "paragraphs_with_term": 73,
+  "misses": [
+   {
+    "file": "ch15-s2.md",
+    "id": "ch15-p027",
+    "kind": "rendering not used",
+    "original": "operative"
+   },
+   {
+    "file": "ch15-s3a.md",
+    "id": "ch15-p060",
+    "kind": "rendering not used",
+    "original": "operatives"
+   },
+   {
+    "file": "ch15-s3c.md",
+    "id": "ch15-p077",
+    "kind": "rendering not used",
+    "original": "operative"
+   },
+   {
+    "file": "ch15-s5.md",
+    "id": "ch15-p116",
+    "kind": "rendering not used",
+    "original": "operatives"
+   },
+   {
+    "file": "ch15-s6.md",
+    "id": "ch15-p156",
+    "kind": "rendering not used",
+    "original": "operative"
+   }
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "ch25-s2.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch25-p023",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "ambiguity resolved",
+   "original": "On the basis of the production of commodities, where the means of production are the property of private persons, and where the artisan therefore either produces commodities",
+   "rewrite": "On the basis of the production of commodities, the means of production are the property of private persons. So the craftsman either produces commodities",
+   "problem": "Marx's \"where\" clauses can be read as restricting which commodity production he means; the split turns them into a flat general claim that commodity production always involves private ownership.",
+   "fix": "Keep the \"where\" clauses attached: \"Take the basis of the production of commodities, where the means of production are the property of private persons, and where the craftsman therefore either produces commodities ..., or sells his labor-power ... . On this basis, cooperation ...\"."
+  }
+ ],
+ "notes_review": "The logged calls are sound: leaving out §7 for primitive accumulation, concentration and centralization, where Marx defines them himself, the adjusted expropriation wording, and the \"depends on\" typo fix are all justified. Note 12 misquotes the glossary (it gives \"fractional part / share\", not \"equal fraction\"), but the rendering chosen agrees with the real entry.",
+ "summary": "Fidelity is high: all figures, percentages and the argument on concentration and centralization are intact, with one clause split that narrows a possibly restrictive \"where\". The prose is clear, and the first-use explanations are placed without breaking Marx's argument."
+}

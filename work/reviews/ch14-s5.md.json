@@ -1,0 +1,38 @@
+{
+ "file": "ch14-s5.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch14-p055",
+   "kind": "drift",
+   "severity": "medium",
+   "category": "concept explanation",
+   "original": "Political Economy, which as an independent science, first sprang into being during the period of manufacture",
+   "rewrite": "Political economy, which first arose as an independent science during the period of manufacture",
+   "problem": "This is the first use of 'political economy' in Marx's voice in Ch. 14 (earlier uses are in titles or as 'political economist'), but it gets no §7 explanation; the context file wrongly lists it as already explained.",
+   "fix": "Political economy (the science of economics as it was then called), which first arose as an independent science during the period of manufacture"
+  },
+  {
+   "id": "ch14-p056",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "owing to the preponderating influence of the skilled",
+   "rewrite": "because of the overwhelming influence of the skilled",
+   "problem": "'overwhelming' is stronger than 'preponderating' (outweighing, predominant).",
+   "fix": "because of the predominant influence of the skilled"
+  },
+  {
+   "id": "ch14-p054",
+   "kind": "drift",
+   "severity": "low",
+   "category": "structure",
+   "original": "not only for the benefit of the capitalist instead of for that of the labourer, but it does this by crippling the individual labourers",
+   "rewrite": "not only for the benefit of the capitalist instead of the worker; it does this by crippling the individual workers",
+   "problem": "Dropping 'but' leaves 'not only' without its partner, so the two-part claim reads awkwardly.",
+   "fix": "not only for the benefit of the capitalist instead of the worker, but it does this by crippling the individual workers"
+  }
+ ],
+ "notes_review": "The judgment calls are sound: the added 'For them,' correctly keeps the ancients' view from reading as Marx's own, and the literal re-translations of Beccaria, Archilochus and the Plato fragment follow §2.3. The shortened constant/variable capital glosses in p040 are an acceptable near-verbatim use of §7 in a dense sentence.",
+ "summary": "Fidelity is high: irony ('friend Ure', Roscher), attributions, Greek and Italian texts and all citations survive, with only a small strength slip. Readability is good once the missing 'political economy' explanation and the broken 'not only ... but' are restored."
+}

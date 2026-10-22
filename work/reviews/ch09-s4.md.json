@@ -1,0 +1,7 @@
+{
+ "file": "ch09-s4.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "All logged calls are sound: the typo fixes (\"modem\", \"Th .\", \",.\") are one-reading, \"surplus-produce\" is rightly left to Marx's own definition, and \"size\" for the non-technical \"greatness\"/\"magnitude\" is fine.",
+ "summary": "Fidelity is complete: both comparisons in p043, the Ricardo, Young and Hopkins quotations and Marx's jibe at Young all survive unchanged in strength. The prose is plain and readable."
+}

@@ -1,0 +1,2245 @@
+{
+ "units": {
+  "00-front.md": {
+   "state": "n/a (title page and contents only; not rewritten)",
+   "chapter": 0,
+   "words": 1283
+  },
+  "ch01-s1.md": {
+   "state": "fixed",
+   "chapter": 1,
+   "words": 2903,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:27:16"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:30:43"
+    ]
+   ],
+   "ratio": 0.999,
+   "review": "ok"
+  },
+  "ch01-s2.md": {
+   "state": "fixed",
+   "chapter": 1,
+   "words": 2929,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:27:16"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:30:43"
+    ]
+   ],
+   "ratio": 0.993,
+   "review": "minor fixes"
+  },
+  "ch01-s3a.md": {
+   "state": "fixed",
+   "chapter": 1,
+   "words": 3422,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:27:12"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:30:43"
+    ]
+   ],
+   "ratio": 1.013,
+   "review": "ok"
+  },
+  "ch01-s3b.md": {
+   "state": "fixed",
+   "chapter": 1,
+   "words": 3551,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:27:36"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:30:44"
+    ]
+   ],
+   "ratio": 1.02,
+   "review": "minor fixes"
+  },
+  "ch01-s3c.md": {
+   "state": "fixed",
+   "chapter": 1,
+   "words": 3524,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:27:35"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:30:44"
+    ]
+   ],
+   "ratio": 0.99,
+   "review": "ok"
+  },
+  "ch01-s4.md": {
+   "state": "fixed",
+   "chapter": 1,
+   "words": 6495,
+   "history": [
+    [
+     "checked",
+     "2026-10-22T12:48:08"
+    ],
+    [
+     "fixed",
+     "2026-10-22T12:51:17"
+    ]
+   ],
+   "ratio": "1.02",
+   "review": "minor"
+  },
+  "ch02.md": {
+   "state": "fixed",
+   "chapter": 2,
+   "words": 4439,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:28:07"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:29:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:32:18"
+    ]
+   ],
+   "ratio": 1.055,
+   "review": "minor fixes"
+  },
+  "ch03-s1.md": {
+   "state": "fixed",
+   "chapter": 3,
+   "words": 4737,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:29:03"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:29:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:32:18"
+    ]
+   ],
+   "ratio": 1.05,
+   "review": "ok"
+  },
+  "ch03-s2a.md": {
+   "state": "fixed",
+   "chapter": 3,
+   "words": 5023,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:28:58"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:29:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:32:18"
+    ]
+   ],
+   "ratio": 1.027,
+   "review": "ok"
+  },
+  "ch03-s2b.md": {
+   "state": "fixed",
+   "chapter": 3,
+   "words": 5417,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:24:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:28:44"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:29:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:32:18"
+    ]
+   ],
+   "ratio": 1.001,
+   "review": "minor fixes"
+  },
+  "ch03-s2c.md": {
+   "state": "fixed",
+   "chapter": 3,
+   "words": 2407,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:27:15"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:29:15"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:29:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:32:18"
+    ]
+   ],
+   "ratio": 0.998,
+   "review": "minor fixes"
+  },
+  "ch03-s3a.md": {
+   "state": "fixed",
+   "chapter": 3,
+   "words": 5800,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:27:19"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:31:49"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:32:00"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:34:26"
+    ]
+   ],
+   "ratio": 1.001,
+   "review": "ok"
+  },
+  "ch03-s3b.md": {
+   "state": "fixed",
+   "chapter": 3,
+   "words": 2009,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:27:19"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:28:54"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:32:00"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:34:26"
+    ]
+   ],
+   "ratio": 1.005,
+   "review": "minor fixes"
+  },
+  "ch04.md": {
+   "state": "fixed",
+   "chapter": 4,
+   "words": 4476,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:31:30"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:32:00"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:34:26"
+    ]
+   ],
+   "ratio": 1.032,
+   "review": "ok"
+  },
+  "ch05.md": {
+   "state": "fixed",
+   "chapter": 5,
+   "words": 5535,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:27:39"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:31:57"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:32:00"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:34:26"
+    ]
+   ],
+   "ratio": 1.037,
+   "review": "minor fixes"
+  },
+  "ch06.md": {
+   "state": "fixed",
+   "chapter": 6,
+   "words": 4628,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:28:09"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:31:58"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:32:00"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:34:26"
+    ]
+   ],
+   "ratio": 1.044,
+   "review": "minor fixes"
+  },
+  "ch07-s1.md": {
+   "state": "fixed",
+   "chapter": 7,
+   "words": 3967,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:28:45"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:31:41"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:33:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:35:52"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "ok"
+  },
+  "ch07-s2.md": {
+   "state": "fixed",
+   "chapter": 7,
+   "words": 6396,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:29:01"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:33:33"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:33:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:35:52"
+    ]
+   ],
+   "ratio": 1.004,
+   "review": "minor fixes"
+  },
+  "ch08.md": {
+   "state": "fixed",
+   "chapter": 8,
+   "words": 5804,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:29:01"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:33:16"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:33:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:35:52"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "ok"
+  },
+  "ch09-s1.md": {
+   "state": "fixed",
+   "chapter": 9,
+   "words": 3996,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:29:04"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:32:41"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:33:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:35:52"
+    ]
+   ],
+   "ratio": 1.068,
+   "review": "ok"
+  },
+  "ch09-s2.md": {
+   "state": "fixed",
+   "chapter": 9,
+   "words": 1513,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:30:45"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:32:20"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:33:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:35:52"
+    ]
+   ],
+   "ratio": 1.013,
+   "review": "ok"
+  },
+  "ch09-s3.md": {
+   "state": "fixed",
+   "chapter": 9,
+   "words": 2912,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:31:32"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:33:52"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:35:28"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:38:01"
+    ]
+   ],
+   "ratio": 1.004,
+   "review": "minor fixes"
+  },
+  "ch09-s4.md": {
+   "state": "fixed",
+   "chapter": 9,
+   "words": 395,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:31:51"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:32:46"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:35:28"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:38:01"
+    ]
+   ],
+   "ratio": 1.003,
+   "review": "ok"
+  },
+  "ch10-s1.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 1883,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:31:51"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:34:01"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:35:28"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:38:02"
+    ]
+   ],
+   "ratio": 1.108,
+   "review": "ok"
+  },
+  "ch10-s2.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 3640,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:32:00"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:34:44"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:35:28"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:38:02"
+    ]
+   ],
+   "ratio": 1.017,
+   "review": "minor fixes"
+  },
+  "ch10-s3.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 6192,
+   "history": [
+    [
+     "checked",
+     "2026-10-22T12:46:29"
+    ],
+    [
+     "fixed",
+     "2026-10-22T12:48:24"
+    ]
+   ],
+   "ratio": "1.03",
+   "review": "minor"
+  },
+  "ch10-s4.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 3988,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:32:20"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:35:27"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:35:28"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:38:02"
+    ]
+   ],
+   "ratio": 1.012,
+   "review": "minor fixes"
+  },
+  "ch10-s5a.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 3141,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:32:21"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:34:38"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:36:16"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:39:11"
+    ]
+   ],
+   "ratio": 1.021,
+   "review": "minor fixes"
+  },
+  "ch10-s5b.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 3457,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:32:42"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:35:22"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:36:16"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:39:11"
+    ]
+   ],
+   "ratio": 1.013,
+   "review": "minor fixes"
+  },
+  "ch10-s6a.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 4457,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:32:47"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:36:15"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:36:16"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:39:11"
+    ]
+   ],
+   "ratio": 1.009,
+   "review": "minor fixes"
+  },
+  "ch10-s6b.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 4626,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:33:18"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:36:02"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:36:16"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:39:11"
+    ]
+   ],
+   "ratio": 1.02,
+   "review": "minor fixes"
+  },
+  "ch10-s7.md": {
+   "state": "fixed",
+   "chapter": 10,
+   "words": 2492,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:33:53"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:36:05"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:36:16"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:39:11"
+    ]
+   ],
+   "ratio": 1.016,
+   "review": "ok"
+  },
+  "ch11.md": {
+   "state": "fixed",
+   "chapter": 11,
+   "words": 4005,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:34:02"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:37:44"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:38:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:41:34"
+    ]
+   ],
+   "ratio": 1.1,
+   "review": "minor fixes"
+  },
+  "ch12.md": {
+   "state": "fixed",
+   "chapter": 12,
+   "words": 4489,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:34:27"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:38:16"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:38:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:41:34"
+    ]
+   ],
+   "ratio": 1.072,
+   "review": "minor fixes"
+  },
+  "ch13a.md": {
+   "state": "fixed",
+   "chapter": 13,
+   "words": 3400,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:34:39"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:37:09"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:38:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:41:34"
+    ]
+   ],
+   "ratio": 1.123,
+   "review": "minor fixes"
+  },
+  "ch13b.md": {
+   "state": "fixed",
+   "chapter": 13,
+   "words": 3175,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:34:45"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:36:32"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:38:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:41:34"
+    ]
+   ],
+   "ratio": 1.035,
+   "review": "minor fixes"
+  },
+  "ch14-s1.md": {
+   "state": "fixed",
+   "chapter": 14,
+   "words": 1399,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:35:23"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:36:59"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:38:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:41:34"
+    ]
+   ],
+   "ratio": 1.108,
+   "review": "ok"
+  },
+  "ch14-s2.md": {
+   "state": "fixed",
+   "chapter": 14,
+   "words": 1357,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:35:53"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:37:32"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:40:26"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:43:40"
+    ]
+   ],
+   "ratio": 1.041,
+   "review": "ok"
+  },
+  "ch14-s3.md": {
+   "state": "fixed",
+   "chapter": 14,
+   "words": 4015,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:36:03"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:39:31"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:40:26"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:43:40"
+    ]
+   ],
+   "ratio": 1.06,
+   "review": "minor fixes"
+  },
+  "ch14-s4.md": {
+   "state": "fixed",
+   "chapter": 14,
+   "words": 4224,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:36:06"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:38:39"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:40:26"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:43:40"
+    ]
+   ],
+   "ratio": 1.011,
+   "review": "minor fixes"
+  },
+  "ch14-s5.md": {
+   "state": "fixed",
+   "chapter": 14,
+   "words": 4732,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:36:34"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:40:24"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:40:26"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:43:40"
+    ]
+   ],
+   "ratio": 1.017,
+   "review": "minor fixes"
+  },
+  "ch15-s1a.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 3441,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:37:01"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:39:57"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:40:26"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:43:40"
+    ]
+   ],
+   "ratio": 1.038,
+   "review": "ok"
+  },
+  "ch15-s1b.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 3660,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:37:10"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:39:56"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:41:46"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:44:24"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "minor fixes"
+  },
+  "ch15-s2.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 3974,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:37:34"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:39:34"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:41:46"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:44:24"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "minor fixes"
+  },
+  "ch15-s3a.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4049,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:37:46"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:39:57"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:41:46"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:44:24"
+    ]
+   ],
+   "ratio": 1.003,
+   "review": "minor fixes"
+  },
+  "ch15-s3b.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 2907,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:38:03"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:40:26"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:41:46"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:44:24"
+    ]
+   ],
+   "ratio": 1.03,
+   "review": "minor fixes"
+  },
+  "ch15-s3c.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4282,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:38:40"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:41:45"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:41:46"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:44:24"
+    ]
+   ],
+   "ratio": 1.005,
+   "review": "minor fixes"
+  },
+  "ch15-s4.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4457,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:39:12"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:42:19"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:42:51"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:45:29"
+    ]
+   ],
+   "ratio": 1.007,
+   "review": "minor fixes"
+  },
+  "ch15-s5.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4583,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:39:32"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:42:10"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:42:51"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:45:29"
+    ]
+   ],
+   "ratio": 1.011,
+   "review": "minor fixes"
+  },
+  "ch15-s6.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4104,
+   "history": [
+    [
+     "checked",
+     "2026-10-22T12:47:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T12:49:06"
+    ]
+   ],
+   "ratio": "1.01",
+   "review": "minor"
+  },
+  "ch15-s7.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 5374,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:39:35"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:42:21"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:42:51"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:45:29"
+    ]
+   ],
+   "ratio": 1.007,
+   "review": "minor fixes"
+  },
+  "ch15-s8a.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4442,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:39:59"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:42:46"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:42:51"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:45:29"
+    ]
+   ],
+   "ratio": 0.992,
+   "review": "ok"
+  },
+  "ch15-s8b.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 4899,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:39:59"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:42:49"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:42:51"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:45:29"
+    ]
+   ],
+   "ratio": 1.01,
+   "review": "ok"
+  },
+  "ch15-s9a.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 5664,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:39:59"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:43:02"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:19"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:09"
+    ]
+   ],
+   "ratio": 1.01,
+   "review": "minor fixes"
+  },
+  "ch15-s9b.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 5660,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:40:27"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:43:22"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:19"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:09"
+    ]
+   ],
+   "ratio": 1.01,
+   "review": "ok"
+  },
+  "ch15-s10.md": {
+   "state": "fixed",
+   "chapter": 15,
+   "words": 1231,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:41:35"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:42:43"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:19"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:09"
+    ]
+   ],
+   "ratio": 1.013,
+   "review": "ok"
+  },
+  "ch16.md": {
+   "state": "fixed",
+   "chapter": 16,
+   "words": 4767,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:42:11"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:46:17"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:19"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:09"
+    ]
+   ],
+   "ratio": 1.073,
+   "review": "ok"
+  },
+  "ch17.md": {
+   "state": "fixed",
+   "chapter": 17,
+   "words": 5080,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:42:22"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:45:45"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:19"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:09"
+    ]
+   ],
+   "ratio": 1.061,
+   "review": "minor fixes"
+  },
+  "ch18.md": {
+   "state": "fixed",
+   "chapter": 18,
+   "words": 1496,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:42:22"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:45:23"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:47"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:37"
+    ]
+   ],
+   "ratio": 1.213,
+   "review": "minor fixes"
+  },
+  "ch19.md": {
+   "state": "fixed",
+   "chapter": 19,
+   "words": 3421,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:42:45"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:46:21"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:47"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:37"
+    ]
+   ],
+   "ratio": 1.126,
+   "review": "ok"
+  },
+  "ch20.md": {
+   "state": "fixed",
+   "chapter": 20,
+   "words": 3775,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:42:48"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:45:21"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:47"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:37"
+    ]
+   ],
+   "ratio": 1.079,
+   "review": "minor fixes"
+  },
+  "ch21.md": {
+   "state": "fixed",
+   "chapter": 21,
+   "words": 3968,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:43:03"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:46:46"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:47"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:37"
+    ]
+   ],
+   "ratio": 1.131,
+   "review": "minor fixes"
+  },
+  "ch22.md": {
+   "state": "fixed",
+   "chapter": 22,
+   "words": 2106,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:43:23"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:45:50"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:46:47"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:49:37"
+    ]
+   ],
+   "ratio": 1.161,
+   "review": "minor fixes"
+  },
+  "ch23a.md": {
+   "state": "fixed",
+   "chapter": 23,
+   "words": 3413,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:43:42"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:46:30"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:48:55"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:51:46"
+    ]
+   ],
+   "ratio": 1.068,
+   "review": "ok"
+  },
+  "ch23b.md": {
+   "state": "fixed",
+   "chapter": 23,
+   "words": 3298,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:44:26"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:46:24"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:48:55"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:51:46"
+    ]
+   ],
+   "ratio": 1.002,
+   "review": "minor fixes"
+  },
+  "ch24-s1.md": {
+   "state": "fixed",
+   "chapter": 24,
+   "words": 3958,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:45:24"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:48:52"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:48:55"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:51:46"
+    ]
+   ],
+   "ratio": 1.085,
+   "review": "minor fixes"
+  },
+  "ch24-s2.md": {
+   "state": "fixed",
+   "chapter": 24,
+   "words": 1484,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:45:24"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:47:13"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:48:55"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:51:46"
+    ]
+   ],
+   "ratio": 1.055,
+   "review": "minor fixes"
+  },
+  "ch24-s3.md": {
+   "state": "fixed",
+   "chapter": 24,
+   "words": 3611,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:45:31"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:48:06"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:48:55"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:51:46"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "minor fixes"
+  },
+  "ch24-s4.md": {
+   "state": "fixed",
+   "chapter": 24,
+   "words": 4854,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:45:46"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:48:17"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:50:30"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:52:59"
+    ]
+   ],
+   "ratio": 1.017,
+   "review": "minor fixes"
+  },
+  "ch24-s5.md": {
+   "state": "fixed",
+   "chapter": 24,
+   "words": 1484,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:45:52"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:47:26"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:50:30"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:52:59"
+    ]
+   ],
+   "ratio": 1.038,
+   "review": "ok"
+  },
+  "ch25-s1.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 4587,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:46:24"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:50:22"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:50:30"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:52:59"
+    ]
+   ],
+   "ratio": 1.074,
+   "review": "minor fixes"
+  },
+  "ch25-s2.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 3068,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:46:25"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:49:05"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:50:30"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:52:59"
+    ]
+   ],
+   "ratio": 1.04,
+   "review": "minor fixes"
+  },
+  "ch25-s3.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 5411,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:46:32"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:50:28"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:50:30"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:52:59"
+    ]
+   ],
+   "ratio": 1.017,
+   "review": "ok"
+  },
+  "ch25-s4.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 3500,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:47:15"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:49:28"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:24"
+    ]
+   ],
+   "ratio": 1.049,
+   "review": "minor fixes"
+  },
+  "ch25-s5a.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 2401,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:47:28"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:49:07"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:24"
+    ]
+   ],
+   "ratio": 1.008,
+   "review": "minor fixes"
+  },
+  "ch25-s5b.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 5641,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:48:08"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:51:05"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:24"
+    ]
+   ],
+   "ratio": 1.012,
+   "review": "ok"
+  },
+  "ch25-s5c.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 2433,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:48:18"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:49:44"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:24"
+    ]
+   ],
+   "ratio": 1.029,
+   "review": "ok"
+  },
+  "ch25-s5d.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 6257,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:49:07"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:53:14"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:17"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:24"
+    ]
+   ],
+   "ratio": 1.013,
+   "review": "ok"
+  },
+  "ch25-s5e.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 4853,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:49:10"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:52:47"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:53"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:26"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "minor fixes"
+  },
+  "ch25-s5f.md": {
+   "state": "fixed",
+   "chapter": 25,
+   "words": 5616,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:49:10"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:53:51"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:53"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:26"
+    ]
+   ],
+   "ratio": 1.012,
+   "review": "minor fixes"
+  },
+  "ch26.md": {
+   "state": "fixed",
+   "chapter": 26,
+   "words": 1445,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:49:29"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:51:08"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:53"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:26"
+    ]
+   ],
+   "ratio": 1.159,
+   "review": "ok"
+  },
+  "ch27a.md": {
+   "state": "fixed",
+   "chapter": 27,
+   "words": 4167,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:49:39"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:53:18"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:53"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:26"
+    ]
+   ],
+   "ratio": 1.044,
+   "review": "ok"
+  },
+  "ch27b.md": {
+   "state": "fixed",
+   "chapter": 27,
+   "words": 4556,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:49:46"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:53:14"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:53:53"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:56:26"
+    ]
+   ],
+   "ratio": 1.025,
+   "review": "minor fixes"
+  },
+  "ch28.md": {
+   "state": "fixed",
+   "chapter": 28,
+   "words": 3847,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:50:23"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:54:29"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:56:09"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:58:40"
+    ]
+   ],
+   "ratio": 1.099,
+   "review": "minor fixes"
+  },
+  "ch29.md": {
+   "state": "fixed",
+   "chapter": 29,
+   "words": 1290,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:51:06"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:52:29"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:56:09"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:58:40"
+    ]
+   ],
+   "ratio": 1.127,
+   "review": "minor fixes"
+  },
+  "ch30.md": {
+   "state": "fixed",
+   "chapter": 30,
+   "words": 1992,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:51:10"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:53:14"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:56:09"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:58:40"
+    ]
+   ],
+   "ratio": 1.142,
+   "review": "minor fixes"
+  },
+  "ch31.md": {
+   "state": "fixed",
+   "chapter": 31,
+   "words": 4854,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:51:47"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:56:09"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:56:09"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:58:40"
+    ]
+   ],
+   "ratio": 1.073,
+   "review": "minor fixes"
+  },
+  "ch32.md": {
+   "state": "fixed",
+   "chapter": 32,
+   "words": 1307,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:52:30"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:54:24"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:56:09"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:58:40"
+    ]
+   ],
+   "ratio": 1.14,
+   "review": "ok"
+  },
+  "ch33.md": {
+   "state": "fixed",
+   "chapter": 33,
+   "words": 4312,
+   "history": [
+    [
+     "rewriting",
+     "2026-10-22T13:52:48"
+    ],
+    [
+     "checked",
+     "2026-10-22T13:55:32"
+    ],
+    [
+     "reviewing",
+     "2026-10-22T13:55:34"
+    ],
+    [
+     "fixed",
+     "2026-10-22T13:57:02"
+    ]
+   ],
+   "ratio": 1.057,
+   "review": "minor fixes"
+  }
+ },
+ "splits": [
+  "ch01-s3a.md: ch01-p037..ch01-p066 (3379 words), starts at the section start",
+  "ch01-s3b.md: ch01-p067..ch01-p094 (3527 words), starts at a paragraph boundary",
+  "ch01-s3c.md: ch01-p095..ch01-p130 (3434 words), starts at a sub-section heading",
+  "ch03-s2a.md: ch03-p024..ch03-p046 (4980 words), starts at the section start",
+  "ch03-s2b.md: ch03-p047..ch03-p062 (5403 words), starts at a sub-section heading",
+  "ch03-s2c.md: ch03-p063..ch03-p070 (2395 words), starts at a sub-section heading",
+  "ch03-s3a.md: ch03-p071..ch03-p093 (5764 words), starts at the section start",
+  "ch03-s3b.md: ch03-p094..ch03-p099 (1997 words), starts at a sub-section heading",
+  "ch10-s5a.md: ch10-p110..ch10-p121 (3094 words), starts at the section start",
+  "ch10-s5b.md: ch10-p122..ch10-p134 (3438 words), starts at a paragraph boundary",
+  "ch10-s6a.md: ch10-p135..ch10-p175 (4401 words), starts at the section start",
+  "ch10-s6b.md: ch10-p176..ch10-p200 (4583 words), starts at a paragraph boundary",
+  "ch13a.md: ch13-p001..ch13-p011 (3385 words), starts at the section start",
+  "ch13b.md: ch13-p012..ch13-p028 (3163 words), starts at a paragraph boundary",
+  "ch15-s1a.md: ch15-p001..ch15-p013 (3411 words), starts at the section start",
+  "ch15-s1b.md: ch15-p014..ch15-p024 (3651 words), starts at a paragraph boundary",
+  "ch15-s3a.md: ch15-p037..ch15-p060 (3993 words), starts at the section start",
+  "ch15-s3b.md: ch15-p061..ch15-p070 (2886 words), starts at a sub-section heading",
+  "ch15-s3c.md: ch15-p071..ch15-p096 (4246 words), starts at a sub-section heading",
+  "ch15-s8a.md: ch15-p192..ch15-p222 (4362 words), starts at the section start",
+  "ch15-s8b.md: ch15-p223..ch15-p242 (4837 words), starts at a sub-section heading",
+  "ch15-s9a.md: ch15-p243..ch15-p269 (5610 words), starts at the section start",
+  "ch15-s9b.md: ch15-p270..ch15-p311 (5642 words), starts at a paragraph boundary",
+  "ch23a.md: pt7-p001..ch23-p011 (3394 words), starts at the section start",
+  "ch23b.md: ch23-p012..ch23-p025 (3282 words), starts at a paragraph boundary",
+  "ch25-s5a.md: ch25-p078..ch25-p105 (2361 words), starts at the section start",
+  "ch25-s5b.md: ch25-p106..ch25-p151 (5574 words), starts at a sub-section heading",
+  "ch25-s5c.md: ch25-p152..ch25-p166 (2410 words), starts at a sub-section heading",
+  "ch25-s5d.md: ch25-p167..ch25-p200 (6201 words), starts at a sub-section heading",
+  "ch25-s5e.md: ch25-p201..ch25-p246 (4838 words), starts at a paragraph boundary",
+  "ch25-s5f.md: ch25-p247..ch25-p307 (5556 words), starts at a sub-section heading",
+  "ch27a.md: ch27-p001..ch27-p009 (4138 words), starts at the section start",
+  "ch27b.md: ch27-p010..ch27-p018 (4541 words), starts at a paragraph boundary"
+ ]
+}

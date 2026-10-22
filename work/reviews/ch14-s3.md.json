@@ -1,0 +1,18 @@
+{
+ "file": "ch14-s3.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch14-p028",
+   "kind": "drift",
+   "severity": "medium",
+   "category": "concept explanation",
+   "original": "implies a direct increase of surplus-value for the benefit of capital",
+   "rewrite": "means a direct increase of surplus-value for the benefit of capital.",
+   "problem": "This is the first technical use of 'capital' in Ch. 14 (ch14-s2 used it only inside a quotation, as its notes say), but no §7 explanation is given, and the context files for later Ch. 14 units wrongly treat it as already explained.",
+   "fix": "Add to the existing surplus-value bracket: 'Capital is value that is used to make more value: money that is advanced in order to come back larger.'"
+  }
+ ],
+ "notes_review": "The judgment calls are sound, including the literal glosses of the French watch-trade names, the 'modem'/'handicraftsman' typo fixes, holding the 'necessary labor' explanation until p028, and keeping the loose 'because ... and the capitalist' clause. The six first-use brackets in p028 are heavy but each is required.",
+ "summary": "Fidelity is high, with arguments, figures, French terms and citations all intact; the only gap was the missing first-use explanation of 'capital'. Readability is good, though p028 is dense with explanatory brackets."
+}

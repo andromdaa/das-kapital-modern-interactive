@@ -1,0 +1,18 @@
+{
+ "file": "ch30.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch30-p001",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "who cultivated it themselves and with their families spun it in retail fashion",
+   "rewrite": "who grew it themselves and spun it with their families, bit by bit",
+   "problem": "\"In retail fashion\" means on a small scale; \"bit by bit\" reads as \"gradually\" and loses the small-scale contrast with the one capitalist.",
+   "fix": "who grew it themselves and spun it with their families on a small scale"
+  }
+ ],
+ "notes_review": "The logged calls are sound: correcting \"parastical\" while keeping \"emersed\", the literal gloss for pour le roi de Prusse, and repeating \"It alone\" so that \"alone\" still governs all three verbs are all careful and correct.",
+ "summary": "Fidelity is high: the argument chain from the freeing of the means of nourishment to variable capital and the home market is intact, and the Mirabeau quotation is verbatim. p001 is dense with required §7 parentheticals but stays followable."
+}

@@ -1,0 +1,38 @@
+{
+ "file": "ch15-s2.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p036",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "strength changed",
+   "original": "although the difference between the quantity of labour requisite to produce the machine and the total quantity replaced by it, remain constant",
+   "rewrite": "even though the difference between the quantity of labor needed to produce the machine and the total quantity of labor it replaces stays constant",
+   "problem": "Marx's subjunctive 'remain' is concessive-hypothetical (even if it remains constant); 'even though ... stays constant' asserts as fact that it does.",
+   "fix": "even if the difference between the quantity of labor needed to produce the machine and the total quantity of labor it replaces stays constant"
+  },
+  {
+   "id": "ch15-p026",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "ambiguity resolved",
+   "original": "for their average daily cost, that is for the value they transmit to the product by their average daily wear and tear, and for their consumption of auxiliary substance, such as oil, coal, and so on",
+   "rewrite": "Both the machine and the tool have an average daily cost: the value they pass on to the product through their average daily wear and tear, and their consumption of auxiliary substances such as oil, coal, and so on. Once we allow for that cost,",
+   "problem": "The original lists consumption of auxiliary substances as a second allowance ('and for'), not necessarily as part of the 'that is' definition of daily cost; the rewrite folds it into the definition.",
+   "fix": "Once we allow, for both the machine and the tool, for their average daily cost, that is, for the value they pass on to the product through their average daily wear and tear, and also for their consumption of auxiliary substances such as oil, coal, and so on,"
+  },
+  {
+   "id": "ch15-p036",
+   "kind": "drift",
+   "severity": "low",
+   "category": "quotation",
+   "original": "the women of the surplus-population",
+   "rewrite": "(the workers made \"surplus\" to capital's needs",
+   "problem": "Straight double quotes inside the added §7 explanation clash with the curly quotation marks used everywhere else in the file.",
+   "fix": "Use curly quotes: (the workers made “surplus” to capital's needs"
+  }
+ ],
+ "notes_review": "The logged calls are sound: 'working machines' for 'operative machines' is correct, the Descartes bracket was rewritten only in its translation, and the §7 explanations fall at true first technical uses. Note 14 says 'it is possible' became 'may', which is fine, but the concessive 'although ... remain' was hardened to 'even though', fixed here.",
+ "summary": "Fidelity is good, with every number, Baynes figure, and footnote kept; one concessive clause in p036 was hardened into an assertion and one allowance in p026 was folded into a definition. Readability is good, though p035 is heavy with required §7 parentheses."
+}

@@ -1,0 +1,28 @@
+{
+ "file": "ch05.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch05-p002",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "concept explanation",
+   "original": "and, consequently, a creation of surplus-value.",
+   "rewrite": "and so allows surplus-value (the extra value that workers produce beyond the value of their own labor-power, which the capitalist keeps without paying for it) to be created.",
+   "problem": "The gloss answers, in Marx's voice, the very question this chapter leaves open (where surplus-value comes from), anticipating Ch. 6–7 and cutting against the passage, which §7.0 forbids; Marx already defined surplus-value himself as the increment over the value advanced (ch04-p017).",
+   "fix": "and so allows surplus-value to be created."
+  },
+  {
+   "id": "ch05-p011",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "The fact that the owner of the commodities, under the designation of producer, sells them over their value, and under the designation of consumer, pays too much for them, does not carry us a single step further.",
+   "rewrite": "Under the name of producer, the owner of commodities sells them above their value; under the name of consumer, he pays too much for them. This fact does not carry us a single step further.",
+   "problem": "Splitting turns the opponents' supposition, which Marx only grants for argument's sake inside a subordinate clause, into two flat assertions that read as Marx's own claim about what owners do.",
+   "fix": "The fact that the owner of commodities, under the name of producer, sells them above their value and, under the name of consumer, pays too much for them, does not carry us a single step further."
+  }
+ ],
+ "notes_review": "Mostly sound: glosses at first use, literal retranslations of the French, the kept \"Jew\" stereotype and the MIA note's attribution are correct; but note 2 is not, since §7.0's \"never contradict the text\" overrides the mandatory gloss when it pre-empts the question Marx is posing.",
+ "summary": "Largely faithful: the argument that neither equal nor unequal exchange creates surplus-value, the Torrens, Condillac and Aristotle quotations and the Hic Rhodus ending are intact, with irony kept. One inserted gloss gives away the chapter's answer and one split sentence makes a granted supposition read as Marx's claim; otherwise plain and readable, though p001 and p003 are heavy with stacked glosses."
+}

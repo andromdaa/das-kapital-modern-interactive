@@ -1,0 +1,10 @@
+{"file": "ch10-s6a.md", "verdict": "minor fixes",
+ "findings": [
+   {"id": "ch10-p147", "kind": "drift", "severity": "low", "category": "spelling",
+    "original": "this system annulled the whole Factory Act",
+    "rewrite": "this system cancelled the whole Factory Act",
+    "problem": "\"cancelled\" is British spelling in Marx's voice; the rest of the project uses American spelling (\"canceling\" in ch10-s6b p191).",
+    "fix": "this system canceled the whole Factory Act"}
+ ],
+ "notes_review": "The logged calls are sound: \"co-operation\" in p154 is the everyday sense and rightly gets no §7 explanation, \"factory system\" occurs only inside a quotation, and the Corn Laws gloss is correctly moved to its first mention at p147.",
+ "summary": "Fidelity is very high: the Acts' dates, ages and hours, the inspectors' quotations and the Shylock verse are intact, and Marx's irony (\"liberalism\", \"reformed\" Parliament, \"ruthless\" Horner) is kept. Readability is good, with one spelling slip."}

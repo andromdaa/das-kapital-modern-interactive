@@ -1,0 +1,417 @@
+[
+ {
+  "kind": "theme",
+  "title": "Accumulation as compulsion: competition forces reinvestment",
+  "claim": "The capitalist is personified capital; competition makes the immanent laws of capitalist production felt as external coercive laws, forcing him to keep extending capital in order to preserve it. Hence 'production for production's sake' and the forced development of society's productive powers.",
+  "quote": "Accumulate, accumulate! That is Moses and the prophets!",
+  "anchors": [
+   "ch24-p048",
+   "ch24-p049",
+   "ch24-p060"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Reinvestment rates, growth imperative and competitive pressure can be compared with firm and macro data.",
+  "notes": ""
+ },
+ {
+  "kind": "forecast",
+  "title": "Capitalist creates material basis for a higher society",
+  "claim": "By forcing production for production's sake the capitalist develops productive powers and creates the material conditions that alone can form the basis of a higher society in which the full and free development of every individual is the ruling principle. His own existence is transitory along with the mode of production.",
+  "quote": "creates those material conditions, which alone can form the real basis",
+  "anchors": [
+   "ch24-p048"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "no",
+  "testable_rationale": "Open-ended teleological claim; 'higher society' and 'material basis' are too loose for any outcome to refute it.",
+  "notes": "The claim of transitory necessity of the capitalist is stated in the same paragraph."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Abstinence theory of profit (Senior)",
+  "claim": "Senior replaced the word 'capital' with 'abstinence': profit is the reward for the capitalist's refraining from consuming. Marx mocks this as a sycophantic phrase and notes any action can be called abstinence from its opposite.",
+  "quote": "the word abstinence",
+  "anchors": [
+   "ch24-p067",
+   "ch24-p069",
+   "ch24-p072"
+  ],
+  "speaker": "opponent:Senior",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx's rebuttal is conceptual; reported here so it is not read as Marx's view.",
+  "notes": "Also Mill (partly), Molinari, Courcelle-Seneuil, Scrope in footnotes 30-32."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Savings/accumulation consumed only by productive labourers (Smith, Ricardo, Mill)",
+  "claim": "Classical economists claim that capitalised surplus-value is wholly consumed by productive labourers, i.e. all of it becomes variable capital, so social capital resolves entirely into wages. Marx says surplus-value splits into constant and variable capital like the original capital and that Smith's 'and so on' evades the difficulty.",
+  "quote": "consumed by productive labourers",
+  "anchors": [
+   "ch24-p040",
+   "ch24-p041",
+   "ch24-p043"
+  ],
+  "speaker": "opponent:Smith/Ricardo/Mill",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Analytical dispute about reproduction schemes; not a historical forecast.",
+  "notes": ""
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Fixed 'wage fund' (Bentham, Malthus, J. Mill, MacCulloch, Fawcett)",
+  "claim": "Orthodox economists treat social capital and especially the labour fund as a fixed magnitude fixed by natural laws, so average wages are just the fund divided by the number of labourers. Marx says the fund's limits are capitalist, not natural, and that the number and price of labour-power are not given.",
+  "quote": "The circulating capital of a country,\" he says, \"is its wage-fund.",
+  "anchors": [
+   "ch24-p103",
+   "ch24-p104",
+   "ch24-p105",
+   "ch24-p106"
+  ],
+  "speaker": "opponent:Fawcett/Bentham",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx's counter is a structural claim about variable capital; the wage-fund doctrine was later abandoned by mainstream economists.",
+  "notes": "Fawcett p105 quote; Bentham named as originator."
+ },
+ {
+  "kind": "theme",
+  "title": "Tendency to force labour cost toward its zero limit",
+  "claim": "The constant tendency of capital is to force the cost of labour toward the unattainable zero, e.g. by paying below the value of labour-power, which turns the labourer's necessary consumption fund into a fund of accumulation. Illustrated by 18th-century English calls to lower wages to French/Dutch (later Chinese) levels, and by adulteration and Speenhamland supplementation.",
+  "quote": "The constant tendency of capital is to force the cost of labour",
+  "anchors": [
+   "ch24-p075",
+   "ch24-p077",
+   "ch24-p080",
+   "ch24-p083"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Wage share, real wage trends and cost-based offshoring can be compared with a downward-pressure claim.",
+  "notes": "The 3rd German edition note (fn 40) adds the world-market claim that wages in Europe are pressed toward Chinese levels (Stapleton quoted as source)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Productivity growth raises accumulation while real wages never rise proportionally",
+  "claim": "With rising productivity the mass of surplus-product grows; the cheapening of labour yields a higher rate of surplus-value even when real wages rise, and real wages never rise in proportion to productivity. Accumulation then accelerates even if capital advanced is constant or falls.",
+  "quote": "The latter never rise proportionally to the productive power of labour.",
+  "anchors": [
+   "ch24-p094"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Compare labour-productivity growth with real wage growth (the productivity-pay gap) over decades.",
+  "notes": ""
+ },
+ {
+  "kind": "theme",
+  "title": "Accumulation of capital is growth of the proletariat; wages are dependent variable",
+  "claim": "Where composition of capital is constant, accumulation raises demand for labour and may raise wages, but only within limits compatible with the system; the rate of accumulation is the independent variable and wages the dependent one. Wage rises only reduce unpaid labour and never to the point that threatens the system.",
+  "quote": "the rate of accumulation is the independent, not the dependent, variable",
+  "anchors": [
+   "ch25-p005",
+   "ch25-p013",
+   "ch25-p014",
+   "ch25-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Whether profits/accumulation lead wages, and whether wage rises ever threaten the profit system, can be checked against labour-market episodes.",
+  "notes": "Related to opponent view of Malthusian wage-population dynamic."
+ },
+ {
+  "kind": "theme",
+  "title": "Rising composition: constant capital grows relative to variable",
+  "claim": "With accumulation and the development of productivity, the technical and thus the organic composition of capital rises: the means of production grow relative to labour power (e.g. ratios from 1:1 to 7:1), so demand for labour falls relative to total capital, though variable capital may rise absolutely.",
+  "quote": "the proportion of constant to variable capital changes",
+  "anchors": [
+   "ch25-p019",
+   "ch25-p020",
+   "ch25-p021",
+   "ch25-p022",
+   "ch25-p034"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Capital/labour and capital/output ratios and labour's share of costs can be tracked across industries and epochs.",
+  "notes": "Marx says the value composition only approximately tracks the technical one (ch25-p021): means of production become cheaper."
+ },
+ {
+  "kind": "forecast",
+  "title": "Centralisation of capital via competition and credit, ending in trusts or a single capitalist",
+  "claim": "Large capitals beat small ones; credit becomes 'a new and terrible weapon' and an enormous social mechanism for centralisation; joint-stock companies do in a twinkling what accumulation alone could not (railways). The limit would be all capital in one hand or one company, and Engels's note says trusts already strive toward this.",
+  "quote": "becomes a new and terrible weapon in the battle of competition",
+  "anchors": [
+   "ch25-p024",
+   "ch25-p025",
+   "ch25-p026",
+   "ch25-p027",
+   "ch25-p029"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Industrial concentration, M&A waves, and monopolies/oligopolies can be measured; he states a limit but not a timeline.",
+  "notes": "Footnote 12 on trusts is Engels (4th German ed.); the tendency itself is Marx. Also notes the offsetting 'repulsion' (new capitals splitting off)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Technological displacement and relative surplus population produced by accumulation itself",
+  "claim": "Capitalist accumulation constantly produces, in proportion to its energy and extent, a relatively redundant population (an 'industrial reserve army'), as labour is made superfluous by the very accumulation it produces; this occurs 'to an always increasing extent'.",
+  "quote": "a relatively redundant population of labourers",
+  "anchors": [
+   "ch25-p034",
+   "ch25-p035",
+   "ch25-p032",
+   "ch25-p047"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Structural unemployment, underemployment and labour-saving automation can be compared with trends in employment shares.",
+  "notes": "Marx explicitly says this is a law of population specific to capitalism, against Malthusian absolute overpopulation (ch25-p035)."
+ },
+ {
+  "kind": "theme",
+  "title": "Industrial reserve army regulates wages and the industrial cycle",
+  "claim": "The reserve army is a condition of existence of capitalist production: it supplies labour for sudden expansions, drives the decennial cycle of prosperity-crisis-stagnation, and weighs on the active army, so general wage movements are regulated by its expansion and contraction rather than by absolute population.",
+  "quote": "Relative surplus population is therefore the pivot upon which the law of demand and supply",
+  "anchors": [
+   "ch25-p036",
+   "ch25-p048",
+   "ch25-p051",
+   "ch25-p053"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Wage-unemployment (Phillips-style) relationships and unemployment's role in wage bargaining are heavily studied.",
+  "notes": "Also the 'overwork of the employed swells the reserve' argument at ch25-p047."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Overwork and unemployment reinforce each other; shorter hours would absorb the unemployed",
+  "claim": "Overwork of the employed swells the reserve army, which in turn forces the employed to submit to overwork. England's technical means being colossal, a rationally reduced working day would require nearly the whole available working population to maintain current production.",
+  "quote": "The overwork of the employed part of the working class swells the ranks",
+  "anchors": [
+   "ch25-p047"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Work-sharing, overtime and hours reduction (e.g., 35-hour week) experiments can test employment effects.",
+  "notes": "Cotton operatives' pamphlet in fn 19 is source:Blackburn spinners."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Machinery does not 'free' capital for labour; compensation theory is rigged",
+  "claim": "When machinery converts variable into constant capital it sets labourers free but not matching capital; new capital merely absorbs those displaced, so absolute capital increase brings no corresponding rise in labour demand. The apologist's 'compensation' theory is dismissed.",
+  "quote": "Les d\u00e9s sont pip\u00e9s.",
+  "anchors": [
+   "ch25-p052"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "The compensation debate over technological unemployment can be assessed with long-run employment data.",
+  "notes": "Opposing claim belongs to economic apologists (compensation theory)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Population-wage oscillation as natural law (political economists, Malthus)",
+  "claim": "Economists claim that wages rise with accumulation, spurring population growth until the labour market is glutted and wages fall, and so on in a cycle; labour surplus is due to too rapid population growth and workers should accommodate numbers to capital. Marx says the cycle is driven by capital and the movement takes too long for population to respond.",
+  "quote": "you must do the rest by accommodating your numbers to the means of subsistence",
+  "anchors": [
+   "ch25-p038",
+   "ch25-p039",
+   "ch25-p041",
+   "ch25-p048",
+   "ch25-p064"
+  ],
+  "speaker": "opponent:Malthus/Martineau",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Marx's rebuttal is a testable claim that capital cycles, not demography, drive wages, but the opponent view itself is not Marx's.",
+  "notes": "Martineau's quote is from fn 18; Malthus partly concedes overpopulation is necessary to modern industry (ch25-p038)."
+ },
+ {
+  "kind": "theme",
+  "title": "Three forms of relative surplus population and pauperism",
+  "claim": "The surplus population exists as floating (in factories), latent (rural, flowing to towns), and stagnant (irregular work, domestic industry, maximum hours, minimum wages), with pauperism as the lowest sediment: the 'hospital of the active labour-army and the dead weight of the industrial reserve army'. Pauperism is a condition of capitalist development of wealth.",
+  "quote": "Pauperism is the hospital of the active labour-army",
+  "anchors": [
+   "ch25-p054",
+   "ch25-p055",
+   "ch25-p060",
+   "ch25-p061",
+   "ch25-p062"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Categories (underemployment, informal, rural-urban migration, welfare dependency) map to labour statistics.",
+  "notes": ""
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Poverty goes with high fertility among the lowest layers; rapid generational renewal",
+  "claim": "Family size and birth/death rates stand in inverse proportion to wages; labourers of modern industry marry early and have many children to renew generations that are used up fast. Marx reports life-expectancy gaps (Manchester 38 vs 17).",
+  "quote": "the absolute size of the families stand in inverse proportion to the height of wages",
+  "anchors": [
+   "ch25-p059",
+   "ch25-p061",
+   "ch25-p057",
+   "ch25-p058"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Fertility-income gradients and demographic transition literature test this; life-expectancy gaps are from source:Dr. Lee.",
+  "notes": "The Manchester statistics are source:Lee/Chamberlain; the fertility claim leans on A. Smith and Laing as well."
+ },
+ {
+  "kind": "forecast",
+  "title": "The absolute general law: accumulation of wealth is accumulation of misery",
+  "claim": "The greater social wealth, the greater the reserve army and pauperism: 'accumulation of wealth at one pole is accumulation of misery' at the other. As capital accumulates the labourer's lot, 'be his payment high or low, must grow worse'. Marx adds that the law is modified by many circumstances.",
+  "quote": "the lot of the labourer, be his payment high or low, must grow worse",
+  "anchors": [
+   "ch25-p063",
+   "ch25-p066"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Whether workers' conditions (health, security, autonomy, relative position) worsen with growing wealth is a major empirical debate; 'misery' can be read absolute or relative, which complicates scoring.",
+  "notes": "Marx explicitly says 'be his payment high or low', so rising real wages do not refute it as he states it; he also admits modifying circumstances (ch25-p063). Interpretive ambiguity: absolute vs relative immiseration."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Poverty and misery as necessary for wealth (Mandeville, Townsend, Storch, Destutt de Tracy)",
+  "claim": "Earlier writers argued that the poor must be kept poor, hungry and ignorant to be industrious and that misery is a natural law or a condition of civilisation (Townsend's 'hunger'; Storch's useful servile class; Destutt de Tracy: rich nations' people are poor). Marx cites them as admissions of the antagonism but disputes their naturalisation.",
+  "quote": "hunger is not only a peaceable, silent, unremitted pressure",
+  "anchors": [
+   "ch25-p009",
+   "ch25-p068",
+   "ch25-p070",
+   "ch25-p072",
+   "ch25-p073",
+   "ch25-p077"
+  ],
+  "speaker": "opponent:Townsend/Mandeville/Storch",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Reported attitudes of authors; Marx uses them as evidence of what apologists concede, not as his own claims.",
+  "notes": "Ortes (ch25-p068) and Sismondi (ch25-p075) are treated more sympathetically as observers of the antagonism, with errors in attributing it to nature."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Gladstone's 'less poor' is relatively just as poor; inequality widens",
+  "claim": "If the working class is only 'less poor' while it produces an intoxicating augmentation of wealth for the rich, it has remained relatively as poor; if the extremes of poverty have not lessened they have increased, since extremes of wealth have. Marx adds that prices of necessities rose, undermining the cheapening claim.",
+  "quote": "If the extremes of poverty have not lessened, they have increased",
+  "anchors": [
+   "ch25-p097",
+   "ch25-p099",
+   "ch25-p100"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Relative inequality measures and price indices can be compared with this 'relative poverty' reading.",
+  "notes": "Gladstone's claim of 'indirect benefit' is opponent:Gladstone; the 'relatively just as poor' logic is Marx."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Centralisation shows in concentrated incomes and farms (England 1851-66)",
+  "claim": "Marx's numbers show farms under 100 acres declined, giant estates rose, and income from profits concentrated in a few thousand top taxpayers while population growth lagged output growth. He treats these as evidence of centralisation in the accumulation process.",
+  "quote": "The accumulation of capital was attended at the same time by its concentration and centralisation.",
+  "anchors": [
+   "ch25-p082",
+   "ch25-p085",
+   "ch25-p086",
+   "ch25-p094"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Top-income and farm-size data are directly checkable; the figures are from Inland Revenue sources.",
+  "notes": "Data come from source:Inland Revenue Commissioners and census."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Housing for workers worsens as accumulation and centralisation speed up",
+  "claim": "The swifter the capitalist accumulation, the more miserable the dwellings; 'improvements' (demolition for banks, roads, railways) displace the poor into worse, more crowded quarters, while landlords and middlemen profit; sanitary acts only shift crowding elsewhere. Overcrowding is worst in rapidly growing industrial towns.",
+  "quote": "the swifter capitalistic accumulation, the more miserable are the dwellings of the working-people",
+  "anchors": [
+   "ch25-p117",
+   "ch25-p131",
+   "ch25-p133",
+   "ch25-p136"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Urban renewal/gentrification displacement and housing cost burden studies can test the pattern; reports are from source:Simon, Hunter and local Medical Officers.",
+  "notes": ""
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Belgium as the Paradise of labourers (English capitalists)",
+  "claim": "English capitalists hold Belgium up as a worker's paradise because 'freedom of labour' is not limited by trade unions or factory acts. Marx uses Ducp\u00e9tiaux's budgets to show a normal Belgian worker's family runs a deficit even against prisoners' diets, and over 200,000 of 450,000 working families are on the pauper list.",
+  "quote": "Belgium as the Paradise of the labourer",
+  "anchors": [
+   "ch25-p156",
+   "ch25-p165",
+   "ch25-p166"
+  ],
+  "speaker": "opponent:English capitalists",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Comparisons of deregulated labour markets vs regulated ones can be tested; but the claim here is reported and refuted, not Marx's forecast.",
+  "notes": "Facts come from source:Ducp\u00e9tiaux."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Agricultural capitalism enlarges output while shrinking the labourer's position and numbers",
+  "claim": "With drainage, machinery and concentration of farms after 1846, output and rents rose and the number of agricultural labourers fell, yet their lot worsened relative to 1770-80; the cost of the hind is fixed at the lowest possible, and he is a 'zero in farming calculations'. Cottages are destroyed to avoid poor-rates and labourers pushed into open villages.",
+  "quote": "the peasant has again become a serf",
+  "anchors": [
+   "ch25-p182",
+   "ch25-p184",
+   "ch25-p185",
+   "ch25-p186",
+   "ch25-p200"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Farm labour employment, wages and housing in mechanising agriculture have long data series.",
+  "notes": "Rogers and Hunter are sources; the 'peasant has again become a serf' is quoted from Rogers, source:Rogers."
+ },
+ {
+  "kind": "theme",
+  "title": "Capital's costs and abstinence rhetoric inverted: workers' privation",
+  "claim": "Marx repeatedly turns the abstinence trope around: it is the labourer who abstains, with official medical reports (Dr. Smith, Simon) finding diets of town and country workers at or below the starvation-disease minimum, convicts better fed than free labourers, and nitrogen deficits falling on women and children.",
+  "quote": "the former are much better fed than either of the two other classes",
+  "anchors": [
+   "ch25-p106",
+   "ch25-p109",
+   "ch25-p110",
+   "ch25-p112",
+   "ch25-p188",
+   "ch25-p193"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Nutritional and health data for lower-income groups can be compared across eras.",
+  "notes": "Facts from source:Dr. E. Smith / Dr. Simon / 1863 Penal Servitude Commission."
+ }
+]

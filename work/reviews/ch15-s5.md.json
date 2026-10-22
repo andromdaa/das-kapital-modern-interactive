@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s5.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p119",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "added content",
+   "original": "Hence, the character of independence and estrangement which the capitalist mode of production as a whole gives to the instruments of labour and to the product, as against the workman, is developed by means of machinery into a thorough antagonism.",
+   "rewrite": "So the capitalist mode of production as a whole gives the instruments of labor and the product a character of independence and estrangement in relation to the worker; by means of machinery, this character is developed into a thorough antagonism.",
+   "problem": "After the split, \"So\" attaches Marx's \"Hence\" to the general claim that capitalist production gives the instruments this character, when what he infers is that machinery develops the character into a thorough antagonism.",
+   "fix": "The capitalist mode of production as a whole gives the instruments of labor and the product a character of independence and estrangement in relation to the worker. So, by means of machinery, this character is developed into a thorough antagonism."
+  }
+ ],
+ "notes_review": "The judgment calls are sound: the German machine-name glosses are literal, the \"pauperism\" gloss stays inside the quotation without importing the §7 sense, \"manufactures\" is kept, and the citation typos are handled correctly. Note 14 says the \"Hence\" inference was kept, but the split moved it onto the wrong clause. This is fixed.",
+ "summary": "Fidelity is high apart from one misplaced inference in p119. Every date, figure, quotation, and attribution in the Luddite history, the Ure passages, and the 1857-1868 table survives. The rewrite is readable and keeps the irony of the \"temporal\"/\"temporary inconvenience\" pun and of Ure as \"dispenser of consolation\"."
+}

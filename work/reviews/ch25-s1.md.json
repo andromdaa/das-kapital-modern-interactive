@@ -1,0 +1,18 @@
+{
+ "file": "ch25-s1.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch25-p013",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "allow of a relaxation of the tension of it",
+   "rewrite": "allow it to be pulled a little less tight",
+   "problem": "\"a little\" adds a degree qualifier that Marx does not give.",
+   "fix": "allow it to be pulled less tight"
+  }
+ ],
+ "notes_review": "The logged calls are sound: Marx defines the compositions of capital himself, so §7 is rightly left out there; \"means of payment\" and \"metamorphosed\" are rightly treated as non-technical uses; and the ambiguous absolute/proportional clauses in p014 are kept open. Stacking six §7 explanations after Marx's definition in p002 is heavy, but it follows the rules.",
+ "summary": "Fidelity is very good: the long causal chain in p005, the alternative in p014, and the Mandeville, Eden and n. 6 quotations are kept accurately, with one small added hedge. Readability is good, although p002 and p014 carry many first-use explanations."
+}

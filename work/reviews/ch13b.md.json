@@ -1,0 +1,48 @@
+{
+ "file": "ch13b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch13-p027",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "strength changed",
+   "original": "co-operation is a necessary concomitant of all production on a large scale",
+   "rewrite": "cooperation goes hand in hand with all production on a large scale",
+   "problem": "\"Necessary\" is dropped, so a claim of necessity becomes one of mere accompaniment.",
+   "fix": "cooperation necessarily goes hand in hand with all production on a large scale"
+  },
+  {
+   "id": "ch13-p016",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "a certain minimum amount of capital was necessary, in order that the number of labourers simultaneously employed, and, consequently, the amount of surplus-value produced, might suffice to liberate the employer",
+   "rewrite": "a certain minimum amount of capital was necessary. The number of workers employed at the same time, and so the amount of surplus-value produced, had to be large enough to free the employer",
+   "problem": "The split drops \"in order that\", so the minimum capital is no longer stated to be what makes the required number of workers possible.",
+   "fix": "a certain minimum amount of capital was necessary so that the number of workers employed at the same time, and so the amount of surplus-value produced, might be large enough to free the employer"
+  },
+  {
+   "id": "ch13-p018",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "requires, more or less, a directing authority, in order to secure the harmonious working of the individual activities, and to perform the general functions",
+   "rewrite": "needs, more or less, a directing authority. This authority secures the harmonious working of the individual activities and performs the general functions",
+   "problem": "Marx states the purpose for which the authority is needed; the rewrite turns this into a flat claim that the authority actually secures harmony.",
+   "fix": "needs, more or less, a directing authority, to secure the harmonious working of the individual activities and to perform the general functions"
+  },
+  {
+   "id": "ch13-p012",
+   "kind": "drift",
+   "severity": "low",
+   "category": "spelling",
+   "original": "constructing dykes",
+   "rewrite": "building dykes",
+   "problem": "British spelling in Marx's voice (§1.5).",
+   "fix": "building dikes"
+  }
+ ],
+ "notes_review": "The logged calls are sound: leaving \"concentration of the means of production\" unexplained avoids importing the Ch. 25 sense, the nine-way \"may\" split in p013 keeps the alternatives as possibilities, and \"improbably right\" is rightly kept as printed. The p020 restructuring keeps the conditional and the substance/form contrast intact.",
+ "summary": "Fidelity is good: the Jones quotation, the political economist's double standard and the Spectator's \"Quelle horreur!\" all keep their voice, but p027 drops \"necessary\" and two splits weaken purpose links. Readability is good throughout."
+}

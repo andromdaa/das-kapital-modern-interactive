@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s1b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p015",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "without regard to the question of its execution by human hands",
+   "rewrite": "without regard to the question of whether human hands could carry it out",
+   "problem": "Marx sets aside how the process would be carried out by human hands; the rewrite turns this into a question of whether hands are able to do it, adding a modal 'could'.",
+   "fix": "without regard to the question of how human hands would carry it out"
+  }
+ ],
+ "notes_review": "The logged calls are sound: the typo fixes (combers, Insp., craftsmen) have one reading, the decision not to explain 'concentration of capital' is right, and the split of the long p018 subject list keeps the claim. Placing the factory-system explanation in n16 is defensible, as logged.",
+ "summary": "Fidelity is high: every number, example, footnote, and comparison survives, with one small modal shift in p015. The prose is plain and readable, with the §7 explanations placed correctly at first technical use."
+}

@@ -1,0 +1,15 @@
+{"file": "ch10-s6b.md", "verdict": "minor fixes",
+ "findings": [
+   {"id": "ch10-p196", "kind": "fidelity", "severity": "low", "category": "quotation",
+    "original": "we feel like helots in the land",
+    "rewrite": "we feel like helots [slaves of ancient Sparta] in the land",
+    "problem": "The bracketed gloss is inaccurate: helots were the state-owned serfs of ancient Sparta, not slaves in the ordinary sense, and the rewriter flagged this in note 18.",
+    "fix": "we feel like helots [serfs of ancient Sparta] in the land"},
+   {"id": "ch10-p198", "kind": "drift", "severity": "low", "category": "register",
+    "original": "struck the most purblind",
+    "rewrite": "was plain to see even for the most purblind",
+    "problem": "\"purblind\" is an archaic word that the target reader cannot decode, and it is left in Marx's voice.",
+    "fix": "was plain to see even for the most half-blind"}
+ ],
+ "notes_review": "The logged calls are sound: leaving the p187 exclamation untagged keeps open whether it is the workers' or Marx's voice, the typo fixes (\"minders\", \"manufacturers\") have one reading, and the 18 calls on glosses and \"the Act of 1848\" are handled cautiously; only the helot gloss needed tightening.",
+ "summary": "Fidelity is very high: the employers' voices are kept attributed with \"they said\", the Eskrigge episode and all the statutes, figures and the Greenhow table are intact. Readability is good, with one archaic word left in Marx's voice."}

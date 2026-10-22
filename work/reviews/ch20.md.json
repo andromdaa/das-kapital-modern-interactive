@@ -1,0 +1,18 @@
+{
+ "file": "ch20.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch20-p013",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "ambiguity resolved",
+   "original": "The value of labour-power, as dependent on its wear and tear, increases with the duration of its functioning",
+   "rewrite": "Because the value of labor-power depends on its wear and tear, it increases with the length of time that labor-power is at work",
+   "problem": "\"as dependent on\" can mean \"since it depends on\" or \"insofar as it depends on\". The rewrite chooses the causal reading and turns it into a flat claim that the value of labor-power (as a whole) depends on wear and tear.",
+   "fix": "\"The value of labor-power, as it depends on its wear and tear, increases with the length of time that labor-power is at work, and it increases faster than that time does.\""
+  }
+ ],
+ "notes_review": "The logged calls are sound. In p005 the change of \"3s.\" to \"3d.\" is the only possible reading: a day's value of 3s. = 36d., so 36d. ÷ 10 hours = 3 3/5d., 36d. ÷ 12 = 3d. and 36d. ÷ 15 = 2 2/5d., and an hourly price of \"3s.\" would equal a whole day's value and could not be a \"fall\" from 3 3/5d., so the fix stands. Keeping \"felling\", the reversed \"2s. or 1s. 6d.\" and the stray mark in the p009 formula as printed is correct.",
+ "summary": "Fidelity is high. All the hourly-price arithmetic, the overtime evidence and the bakers' testimony are kept with their figures and attributions, and the irony (\"amenities\", \"young immortals\", the Bibles) is intact. The prose reads plainly."
+}

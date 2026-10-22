@@ -1,0 +1,20 @@
+# Notes: ch15-s3b.md (Ch. 15 §3 B, Prolongation of the Working day)
+
+1. ch15-p062 n. 62 – "Ficiden" (twice) is a misprint for John Fielden, author of "The Curse of the Factory System" (cited as Fielden in ch15-s3c n. 82 and ch31 n. 11) – corrected to "Fielden" in the text and the citation – one-reading character typo (§1.4).
+2. ch15-p062 n. 62 – citation "p. I 1." – corrected to "p. 11." – one-reading character typo (letter I for digit 1 plus stray space), same type as the bible's "p. Ixxi" example (§1.4).
+3. ch15-p062 n. 62 – the opening relative clause ("The English, who have a tendency to look upon the earliest form of appearance ... as the cause") – kept as a relative clause instead of splitting into "they tend to ... so they blame ..." – splitting would add a causal link Marx does not state outright.
+4. ch15-p064 n. 64 – nested quotation marks are unbalanced in the source (“allowance for deterioration of machinery") – kept as printed – more than one possible repair (§1.4).
+5. ch15-p067 n. 70 – "rent rates, and taxes" inside the Inspectors' quotation probably lacks a comma ("rent, rates, and taxes") – kept as printed – it is inside a quotation and a missing (not stray) comma; not logged as a fix.
+6. ch15-p070 n. 74 – the German verse contains OCR errors ("Midchen" for Mädchen, "sic" for sie, "laBt" for laßt) – kept exactly as printed – §2.3 says foreign text stays exactly as printed.
+7. ch15-p070 n. 74 – the English prose rendering of the poem precedes the German, unbracketed – treated as the source's own translation; no second bracketed translation added after the German; the English rendering is kept verbatim as quoted verse (§2.5), with glosses "Chanticleer [the rooster]" and "Deo [Demeter]" (Deo is a name of Demeter) – avoids duplicating the translation; glosses are for names a modern reader cannot decode.
+8. ch15-p070 – "they lacked the bump of Christianity" – rendered "the phrenological bump of Christianity" – the image depends on the lost reference to phrenology (skull bumps as organs of faculties); one neutral identifying word added (§1.3 Tone, §1.1 c).
+9. ch15-p070 – "Political Economy" in the ironic sentence about Bastiat and MacCulloch – rendered "political economy" per glossary; the irony ("the learned Bastiat", "the still wiser MacCulloch", "Oh! those heathens!") kept as mockery, with the "have discovered" tag next to the claim so it reads as Bastiat's/MacCulloch's view, not Marx's.
+10. ch15-p070 – "They perhaps excused the slavery of one" – kept "of one" (not "of one person" / "of one class") – ambiguity preserved.
+11. ch15-p069 – §7 explanations: "variable capital" explained at its first use here; "rate of surplus-value" given the shortened §7 wording "(the ratio of surplus-value to variable capital, s/v)" because Marx's very next sentence relates it to necessary and surplus labor himself (§7.0 "never contradict / don't duplicate Marx's own development").
+12. ch15-p069 – the context file lists "absolute surplus-value" as first appearing here, but the original only says "absolute surplus labour" ("not only of the relative, but of the absolute surplus labour") – no §7 explanation added for absolute surplus-value, since the term is not used; "relative surplus-value" was explained at its first use in ch15-p068.
+13. ch15-p066 / ch15-p067 – "exchange-value" first technical use is p066 ("It loses exchange-value"), "use-value" first technical use is p067; both explained there in §7 wording.
+14. ch15-p066 – "moral depreciation" – kept as Marx's term without added gloss – Marx defines it himself in the next sentence (§7.0 logic).
+15. ch15-p067 – "Only fancy! ... It is, in truth, monstrous, that a single one of our people should ever leave the factory!" – rendered "Just imagine! ... It is truly monstrous ..." with "our people" kept – this is Marx's ironic mimicry of Ashworth's viewpoint; kept as irony and not flattened.
+
+Review fixes applied (1 findings) by group reviewer.
+Phase 5 consistency fixes applied: conflicts #18, #23, 2 edits.

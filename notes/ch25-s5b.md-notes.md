@@ -1,0 +1,33 @@
+# Notes: ch25-s5b.md
+
+Format: paragraph ID – the problem – what I decided – why.
+
+1. ch25-p106 – Dr. Smith's long "conclusion that ..." sentence had to be split, and the split risked making his nutritional figures read as Marx's own flat statements. – Kept "led him to conclude that" with the quoted phrase, and repeated the attribution in the later sentences ("by his reckoning", "his figure was"). – §1.2 speaker clarity. MEANING RISK handled by attribution, not by changing the claims.
+2. ch25-p106 / ch25-p114 – Text gives the cotton workers' December 1862 carbon figure as 29,211 grains; the table gives 28,211 for "Unemployed Lancashire Operatives". – Kept both exactly as printed. – More than one possible reading (§1.4); flagged for reviewer.
+3. ch25-p115 – "shoemakers 2s 7¾d." lacks the period after "s" that every other figure has. – Corrected to "2s. 7¾d.". – One-reading punctuation typo (§1.4).
+4. ch25-p109, p112, p120, p147 – Marx's bracketed/parenthetical "*i.e.*" (italic in source). – Rendered as plain "that is" (no italics). – §3.4; Marx's interjections are his voice (§0.9).
+5. ch25-p112 – "(“Privation” of the capitalist all this!" is elliptical; "of the capitalist" could mean privation suffered by or practiced by the capitalist. – Rendered "All this is “privation” on the part of the capitalist!", which keeps both readings open and leads straight into his "abstinence". Scare quotes on "privation", "abstinence", "hands" kept. – §1.1 keep ambiguity; §1.2 irony.
+6. ch25-p117 – "the mines of Potosi" is a lost reference. – Added one word: "the silver mines of Potosi". Kept the comparison's structure ("with more profit or less cost than ... were ever exploited"). – §1.1(c) minimal neutral identification.
+7. ch25-p117 – "heterodox onslaughts" → "unorthodox attacks"; "property and its rights", "respectability", "Improvements" keep Marx's quotation marks. – Plain wording, same sneer. – §1.2.
+8. ch25-p117 [^52] – "moloch" in Laing's quotation. – Kept, glossed [the idol fed with human sacrifices]. – §2.2 gloss, don't replace.
+9. ch25-p122 [^54] – Citation begins ". c., p. 89." (the "l" is missing). – Rendered "Cited above, p. 89." – One-reading typo for "l. c." (§1.4), expanded per §2.6. The odd mark in ’dangerous classes’ inside Hunter's quotation kept as printed.
+10. ch25-p125 – "fag-ends of leases" is a quoted trade phrase. – Kept in quotes and added the plain sense in parentheses: (the last few years left to run on leases). – §1.2 mention rule allows adding the plain sense.
+11. ch25-p133 – "vestries" unknown to modern readers. – Added "(the parish councils)" once. – §1.1(c).
+12. ch25-p141 – "aedileship of the town" (ironic Roman term for city officials). – Kept "aedileship" with "(its city authorities)". – Keep the image, add neutral identification (§1.1(c), §1.3).
+13. ch25-p141 – "the negro’s friend" (Marx's ironic epithet for Forster) is an outdated ethnic term in Marx's own voice. – Rendered "the Black man’s friend", keeping the epithet's form and irony. – §4 outdated names: neutral modern name in Marx's voice; claim and tone unchanged.
+14. ch25-p141 – "billets in the 30 years’ war". – Rendered "the billets of soldiers in the 30 years’ war"; kept the digits "30". – §1.4 digits stay digits; "of soldiers" clarifies "billets" without new content.
+15. ch25-p141 [^64] – The footnote is a garbled, run-together table (COLLECTING AGENTS LIST (BRADFORD)), not a ```text block; it also has a blank line after the label and indented lines, and contains "l.c. p. 111" and "Lumiev Street" (probably "Lumley"). – Copied the whole block byte for byte, including layout, "l.c." and spellings. – It is data, not prose; any repair would require guessing the table's structure (§1.4: unclear oddities stay as printed). Flagged for reviewer.
+16. ch25-p145 – "[^68]One example" has no space after the marker. – Added a space after the marker. – Layout only; marker position unchanged.
+17. ch25-p145 – Marx's voice "small-pox" → "smallpox"; quotations (p146, n. 69) keep "small-pox". – §1.5 spelling outside quotations only.
+18. ch25-p146 – "(the Home Secretary’s)" inside the Sevenoaks letter may be Marx's or the editor's insertion (round brackets, not square). – Left as printed. – Cannot tell whose it is; no ambiguity resolved.
+19. ch25-p145 [^69] – "Registar-General" in Marx's note prose. – Corrected to "Registrar-General". – One-reading typo (§1.4).
+20. ch25-p145 [^69] – Marx's interjection "[amongst the troglodytes]" inside the quotation. – Rendered "[among the troglodytes, the cave-dwellers]": kept the ironic image, added plain sense. – §0.9 Marx's interjections in plain style; §1.3 keep images.
+21. ch25-p147 – "builds a number of cottages for his hands" / "pack together his hands" (no quotation marks in original). – Kept "his hands" without adding quotation marks, since the word is the mine-owner's view of his workers, in a passage full of irony ("for nothing", "abstinence"). – Glossary: "hands" stays when Marx is mocking the employers' word; §3.3 never add scare quotes he does not use. Reviewer may prefer "workers".
+22. ch25-p147 – "The price at which they buy their wages" is Marx's deliberately inverted irony. – Kept word for word. – §1.2 irony.
+23. ch25-p149 – Marx's interjection "['bound,’ an expression ...]" has mismatched quote marks. – Kept the marks as printed. – Unmatched quotation mark: more than one reading (§1.4).
+24. ch25-p149 – "(he is, to all intents and purposes, a serf)" may be Dr. Stevens' or Marx's remark (round brackets). – Left as printed, inside the quotation. – Speaker uncertain; no ambiguity resolved.
+25. ch25-p149 – "‘viewer’" (a colliery official). – Glossed [the colliery manager]. – Safest plain gloss of the northern mining term; logged per §0.11 in case reviewer prefers another gloss.
+26. ch25-p151 – "miners are commonly worked on lease" probably should be "mines" (Dr. Simon's quotation). – Kept "miners" as printed. – Inside a quotation and not strictly one-reading; flagged for reviewer.
+27. Glosses added in quotations (once per quotation): scavenging [street-cleaning], advert [refer] (p116); insalubrity [unhealthiness], privies [outdoor toilets], pestiferous [disease-breeding] (p138, and privies/pestiferous again in p142, p146, n. 69, p148, p149 as separate quotations); instant [of this month] (p146); pitman [miner], collieries [coal mines] (p148); turned off [dismissed], obtains [prevails] (p149); pecuniary [financial] (p151). – §2.1 gloss, don't replace.
+28. Context file said no new §7 terms; "truck system", "relative surplus population", "expropriation", "pauperism", "bourgeois", "proletariat" already explained earlier in Ch. 25. – No §7 explanations added. – §7.0.
+Review fixes applied (0 findings) by group reviewer.

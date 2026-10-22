@@ -1,0 +1,18 @@
+{
+ "file": "ch18.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch18-p008",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "Since the surplus-labour is only an aliquot part of the working day, or since surplus-value is only an aliquot part of the value created",
+   "rewrite": "is only an equal fraction of the working day, or surplus-value is only an equal fraction of the value created",
+   "problem": "In this sentence \"equal fraction\" reads as \"an equal share\" (that is, half), which narrows Marx's point that surplus labor is merely a part of the day and so always smaller than the whole.",
+   "fix": "Replace both occurrences of \"an equal fraction\" with \"a fraction\": \"is only a fraction of the working day, or surplus-value is only a fraction of the value created\"."
+  }
+ ],
+ "notes_review": "The logged calls are sound: the formula lines are kept exactly as printed, the \"Rodbertus\" spelling fix in Engels' prose and the \"it\"→\"is\" fix in p024 each have only one possible reading, the p023 ambiguity is preserved, and the rate of surplus-value is correctly left for Marx's own formulas to define. The rewriter's own doubt about \"equal fraction\" in p008 is justified, and that wording is now corrected.",
+ "summary": "Fidelity is high. All formulas, tables, numbers, the Lavergne estimate and Engels' signed note survive intact, and the only problem was the misleading glossary rendering of \"aliquot part\". The prose is plain, but the stacked §7 explanations make p003, p008 and p012 heavier than they need to be."
+}

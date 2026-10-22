@@ -1,0 +1,380 @@
+[
+ {
+  "kind": "theme",
+  "title": "Capital as self-expanding value (M-C-M')",
+  "claim": "Capital is money advanced in order to return as more money (M-C-M'); the aim is exchange-value and its increase, not use-value or consumption. Because the end is purely quantitative, the circuit has no natural limit and restarts with each result.",
+  "quote": "The circulation of capital has therefore no limits.",
+  "anchors": [
+   "ch04-p017",
+   "ch04-p019",
+   "ch04-p021"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Can be checked against observed corporate behavior (reinvestment, growth imperatives, profit-maximization vs. satiation).",
+  "notes": "Contrasts with C-M-C where consumption sets a limit (ch04-p016, p019)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capitalist as personified capital; accumulation as sole motive",
+  "claim": "The individual capitalist functions as such only insofar as appropriating ever more abstract wealth is the sole motive of his operations; he is a 'rational miser' and the restless, never-ending process of profit-making is his goal, not any single profit or use-value.",
+  "quote": "The restless never-ending process of profit-making alone is what he aims at.",
+  "anchors": [
+   "ch04-p020"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against evidence of firms' behavior (growth compulsion, reinvestment of profits, behavior of satisfied owners).",
+  "notes": "Marx's own parenthetical: this is a 'function', not a psychology claim about every owner."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "MacCulloch: insatiable passion for gain, yet moral use-value citizen in crises",
+  "claim": "Marx quotes MacCulloch that 'auri sacra fames' will always lead capitalists, then mocks him for turning the same capitalist into a citizen concerned only with use-values (hungry for boots, hats) when explaining over-production.",
+  "quote": "The inextinguishable passion for gain, the auri sacra fames, will always lead capitalists.",
+  "anchors": [
+   "ch04-p020"
+  ],
+  "speaker": "opponent:MacCulloch",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx reports it to expose an inconsistency; not a claim of the book.",
+  "notes": "Footnote 9 on ch04-p020 (anchor ch04-p020)."
+ },
+ {
+  "kind": "theme",
+  "title": "Surplus-value cannot arise from exchange alone",
+  "claim": "If equivalents are exchanged, no surplus-value; if non-equivalents are exchanged, there is only redistribution, not creation. Universal price rises or buyer/seller privileges cancel out; the capitalist class as a whole cannot cheat itself. Circulation begets no value.",
+  "quote": "Circulation, or the exchange of commodities, begets no value.",
+  "anchors": [
+   "ch05-p004",
+   "ch05-p008",
+   "ch05-p014",
+   "ch05-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "A logical step in his argument from the premises of his value theory, not an empirical forecast.",
+  "notes": "Sets up 'Hic Rhodus, hic salta' (ch05-p023)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Condillac/Newman/Destutt de Tracy: exchange or commerce creates value; both sides gain",
+  "claim": "Condillac holds both parties give less for more in exchange; Newman says commerce adds value and is an act of production; Destutt de Tracy says capitalists profit by selling to each other above cost. Marx says this confuses use-value with exchange-value.",
+  "quote": "",
+  "anchors": [
+   "ch05-p005",
+   "ch05-p014"
+  ],
+  "speaker": "opponent:Condillac",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Reported to be refuted; includes Newman and Destutt de Tracy in footnotes.",
+  "notes": "Marx concedes both may gain in use-value (ch05-p003)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Torrens/Malthus: surplus-value from consumers paying above value; a class of pure consumers",
+  "claim": "Torrens grounds profit in effectual demand paying more than production cost; Marx says consistency requires a class that only buys and does not sell (Malthus's glorified consumers), which only recoups its own tribute (Rome and Asia Minor).",
+  "quote": "Effectual demand consists in the power and inclination (!), on the part of consumers",
+  "anchors": [
+   "ch05-p011",
+   "ch05-p012"
+  ],
+  "speaker": "opponent:Torrens",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx's refutation is analytical; the Malthus position is cited, not endorsed.",
+  "notes": "Footnote 16 mentions Malthus and Ricardo's disciple; speaker attribution of the general 'consumer class' view is partly to Malthus."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Merchant and usurer capital are derivative, not the standard form",
+  "claim": "Merchants' capital and interest-bearing capital are historically earlier but are derivative forms of capital, to be explained later from the production of surplus-value; interest-form M-M' is inexplicable from circulation alone.",
+  "quote": "",
+  "anchors": [
+   "ch05-p016",
+   "ch05-p018",
+   "ch05-p019"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Could be tested against whether finance profit is ultimately explicable from production, though the full argument is deferred.",
+  "notes": "Aristotle quoted on usury (ch05-p018); Franklin 'commerce is generally cheating' is quoted as a view that Marx says would follow if only circulation counted (ch05-p017)."
+ },
+ {
+  "kind": "theme",
+  "title": "Free labourer in the double sense as the historical condition of capital",
+  "claim": "Capital requires a market in which labourers are free to sell their labour-power and free of any means of production or subsistence. This relation is neither natural nor common to all periods; it is the product of past economic revolutions and announces 'a new epoch in the process of social production'.",
+  "quote": "announces from its first appearance a new epoch in the process of social production",
+  "anchors": [
+   "ch06-p003",
+   "ch06-p006",
+   "ch06-p007",
+   "ch06-p008"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Historical claim that capitalism presupposes mass dispossession from means of production; testable against economic history.",
+  "notes": "Footnote 3: peonage is slavery under another form."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Value of labour-power has a historical and moral element and a floor at subsistence",
+  "claim": "The value of labour-power is fixed by the means of subsistence needed to maintain and reproduce the worker's family, including a historical and moral element varying with the country's civilisation and the habits in which the working class formed; price below the physical minimum means maintenance only in a crippled state.",
+  "quote": "a historical and moral element",
+  "anchors": [
+   "ch06-p010",
+   "ch06-p011",
+   "ch06-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable: do wages track a customary standard of living and the cost of reproducing the workforce, and what happens below a subsistence floor?",
+  "notes": "The 'practically known' average per country and period (end of ch06-p010)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Workers extend credit to the capitalist (wages paid in arrears); credit leads to truck and adulterated goods",
+  "claim": "Because labour-power is paid for after use, the labourer gives credit to the capitalist, with enduring consequences: loss of wages on bankruptcy, forced purchase on credit at higher prices, adulterated bread, truck shops.",
+  "quote": "he everywhere gives credit to the capitalist",
+  "anchors": [
+   "ch06-p017"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Concrete practices (payment frequency, truck, wage theft, wage arrears) can be compared across periods.",
+  "notes": "Evidence is from Blue Books (Tremenheere, Medical Officer of Privy Council, Children's Employment Commission): sources are speaker:source for the facts in footnote 14."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Rossi and the free-trade vulgarians: labour-power cannot be abstracted from wages; sale is Eden of Freedom, Equality, Property and Bentham",
+  "claim": "Rossi complains that separating labour-power from subsistence is unreal; Marx also ironically voices the Free-trader's view that the labour market is a harmonious sphere where mutual selfishness works for the common weal.",
+  "quote": "",
+  "anchors": [
+   "ch06-p016",
+   "ch06-p019"
+  ],
+  "speaker": "opponent:Rossi",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx ironizes ('Freedom, Equality, Property and Bentham') to prepare the turn to production; not his own claim.",
+  "notes": "The 'pre-established harmony' passage is ironic mimicry of vulgar economists."
+ },
+ {
+  "kind": "theme",
+  "title": "Surplus-value arises from labour-power's use-value exceeding its value",
+  "claim": "The labour that a day's labour-power can perform creates more value than the value (cost of subsistence) paid for it. The exchange of wages for labour-power is formally fair ('equivalent for equivalent'), yet surplus-value arises in production; 'six hours replaces wage, twelve hours yields surplus'.",
+  "quote": "a source not only of value, but of more value than it has itself",
+  "anchors": [
+   "ch07-p046",
+   "ch07-p047",
+   "ch07-p048",
+   "ch07-p050"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Core of the labour theory of value as a definitional-analytic claim: given the theory's terms nearly any positive profit counts as confirmation.",
+  "notes": "Distinct from his empirical claims about hours and exploitation rates, which are testable separately."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Capitalist's justifications: abstinence, risk/service, own superintending labour, advancing materials",
+  "claim": "Marx has the capitalist voice abstinence ('consider my abstinence'), service rendered by providing tools and necessaries, and his own labour of superintendence as sources of his gain, with Bastiat/Say (service), Senior-type abstinence and MacCulloch (consume your own products against over-production) as the targets; he rebuts each as irrelevant to exchange-value.",
+  "quote": "Consider my abstinence",
+  "anchors": [
+   "ch07-p045"
+  ],
+  "speaker": "opponent:Senior/Bastiat/Say/MacCulloch (ironic composite)",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Ironic mimicry of apologists; names MacCulloch explicitly and Say and Bastiat in footnote 16.",
+  "notes": "Abstinence is not attributed to Senior by name in this passage; unsure which economist precisely, flag for review."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capitalist control: labour under supervision, product belongs to capitalist, penal code against waste",
+  "claim": "In the capitalist labour-process the worker works under the capitalist's control, who enforces average intensity, bans waste and idleness, and owns the product; labour-power is bought for a fixed period and he 'insists upon his rights'.",
+  "quote": "He has no intention of being robbed.",
+  "anchors": [
+   "ch07-p023",
+   "ch07-p024",
+   "ch07-p052"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable: workplace discipline, monitoring and intensity norms, and ownership of output in modern employment.",
+  "notes": "'Penal code of his own' is figurative (fines and discipline are treated more fully in later chapters)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Physique of the working class deteriorates in developed capitalist countries",
+  "claim": "Where capitalist production is well developed, the physique of the working class has deteriorated and is relatively exhausted, so that heavy muscular work is counted as skilled and more delicate work sinks toward unskilled; skilled labour is only a small part of national labour.",
+  "quote": "the physique of the working-class has deteriorated",
+  "anchors": [
+   "ch07-p055"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be compared to historical data on health, stature and mortality of workers in industrial economies.",
+  "notes": "Footnote 18; stated as present fact in his time (1860s), and Laing's 1844 estimate is a source:Laing claim that 11 million of 18 million depend on unskilled labour."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Rising constant relative to variable capital through technical revolution",
+  "claim": "Revolutions in production can mean one worker with one expensive machine working up a hundred times as much raw material: a vast rise in constant capital and a great fall in variable capital, changing only the ratio between the two kinds of capital.",
+  "quote": "a great reduction in the variable capital, invested in labour-power",
+  "anchors": [
+   "ch08-p024",
+   "ch08-p007"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "The share of capital spent on machinery vs wages (capital intensity, labour share) can be measured over time.",
+  "notes": "Stated as a possibility within a definitional discussion; the tendency itself is developed in later chapters (Vol 1 Part 7, Vol 3)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Crisis makes capitalist aware that living labour preserves old value for free",
+  "claim": "Labour's property of preserving the value of means of production is a free gift to capital that the capitalist ignores in good times and feels acutely when a crisis interrupts the labour-process (idle capital depreciates: standing costs, decay).",
+  "quote": "A violent interruption of the labour-process by a crisis",
+  "anchors": [
+   "ch08-p016"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable: idle capacity and depreciation losses during recessions.",
+  "notes": "Footnote 5 quotes a Times 1862 manufacturer about £6,000 standing expenses of an idle mill."
+ },
+ {
+  "kind": "forecast",
+  "title": "Foreign trade will end Japan's rent in kind and its exemplary agriculture",
+  "claim": "If foreign trade forced on Japan by Europeans substitutes money rents for rents in kind, the exemplary agriculture of Japan will be 'swept away' along with its narrow economic conditions.",
+  "quote": "it will be all up with the exemplary agriculture of that country",
+  "anchors": [
+   "ch03-p090"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Compare Japan's post-1868 agrarian history (land tax in money, tenancy, rural change).",
+  "notes": "Conditional ('if'), and in a passage on money as means of payment; also claims that natural-form taxes conserved the Ottoman Empire."
+ },
+ {
+  "kind": "forecast",
+  "title": "Silver will lose its money function in world markets (Engels' 4th-ed. note)",
+  "claim": "Engels predicts silver's value will keep falling for a long time, calls bimetallist hopes of restoring the 1:15.5 ratio utopian, and says silver will 'forfeit its money function more and more' in the world markets.",
+  "quote": "silver will forfeit its money function more and more in the markets of the world",
+  "anchors": [
+   "ch03-p095"
+  ],
+  "speaker": "source:Engels (added in 4th German edition)",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Compare silver's monetary role after the 1870s-1930s and its price relative to gold.",
+  "notes": "Not Marx's own text; Engels's added bracketed note; flag for downstream handling."
+ },
+ {
+  "kind": "forecast",
+  "title": "Hoarding as an end vanishes with civil society's progress; reserves of payment means grow",
+  "claim": "Hoarding as a distinct mode of acquiring riches disappears as civil society progresses, while the formation of reserves of means of payment grows; credit money comes to dominate large commerce while metal coin is relegated to retail.",
+  "quote": "vanishes with the progress of civil society",
+  "anchors": [
+   "ch03-p093",
+   "ch03-p089",
+   "ch03-p099"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Compare saving/reserve behavior and cash use in modern economies (credit money in wholesale, cash in retail).",
+  "notes": "Footnote 53 gives a 1856 London firm's receipts and payments with almost no cash; unusually large reserves 'indicate stagnation' (ch03-p099)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Monetary crises: chain of payments breaks and money suddenly becomes the only wealth",
+  "claim": "With an ever-lengthening chain of payments and an artificial settling system, any general disturbance abruptly turns money of account into hard cash: a money famine whatever form of money is used, after a boom in which bourgeois declared money a vain imagination.",
+  "quote": "money alone is a commodity!",
+  "anchors": [
+   "ch03-p087"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Compare liquidity crises (1857, 1866 and later) for sudden demand for cash and failure of credit chains.",
+  "notes": "Footnote 49 distinguishes monetary crisis as a phase of every crisis from the purely financial kind; footnote 51 reports bankers hoarding notes to tighten money (source: press)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Paper money beyond circulation's needs depreciates (issue must not exceed the gold that would circulate)",
+  "claim": "Issues of inconvertible state paper above the amount of gold that would circulate merely reduce what each unit represents, so prices rise proportionally (twice the issue means the pound represents half as much gold).",
+  "quote": "If the quantity of paper money issued be double what it ought to be",
+  "anchors": [
+   "ch03-p068"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Compare episodes of excess paper issue and inflation (e.g., assignats, wartime issue); although the gold anchor no longer exists.",
+  "notes": "Marx's quantity-theory-like claim applies to paper standing in for gold; credit money is expressly set aside (ch03-p067)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Money dissolves distinctions and makes everything saleable; social power becomes private power",
+  "claim": "Gold's anonymity and convertibility make everything buyable, a 'radical leveller', turning social power into the private power of private persons; modern society hails gold as its Holy Grail.",
+  "quote": "Everything becomes saleable and buyable.",
+  "anchors": [
+   "ch03-p075"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Commodification of previously non-market goods (relics, offices, votes, care) can be compared historically.",
+  "notes": "The ancients are cited as denouncing money as subversive (footnotes from Sophocles, Shakespeare)."
+ },
+ {
+  "kind": "theme",
+  "title": "Rate of surplus-value s/v as the measure of exploitation (distinct from profit rate)",
+  "claim": "The degree of exploitation is s/v = surplus labour / necessary labour, not s/(c+v); an apparent 18% on total capital may be 100% exploitation, i.e. working half the day for oneself and half for the capitalist. Examples: Manchester mill c. 153%, agriculture over 100%.",
+  "quote": "the degree of exploitation of labour-power by capital",
+  "anchors": [
+   "ch09-p013",
+   "ch09-p014",
+   "ch09-p017",
+   "ch09-p020"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "The empirical rate s/v can be estimated from national accounts (profits and rents over wages) and compared over time.",
+  "notes": "Marx's examples (1871 mill, Jacob's 1815 farm) are illustrations, with prices assumed equal to values (fn 9 on ch09-p020)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Roscher/Carey/Wayland: thrift and abstention explain surplus-value; harmony of low rates",
+  "claim": "Roscher attributes surplus-value to the capitalist's thrift and abstention (and in primitive times to the strong compelling the weak to economise); Marx also mocks Carey and 'harmonisers' who would be pleased by an 18% rate, and Say for 'productive services'.",
+  "quote": "",
+  "anchors": [
+   "ch09-p011",
+   "ch09-p014",
+   "ch08-p015"
+  ],
+  "speaker": "opponent:Roscher",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx cites them in footnotes to criticize; not his claim.",
+  "notes": "Footnote 3 on ch08-p015 (Say, Roscher: abstention as source of value) and footnote 6 on ch09-p011."
+ }
+]

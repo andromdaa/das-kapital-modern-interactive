@@ -1,0 +1,178 @@
+{
+ "g01": {
+  "files": [
+   "ch01-s1.md",
+   "ch01-s2.md",
+   "ch01-s3a.md",
+   "ch01-s3b.md",
+   "ch01-s3c.md"
+  ],
+  "state": "done"
+ },
+ "g02": {
+  "files": [
+   "ch02.md",
+   "ch03-s1.md",
+   "ch03-s2a.md",
+   "ch03-s2b.md",
+   "ch03-s2c.md"
+  ],
+  "state": "done"
+ },
+ "g03": {
+  "files": [
+   "ch03-s3a.md",
+   "ch03-s3b.md",
+   "ch04.md",
+   "ch05.md",
+   "ch06.md"
+  ],
+  "state": "done"
+ },
+ "g04": {
+  "files": [
+   "ch07-s1.md",
+   "ch07-s2.md",
+   "ch08.md",
+   "ch09-s1.md",
+   "ch09-s2.md"
+  ],
+  "state": "done"
+ },
+ "g05": {
+  "files": [
+   "ch09-s3.md",
+   "ch09-s4.md",
+   "ch10-s1.md",
+   "ch10-s2.md",
+   "ch10-s4.md"
+  ],
+  "state": "done"
+ },
+ "g06": {
+  "files": [
+   "ch10-s5a.md",
+   "ch10-s5b.md",
+   "ch10-s6a.md",
+   "ch10-s6b.md",
+   "ch10-s7.md"
+  ],
+  "state": "done"
+ },
+ "g07": {
+  "files": [
+   "ch11.md",
+   "ch12.md",
+   "ch13a.md",
+   "ch13b.md",
+   "ch14-s1.md"
+  ],
+  "state": "done"
+ },
+ "g08": {
+  "files": [
+   "ch14-s2.md",
+   "ch14-s3.md",
+   "ch14-s4.md",
+   "ch14-s5.md",
+   "ch15-s1a.md"
+  ],
+  "state": "done"
+ },
+ "g09": {
+  "files": [
+   "ch15-s1b.md",
+   "ch15-s2.md",
+   "ch15-s3a.md",
+   "ch15-s3b.md",
+   "ch15-s3c.md"
+  ],
+  "state": "done"
+ },
+ "g10": {
+  "files": [
+   "ch15-s4.md",
+   "ch15-s5.md",
+   "ch15-s7.md",
+   "ch15-s8a.md",
+   "ch15-s8b.md"
+  ],
+  "state": "done"
+ },
+ "g11": {
+  "files": [
+   "ch15-s9a.md",
+   "ch15-s9b.md",
+   "ch15-s10.md",
+   "ch16.md",
+   "ch17.md"
+  ],
+  "state": "done"
+ },
+ "g12": {
+  "files": [
+   "ch18.md",
+   "ch19.md",
+   "ch20.md",
+   "ch21.md",
+   "ch22.md"
+  ],
+  "state": "done"
+ },
+ "g13": {
+  "files": [
+   "ch23a.md",
+   "ch23b.md",
+   "ch24-s1.md",
+   "ch24-s2.md",
+   "ch24-s3.md"
+  ],
+  "state": "done"
+ },
+ "g14": {
+  "files": [
+   "ch24-s4.md",
+   "ch24-s5.md",
+   "ch25-s1.md",
+   "ch25-s2.md",
+   "ch25-s3.md"
+  ],
+  "state": "done"
+ },
+ "g15": {
+  "files": [
+   "ch25-s4.md",
+   "ch25-s5a.md",
+   "ch25-s5b.md",
+   "ch25-s5c.md",
+   "ch25-s5d.md"
+  ],
+  "state": "done"
+ },
+ "g16": {
+  "files": [
+   "ch25-s5e.md",
+   "ch25-s5f.md",
+   "ch26.md",
+   "ch27a.md",
+   "ch27b.md"
+  ],
+  "state": "done"
+ },
+ "g17": {
+  "files": [
+   "ch28.md",
+   "ch29.md",
+   "ch30.md",
+   "ch31.md",
+   "ch32.md"
+  ],
+  "state": "done"
+ },
+ "g18": {
+  "files": [
+   "ch33.md"
+  ],
+  "state": "done"
+ }
+}

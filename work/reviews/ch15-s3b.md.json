@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s3b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p068",
+   "kind": "drift",
+   "severity": "low",
+   "category": "structure",
+   "original": "not only by directly depreciating the value of labour-power, and by indirectly cheapening the same through cheapening the commodities that enter into its reproduction, but also, when it is first introduced sporadically into an industry, by converting",
+   "rewrite": "It does this not only by directly lowering the value of labor-power, and by cheapening labor-power indirectly through cheapening the commodities that go into its reproduction. When machinery is first introduced sporadically into an industry, it also does it by converting",
+   "problem": "The 'not only ... but also' construction is cut by a full stop, leaving a grammatically incomplete sentence that is harder to follow.",
+   "fix": "Replace the full stop after 'reproduction' with a semicolon and lower-case 'when': '...that go into its reproduction; when machinery is first introduced sporadically into an industry, it also does it by converting'"
+  }
+ ],
+ "notes_review": "The logged calls are sound: Fielden and 'p. 11' are one-reading fixes, the German verse is kept exactly, the shortened rate-of-surplus-value gloss avoids duplicating Marx's next sentence, and the Bastiat/MacCulloch irony stays clearly attributed. Adding 'phrenological' is a minimal neutral identification.",
+ "summary": "Fidelity is high: every argument step, number, and ironic turn (Ashworth, the 'heathens') is preserved, with attributions intact. Readability is good apart from one broken 'not only ... but also' sentence in p068."
+}

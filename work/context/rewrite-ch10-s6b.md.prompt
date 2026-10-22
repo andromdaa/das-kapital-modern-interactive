@@ -1,0 +1,44 @@
+You are rewriting one unit of Marx's *Capital*, Vol. 1 (Moore/Aveling 1887 translation, public domain) into plain modern English. Project root: /home/cole/Projects/das-kapital. Your unit: **ch10-s6b.md**.
+
+Do these steps in order:
+
+1. Read `style-bible.md` **in full**. It is the law for this job. Its rules beat anything you would otherwise do.
+2. Read `work/context/ch10-s6b.md`. Remember §7.0: explain a term only at its first *technical* use; the context file matches words, not senses. It contains:
+   - the last ~500 words of the previous file's ORIGINAL, for continuity only. Do not rewrite it.
+   - which concept-list terms (bible §7) already appeared earlier in this chapter, and which appear for the first time in this file.
+3. Read `original/ch10-s6b.md` in full, footnotes included.
+4. Rewrite it following the style bible exactly:
+   - one rewritten paragraph per original paragraph;
+   - every `<!-- chNN-pNNN -->` ID line copied exactly, in order;
+   - every footnote marker and notes block in the same place, with the same label;
+   - headings kept;
+   - glossary renderings (§3) used verbatim;
+   - the §7 explanation added at the first use of each term listed as "first appearance in this chapter";
+   - numbers, formulas, units, tables (```text blocks) and foreign-language text copied exactly;
+   - quotations handled per §2;
+   - the speaker always clear (§1.2);
+   - the irony kept.
+5. Before saving, compare your draft with the original **paragraph by paragraph**. For each paragraph, confirm that:
+   - no claim, qualification, example, or argument step was lost, added, strengthened, or weakened;
+   - no ambiguity was resolved;
+   - no opponent's claim now reads as Marx's own, and none of Marx's claims reads as an opponent's;
+   - each paragraph keeps its own footnotes.
+
+   Fix anything that fails.
+6. Write the result to `rewrite/ch10-s6b.md`. Use the same structure: heading lines, ID comment lines, paragraph, blank line, notes blocks.
+7. Run `python3 scripts/check_pair.py ch10-s6b.md`. If it prints any FAIL line, fix the rewrite and run it again until it passes.
+   - Warnings are advisory, but look at each one.
+   - The expected length ratio is about 0.95–1.25 (style bible §8). Do not pad.
+8. If something came up that the style bible does not cover, make a call and append it to `notes/ch10-s6b.md-notes.md`. Use this format: paragraph ID – the problem – what you decided – why. Also log there:
+   - every place where simplifying risked changing the meaning, and how you handled it;
+   - any typo correction (§1.4).
+
+   Do **not** edit `style-bible.md`, `glossary.json`, or any file in `original/`.
+
+Write the whole file yourself; do not delegate. If the file is long, write it in parts (e.g. create it with the first half, then append), but make sure the final file is complete.
+
+When done, reply with:
+- the check_pair result line;
+- the length ratio;
+- the number of notes you logged;
+- your three most important judgment calls, one line each.

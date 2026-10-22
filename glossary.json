@@ -1,0 +1,837 @@
+[
+ {
+  "term": "labour-power",
+  "rendering": "labor-power",
+  "variants": [
+   "labour-power",
+   "labour power"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "labour-power",
+   "labour power"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "use-value",
+  "rendering": "use-value",
+  "variants": [
+   "use-value",
+   "use value",
+   "value in use",
+   "use-values",
+   "use values"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "use value",
+   "value in use"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "exchange-value",
+  "rendering": "exchange-value",
+  "variants": [
+   "exchange-value",
+   "exchange value"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "exchange value"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "surplus-value",
+  "rendering": "surplus-value",
+  "variants": [
+   "surplus-value",
+   "surplus value"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "surplus value"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "surplus labour",
+  "rendering": "surplus labor",
+  "variants": [
+   "surplus labour",
+   "surplus-labour"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "surplus labour",
+   "surplus-labour",
+   "surplus-labor"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "necessary labour",
+  "rendering": "necessary labor",
+  "variants": [
+   "necessary labour"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "necessary labour"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "labour-time",
+  "rendering": "labor-time",
+  "variants": [
+   "labour-time",
+   "labour time"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "labour-time",
+   "labour time"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "socially necessary labour-time",
+  "rendering": "socially necessary labor-time",
+  "variants": [
+   "socially necessary labour-time",
+   "socially necessary labour time"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "socially necessary labour"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "labour-process",
+  "rendering": "labor process",
+  "variants": [
+   "labour-process",
+   "labour process"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "labour-process",
+   "labour process",
+   "labor-process"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "working day",
+  "rendering": "working day",
+  "variants": [
+   "working day",
+   "working-day",
+   "workingday"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "working-day"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "constant capital",
+  "rendering": "constant capital",
+  "variants": [
+   "constant capital"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "variable capital",
+  "rendering": "variable capital",
+  "variants": [
+   "variable capital"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "rate of surplus-value",
+  "rendering": "rate of surplus-value",
+  "variants": [
+   "rate of surplus-value",
+   "rate of surplus value"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "absolute surplus-value",
+  "rendering": "absolute surplus-value",
+  "variants": [
+   "absolute surplus-value",
+   "absolute surplus value"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "relative surplus-value",
+  "rendering": "relative surplus-value",
+  "variants": [
+   "relative surplus-value",
+   "relative surplus value"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "means of production",
+  "rendering": "means of production",
+  "variants": [
+   "means of production"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "means of subsistence",
+  "rendering": "means of subsistence",
+  "variants": [
+   "means of subsistence"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "mode of production",
+  "rendering": "mode of production",
+  "variants": [
+   "mode of production"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "commodity",
+  "rendering": "commodit",
+  "variants": [
+   "commodity",
+   "commodities"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require",
+  "note": "rendering is a stem: commodity/commodities"
+ },
+ {
+  "term": "magnitude of value",
+  "rendering": "magnitude of value",
+  "variants": [
+   "magnitude of value"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "form of value",
+  "rendering": "form of value",
+  "variants": [
+   "value-form",
+   "value form"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "value form",
+   "value-form"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "relative form of value",
+  "rendering": "relative form",
+  "variants": [
+   "relative form"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "equivalent form",
+  "rendering": "equivalent form",
+  "variants": [
+   "equivalent form"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "universal equivalent",
+  "rendering": "universal equivalent",
+  "variants": [
+   "universal equivalent"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "money-form",
+  "rendering": "money form",
+  "variants": [
+   "money-form",
+   "money form"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "money-form"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "abstract human labour",
+  "rendering": "abstract human labor",
+  "variants": [
+   "human labour in the abstract",
+   "abstract human labour",
+   "abstract labour"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "human labour in the abstract",
+   "abstract human labour",
+   "abstract labour",
+   "human labor in the abstract"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "metamorphosis",
+  "rendering": "metamorphos",
+  "variants": [
+   "metamorphosis",
+   "metamorphoses"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require",
+  "note": "stem"
+ },
+ {
+  "term": "circulation",
+  "rendering": "circulation",
+  "variants": [
+   "circulation"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "means of payment",
+  "rendering": "means of payment",
+  "variants": [
+   "means of payment"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "the labourer",
+  "rendering": "worker",
+  "variants": [
+   "labourer",
+   "labourers"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "labourer",
+   "laborer"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "workman/workpeople",
+  "rendering": "worker",
+  "variants": [
+   "workman",
+   "workmen",
+   "workpeople"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "workman",
+   "workmen",
+   "workpeople"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "operatives",
+  "rendering": "factory worker",
+  "variants": [
+   "operative",
+   "operatives"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "operative"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "wage-labourer",
+  "rendering": "wage worker",
+  "variants": [
+   "wage-labourer",
+   "wage labourer",
+   "wage-labourers"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "wage-labourer",
+   "wage labourer"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "working class",
+  "rendering": "working class",
+  "variants": [
+   "working class",
+   "working-class"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "working-class",
+   "labouring class"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "productiveness of labour",
+  "rendering": "productivity of labor",
+  "variants": [
+   "productiveness of labour"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "productiveness of labour",
+   "productivity of labour"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "value of labour-power",
+  "rendering": "value of labor-power",
+  "variants": [
+   "value of labour-power",
+   "value of labour power"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "value of labour-power",
+   "value of labour power"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "price of labour",
+  "rendering": "price of labor",
+  "variants": [
+   "price of labour"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "price of labour"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "piece-wage",
+  "rendering": "piece wage",
+  "variants": [
+   "piece-wage",
+   "piece wage",
+   "piece-wages",
+   "piece wages"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "piece-wage"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "time-wage",
+  "rendering": "time wage",
+  "variants": [
+   "time-wage",
+   "time-wages"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "time-wage"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "co-operation",
+  "rendering": "cooperation",
+  "variants": [
+   "co-operation"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "co-operation"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "division of labour",
+  "rendering": "division of labor",
+  "variants": [
+   "division of labour"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "division of labour"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "detail labourer",
+  "rendering": "detail worker",
+  "variants": [
+   "detail labourer",
+   "detail-labourer"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "detail labourer"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "collective labourer",
+  "rendering": "collective worker",
+  "variants": [
+   "collective labourer"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "collective labourer"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "Modern Industry",
+  "rendering": "modern industry",
+  "variants": [
+   "Modern Industry",
+   "modern industry"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "manufactory",
+  "rendering": "manufacturing workshop",
+  "variants": [
+   "manufactory",
+   "manufactories"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "manufactory",
+   "manufactories"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "accumulation",
+  "rendering": "accumulat",
+  "variants": [
+   "accumulation"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require",
+  "note": "stem"
+ },
+ {
+  "term": "simple reproduction",
+  "rendering": "simple reproduction",
+  "variants": [
+   "simple reproduction"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "centralisation",
+  "rendering": "centraliz",
+  "variants": [
+   "centralisation",
+   "centralization"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "centralisation",
+   "centralised"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "organic composition",
+  "rendering": "organic composition",
+  "variants": [
+   "organic composition"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "relative surplus population",
+  "rendering": "surplus population",
+  "variants": [
+   "surplus population",
+   "surplus-population"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "surplus-population"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "industrial reserve army",
+  "rendering": "reserve army",
+  "variants": [
+   "reserve army"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "primitive accumulation",
+  "rendering": "primitive accumulation",
+  "variants": [
+   "primitive accumulation"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require"
+ },
+ {
+  "term": "fetishism",
+  "rendering": "fetish",
+  "variants": [
+   "fetishism",
+   "fetish"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require",
+  "note": "stem"
+ },
+ {
+  "term": "vulgar economy",
+  "rendering": "vulgar econom",
+  "variants": [
+   "vulgar economy",
+   "vulgar economist",
+   "vulgar economists"
+  ],
+  "enforce": true,
+  "also_ok": [],
+  "mode": "require",
+  "note": "stem: vulgar economics/economist(s)"
+ },
+ {
+  "term": "corn (grain)",
+  "rendering": "grain",
+  "variants": [
+   "corn"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "corn"
+  ],
+  "mode": "require",
+  "note": "keep Corn Laws, quotations"
+ },
+ {
+  "term": "commerce",
+  "rendering": "trade",
+  "variants": [
+   "commerce"
+  ],
+  "enforce": false,
+  "also_ok": [
+   "commerce"
+  ],
+  "mode": "require"
+ },
+ {
+  "term": "whilst",
+  "rendering": "while",
+  "variants": [
+   "whilst"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "hitherto",
+  "rendering": "until now",
+  "variants": [
+   "hitherto"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "viz.",
+  "rendering": "namely",
+  "variants": [
+   "viz."
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "&c.",
+  "rendering": "etc.",
+  "variants": [
+   "&c."
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "l.c.",
+  "rendering": "cited above",
+  "variants": [
+   "l.c."
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "l. c.",
+  "rendering": "cited above",
+  "variants": [
+   "l. c."
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "quâ",
+  "rendering": "as",
+  "variants": [
+   "quâ"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "vice versâ",
+  "rendering": "the other way round",
+  "variants": [
+   "vice versâ"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "pro tanto",
+  "rendering": "to that extent",
+  "variants": [
+   "pro tanto"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "caeteris paribus",
+  "rendering": "other things being equal",
+  "variants": [
+   "caeteris paribus"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "pari passu",
+  "rendering": "at the same pace",
+  "variants": [
+   "pari passu"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "so soon as",
+  "rendering": "as soon as",
+  "variants": [
+   "so soon as"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "aliquot",
+  "rendering": "fractional part",
+  "variants": [
+   "aliquot"
+  ],
+  "enforce": false,
+  "also_ok": [],
+  "mode": "avoid"
+ },
+ {
+  "term": "subject of labour",
+  "rendering": "object of labor",
+  "variants": [
+   "subject of labour"
+  ],
+  "enforce": true,
+  "also_ok": [
+   "subject of labour"
+  ],
+  "mode": "require",
+  "note": "added in Phase 4"
+ }
+]

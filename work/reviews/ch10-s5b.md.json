@@ -1,0 +1,10 @@
+{"file": "ch10-s5b.md", "verdict": "minor fixes",
+ "findings": [
+   {"id": "ch10-p127", "kind": "drift", "severity": "low", "category": "concept explanation",
+    "original": "by the payment of the weekly value of labour-power",
+    "rewrite": "by paying the weekly value of labor-power (the value of the means of subsistence needed to keep the worker, and to raise the next generation of workers, able to work)",
+    "problem": "\"value of labor-power\" is not a first use in Ch. 10: Marx defines it himself at ch10-p001 (its value is fixed by the working time needed to produce it) and again at ch10-p112, so the §7 explanation here is a redundant addition that the context file's word-match missed.",
+    "fix": "Delete the parenthetical, leaving \"by paying the weekly value of labor-power.\""}
+ ],
+ "notes_review": "The logged calls are sound, especially glossing \"manufacturer [manufacturing worker]\" in the 18th-century quotations, which prevents a reversal of the argument; only note 1 (adding the value-of-labor-power explanation) is mistaken, because the term was already defined by Marx earlier in the chapter.",
+ "summary": "Fidelity is very high: the Petty, Postlethwayt and Essay quotations are near-verbatim, the free indirect voices stay attributed, and every date, hour and figure survives. Readability is good; the one fault is a redundant concept explanation in p127."}

@@ -1,0 +1,7 @@
+{
+ "file": "ch25-s5b.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound: Dr. Smith's figures stay attributed after the split, the 29,211/28,211 mismatch and the garbled Bradford list are kept as printed, the p112 \"privation\" rendering keeps both readings open, and the glosses inside quotations follow §2.1.",
+ "summary": "Fidelity is high throughout: the long medical and housing testimonies are near-verbatim with appropriate bracketed glosses, and Marx's scare quotes (\"improvements\", \"abstinence\", \"respectability\") all survive. The narrative paragraphs read plainly without losing the sarcasm about capitalist justice and Mr. Forster."
+}

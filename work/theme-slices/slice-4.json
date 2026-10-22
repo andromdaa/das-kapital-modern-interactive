@@ -1,0 +1,397 @@
+[
+ {
+  "kind": "theme",
+  "title": "Relative surplus-value via higher productivity",
+  "claim": "Surplus-value can be raised without lengthening the day by cutting necessary labour-time, which requires cheapening the goods that enter workers' subsistence and thus revolutionising the technical and social mode of production.",
+  "quote": "",
+  "anchors": [
+   "ch12-p006",
+   "ch12-p007",
+   "ch12-p008",
+   "ch12-p013"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Largely a definitional/analytical decomposition of the working day; the labour-theory framework makes it hard to falsify as stated.",
+  "notes": "Individual capitalists do not aim at lowering labour-power's value; it is the aggregate result (ch12-p009)."
+ },
+ {
+  "kind": "theme",
+  "title": "Co-operation: social power appropriated by capital",
+  "claim": "Productive power arising from many labourers working together costs capital nothing and appears as a natural power of capital, because workers are isolated sellers until the labour-process begins, when they become 'modes of existence of capital'.",
+  "quote": "it appears as a power with which capital is endowed by Nature",
+  "anchors": [
+   "ch13-p021",
+   "ch13-p013",
+   "ch13-p026"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Interpretive claim about who the surplus from collective productivity accrues to; hard to falsify, though distribution of gains from scale is empirically discussable.",
+  "notes": ""
+ },
+ {
+  "kind": "theme",
+  "title": "Manufacture and the detail labourer",
+  "claim": "Manufacture, resting on handicraft skill, splits crafts into fractional operations, producing a collective labourer ('a productive mechanism whose parts are human beings') more productive but made up of crippled detail workers, as a method of generating relative surplus-value.",
+  "quote": "a productive mechanism whose parts are human beings",
+  "anchors": [
+   "ch14-p005",
+   "ch14-p008",
+   "ch14-p041",
+   "ch14-p054"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Claims about productivity gains and worker deskilling/narrowing under division of labour can be compared with later evidence.",
+  "notes": ""
+ },
+ {
+  "kind": "theme",
+  "title": "Anarchy of market vs despotism of workshop",
+  "claim": "Division of labour in society is coordinated only ex post through commodity exchange and competition, while inside the workshop it is planned under the capitalist's undisputed authority; the two are mutually conditioning. Bourgeois thought praises the latter and condemns planning of the former.",
+  "quote": "anarchy in the social division of labour and despotism in that of the workshop",
+  "anchors": [
+   "ch14-p035",
+   "ch14-p036",
+   "ch14-p039"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Structural characterisation; 'authority in workshop and society in inverse ratio' is stylised and not cleanly falsifiable.",
+  "notes": "Marx cites his own Misere (fn36). Also states workshop division is special to capitalism (ch14-p039)."
+ },
+ {
+  "kind": "theme",
+  "title": "Machinery system as objective automaton",
+  "claim": "Machinery replaces the subjective principle of division of labour with an objective analysis of the process into phases handled by a chain of machines driven by a central automaton; continuity becomes imperative and the worker becomes an appendage to the system.",
+  "quote": "the labourer becomes a mere appendage to an already existing material condition of production",
+  "anchors": [
+   "ch15-p015",
+   "ch15-p016",
+   "ch15-p017",
+   "ch15-p024"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Whether automation systems subordinate worker pacing and make labour an appendage can be compared with later factory/automation history.",
+  "notes": "Marx notes the tool, not labour, is the starting point of machines (ch15-p004, fn15)."
+ },
+ {
+  "kind": "theme",
+  "title": "Value transfer and the limits of machinery use",
+  "claim": "Machines create no new value but pass on their own value piecemeal; they are productive only if they cost less labour than they displace, and for the capitalist only if they cost less than the wages (value of labour-power) they replace.",
+  "quote": "The productiveness of a machine is therefore measured by the human labour-power it replaces.",
+  "anchors": [
+   "ch15-p025",
+   "ch15-p026",
+   "ch15-p034",
+   "ch15-p036"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Rests on the labour theory of value; the capitalist's cost-comparison part is separately captured in another item.",
+  "notes": ""
+ },
+ {
+  "kind": "forecast",
+  "title": "Immanent drive to raise productivity and cheapen the worker",
+  "claim": "Capital has a constant tendency to raise productivity so as to cheapen commodities and, through cheaper necessaries, to cheapen the labourer himself (lower the value of labour-power), enlarging relative surplus-value.",
+  "quote": "an inclination and constant tendency, to heighten the productiveness of labour",
+  "anchors": [
+   "ch12-p013",
+   "ch12-p009",
+   "ch12-p014"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Testable as: sustained productivity growth, falling real cost of wage goods, and a rising share of the day/output going to profit; wage share data can contradict or support it.",
+  "notes": "Also answers Quesnay's riddle why the capitalist lowers exchange-value (ch12-p014). The 'cheapens the labourer' step presumes wages track the value of necessaries."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Productivity gains are not used to shorten the working day",
+  "claim": "Increased productiveness under capitalism aims at shortening the labour-time per commodity, not at shortening the worker's day; the worker can produce ten times as much and still work 12 or even 14 hours.",
+  "quote": "The shortening of the working day is, therefore, by no means what is aimed at",
+  "anchors": [
+   "ch12-p016"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Compare long-run trends in hours of work against productivity growth, controlling for legislation and union struggle.",
+  "notes": "Marx's broader text credits legislation/struggle for limits; ch12 only claims capital by itself has no such aim."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Competition forces diffusion of new methods; extra profit is transient",
+  "claim": "The innovating capitalist earns extra surplus-value because his individual value is below social value, but this vanishes once the method becomes general; the law of value acts as a coercive law of competition compelling rivals to adopt it.",
+  "quote": "this extra surplus-value vanishes, so soon as the new method of production has become general",
+  "anchors": [
+   "ch12-p011",
+   "ch12-p012"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Predicts innovation rents erode with diffusion and that competitive pressure drives technology adoption; observable in industry studies (though patents/monopoly can slow erosion).",
+  "notes": "Marx explicitly postpones full analysis of competition (ch12-p010)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Rising minimum capital and concentration of means of production",
+  "claim": "As division of labour and scale advance, the minimum capital each capitalist must hold must keep increasing, so social means of production and subsistence are ever more transformed into capital in fewer hands; co-operation's scale depends on this concentration.",
+  "quote": "it is a law, based on the very nature of manufacture",
+  "anchors": [
+   "ch14-p040",
+   "ch13-p014",
+   "ch13-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Testable as rising minimum efficient scale / capital intensity and concentration of ownership over time; contested by small-firm and service-sector evidence.",
+  "notes": "Quote is from ch14-p040: 'a law, based on the very nature of manufacture, that the minimum amount of capital... must keep increasing'. Stated for manufacture; generalisation to later capitalism is Marx's wider claim."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Supervision becomes a specialised, hierarchical wage-function and a site of conflict",
+  "claim": "As co-operation grows, capital delegates supervision to a class of managers and foremen who command in the capitalist's name; control is both a technical coordination function and an instrument of exploitation, and resistance grows with the number of workers.",
+  "quote": "As the number of the co-operating labourers increases, so too does their resistance",
+  "anchors": [
+   "ch13-p018",
+   "ch13-p019",
+   "ch13-p020",
+   "ch13-p024"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Predicts growth of a managerial/supervisory stratum and persistent labour-management conflict; the claim that managerial control is 'identical' with exploitative control is partly interpretive.",
+  "notes": "Also claims capitalist's power descends from Oriental despots, 'whether he be an isolated, or as in joint-stock companies, a collective capitalist' (ch13-p024). Opponent view that leadership is merely technical: ch13-p020."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Manufacture deskills: unskilled class, hierarchy, falling value of labour-power",
+  "claim": "Detail labour creates a hierarchy of labour-powers and a new class of 'unskilled' workers; apprenticeship costs fall so the value of labour-power falls, raising surplus-value, except where decomposition creates new comprehensive functions.",
+  "quote": "Manufacture begets, in every handicraft that it seizes upon, a class of so-called unskilled labourers",
+  "anchors": [
+   "ch14-p028",
+   "ch14-p056"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Deskilling hypotheses can be tested against occupational wage and skill data; Marx himself notes an exception for new skilled functions.",
+  "notes": "In the manufacturing period itself, unskilled numbers stayed limited because skilled workers resisted (ch14-p056)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Separation of intellect from manual labour completed by science serving capital",
+  "claim": "The separation of the knowledge and judgement of production from the labourer begins in co-operation, develops in manufacture and is completed in modern industry, which makes science a productive force distinct from labour and enlists it in capital's service; each worker is impoverished as capital is enriched in social productive power.",
+  "quote": "It is completed in modern industry, which makes science a productive force distinct from labour",
+  "anchors": [
+   "ch14-p042",
+   "ch14-p043",
+   "ch14-p054"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be checked against trends in task fragmentation, scientific management, and R&D concentrated in firms vs. worker autonomy; evidence on upskilling vs deskilling is mixed.",
+  "notes": "Quote of exactly the first 15 words; see ch14-p042. Marx quotes Thompson, Ferguson, Smith as sources (fn44, 43, 45)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Division of labour damages workers' bodies and minds",
+  "claim": "Manufacture, by attacking the individual at the root of his life, is the first to supply material for industrial pathology; the detail labourer is stunted physically (curvature, muscle deformity) and mentally, and some employers preferred half-idiotic workers for secret operations.",
+  "quote": "What is lost by the detail labourers, is concentrated in the capital that employs them.",
+  "anchors": [
+   "ch14-p041",
+   "ch14-p051",
+   "ch14-p045",
+   "ch14-p046"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Occupational health and cognitive effects of repetitive work are empirically studied; the cognitive-stunting claim is largely borrowed from Smith and Ferguson.",
+  "notes": "Smith and Ferguson and Urquhart voice the strongest statements (speaker for those quotes is source:Smith/Ferguson/Urquhart)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Insubordination of skilled labour is capital's problem until machinery",
+  "claim": "Because handicraft skill is the foundation of manufacture and the mechanism has no framework apart from workers, capital must constantly wrestle with insubordination and complaints of indiscipline; machines, made by the manufacturing machine-shop, remove the technical reason for tying workers to a detail and loosen the fetters on capital.",
+  "quote": "capital is constantly compelled to wrestle with the insubordination of the workmen",
+  "anchors": [
+   "ch14-p056",
+   "ch14-p058",
+   "ch14-p059",
+   "ch14-p062"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable via historical labour-discipline evidence; plausible but the claim that machinery solved the problem is contestable (machine-paced work also generates resistance).",
+  "notes": "Ure's and the 1770 author's remarks serve as evidence (source/opponent)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "One technical revolution forces revolutions in connected industries and transport",
+  "claim": "A radical change in one branch (spinning) makes change in dependent branches (weaving, bleaching, dyeing, ginning) imperative and revolutionises communication and transport (steamers, railways, telegraph); in turn modern industry must build machines by machines to stand on its own technical foundation.",
+  "quote": "A radical change in the mode of production in one sphere of industry",
+  "anchors": [
+   "ch15-p019",
+   "ch15-p020",
+   "ch15-p021",
+   "ch15-p018"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Cross-sector technological complementarity and the rise of machine-tool industries are well-studied; the strong necessity claim is testable against counter-cases.",
+  "notes": "Steam power concentrated production in towns (ch15-p011, quoting inspector Redgrave: 'steam-engine is the parent of manufacturing towns')."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Machinery enrols women and children and dilutes the family wage",
+  "claim": "Machinery makes muscular strength unnecessary, so capital first seeks women and children; the value of the male worker's labour-power is spread over the whole family, depreciating it, so the family must supply more surplus-labour to live, and the degree of exploitation rises.",
+  "quote": "It thus depreciates his labour-power.",
+  "anchors": [
+   "ch15-p038",
+   "ch15-p039",
+   "ch15-p040"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Predicts rising family labour-force participation without proportional rise in household income; compare with later household-earner data (the later shift to dual-earner households).",
+  "notes": "Marx says the cost of keeping the family rises as home production is replaced by purchases (fn39). Contested later by the 'family wage' ideal."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Machinery breaks male workers' resistance",
+  "claim": "By adding women and children to the ranks, machinery overcomes the resistance that male operatives in the manufacturing period offered to capital's despotism; they become docile and compelled to exert themselves.",
+  "quote": "machinery at last breaks down the resistance which the male operatives",
+  "anchors": [
+   "ch15-p060",
+   "ch15-p040"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Compare strike/bargaining outcomes after mechanisation and female labour entry; evidence is mixed since later unions organised factory labour.",
+  "notes": "Evidence in fn60 is Lord Ashley quoting a manufacturer (source)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Machine adoption depends on the wage level, not on labour saved",
+  "claim": "The capitalist's limit to using a machine is the gap between machine price and the wage bill it replaces, not the labour saved; so machines are invented in dear-labour countries and not used where wages sit below the value of labour-power (surplus population), while labour legislation can spur machinery.",
+  "quote": "Hence nowhere do we find a more shameful squandering of human labour-power",
+  "anchors": [
+   "ch15-p036"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "A testable 'induced innovation / factor price' hypothesis: high wages and labour restrictions raise mechanisation, cheap labour retards it (e.g. US vs UK, post-regulation substitution).",
+  "notes": "Fn33 asserts a communist society would use machines differently; Ricardo agrees machinery is often unusable until wages rise (fn36)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capital levels conditions: limits on child labour spread across industries",
+  "claim": "Because capital is a leveller demanding equal conditions of exploitation in every sphere, a legal limit on child labour in one branch becomes the cause of its limitation in others; the state intervenes because machinery undermines the free-contract appearance.",
+  "quote": "since capital is by nature a leveller",
+  "anchors": [
+   "ch15-p042",
+   "ch15-p040"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Predicts regulatory diffusion across sectors and competitive pressure for uniform labour standards; compare with regulatory spillover and avoidance (e.g. shift to unregulated sectors).",
+  "notes": "The manufacturers' counter-claim that children are moved to unregulated trades is also noted (ch15-p042)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Mill: machinery has not lightened anyone's toil",
+  "claim": "J. S. Mill's remark that it is doubtful all mechanical inventions have lightened any human being's daily toil. Marx treats it as true in effect but beside the point, since lightening toil is not capital's aim.",
+  "quote": "It is questionable if all the mechanical inventions yet made have lightened the day's toil",
+  "anchors": [
+   "ch15-p001",
+   "ch15-p002",
+   "ch15-p003"
+  ],
+  "speaker": "opponent:Mill",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Hours/toil trends are testable.",
+  "notes": "Marx partly agrees (fn1: true except for the idle fed by others' labour); not a straightforward opponent claim he refutes."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "MacCulloch/Ure/Senior: gratitude to capital for productivity",
+  "claim": "Economists say on one page that workers owe thanks to capital for shortening necessary labour-time, and on the next that they must repay by working 15 hours instead of 10. Marx cites this as an example of apologetic inconsistency.",
+  "quote": "",
+  "anchors": [
+   "ch12-p016"
+  ],
+  "speaker": "opponent:MacCulloch/Ure/Senior",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx's paraphrase of economists' attitude, not a quoted claim.",
+  "notes": "Marx gives no direct citation here; unclear whether he is paraphrasing or characterising; treat as caricature."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Garnier: state education of the masses violates division of labour",
+  "claim": "Garnier, opposing A. Smith's mild proposal for public education, argued that mixing hand-work and head-work classes would proscribe the whole social system and that government should not hinder the natural course of division of labour.",
+  "quote": "our whole social system would be proscribed.",
+  "anchors": [
+   "ch14-p049",
+   "ch14-p050"
+  ],
+  "speaker": "opponent:Garnier",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be compared with the later expansion of mass education and its effect on economic growth.",
+  "notes": "Marx also records Smith's contrary recommendation and Ferguson's warnings (ch14-p046-p049)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Ure: skill breeds intractability; Arkwright created order",
+  "claim": "Ure says skilful workers become self-willed and unfit components of a mechanical system, and that Arkwright's factory 'created order' where manufacture based on division of labour lacked it. Marx quotes this as evidence of capital's discipline problem.",
+  "quote": "Arkwright created order.",
+  "anchors": [
+   "ch14-p057",
+   "ch14-p058"
+  ],
+  "speaker": "opponent:Ure",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Whether machine systems reduced indiscipline and need for skilled labour is checkable historically.",
+  "notes": "Marx uses Ure as an apologist whose admissions support Marx's own point; treat as source/opponent hybrid."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Ricardo/Say: machines add no value or render value-creating service",
+  "claim": "Ricardo treats machines like gratuitous natural agents that add nothing to value (Marx says this is right only against Say's view that machines render value-creating 'service' forming part of profits), but sometimes loses sight of the value machines transfer.",
+  "quote": "as they perform their work gratuitously, the assistance which they afford us, adds nothing",
+  "anchors": [
+   "ch15-p026",
+   "ch15-p032"
+  ],
+  "speaker": "opponent:Say",
+  "specificity": "no",
+  "testable": "A dispute within value theory, not an empirical claim about the future.",
+  "testable_rationale": "Say's 'service' claim is opposed; Ricardo is partly agreed with and partly criticised (fn24). Interest on machines is deferred to Book III (fn26).",
+  "notes": ""
+ }
+]

@@ -1,0 +1,427 @@
+[
+ {
+  "kind": "theme",
+  "title": "Working day is elastic and fixed only by class struggle",
+  "claim": "Necessary labour-time is given, but the total working day is indeterminate, bounded only by elastic physical and social limits. Because the commodity-exchange law gives buyer and seller equal rights, nothing in exchange itself sets the length of the day; it is settled by struggle between collective capital and collective labour.",
+  "quote": "Between equal rights force decides.",
+  "anchors": [
+   "ch10-p005",
+   "ch10-p006",
+   "ch10-p012",
+   "ch10-p013"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Largely an analytic claim about the logic of the labour contract; any outcome of hours-bargaining can be narrated as 'force deciding'.",
+  "notes": "The labourer's speech in p012 is Marx ventriloquizing the worker's side of the argument; p011 voices the capitalist's side."
+ },
+ {
+  "kind": "theme",
+  "title": "Capital's insatiable drive for surplus labour (vampire)",
+  "claim": "The capitalist as personified capital has one impulse: to absorb the maximum surplus labour. Capital lives by sucking living labour, so time the worker keeps for himself is treated as theft. Unlike earlier forms of surplus-labour extraction (corvee, slavery for local use), this appetite is boundless once production aims at exchange-value.",
+  "quote": "Capital is dead labour, that, vampire-like, only lives by sucking living labour",
+  "anchors": [
+   "ch10-p008",
+   "ch10-p009",
+   "ch10-p010",
+   "ch10-p014",
+   "ch11-p016"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Metaphorical motive-claim about capital as such; hard to falsify, though the concrete hours/overwork evidence that follows is testable.",
+  "notes": "p014 contrasts use-value economies (limited wants) with exchange-value economies (unlimited thirst)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Entering the world market intensifies overwork in precapitalist labour regimes",
+  "claim": "Where producers working under slavery or corvee are drawn into a capitalist world market and production shifts to export, the 'civilised horrors of over-work' are grafted onto the older forms; surplus labour itself becomes the object. Examples: Southern cotton slavery as export of cotton became vital; Danubian corvee.",
+  "quote": "the civilised horrors of over-work are grafted on the barbaric horrors of slavery",
+  "anchors": [
+   "ch10-p014",
+   "ch10-p016",
+   "ch10-p018"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Can be checked against labour conditions in export-oriented plantation, forced-labour and later outsourced economies as they integrate with world markets.",
+  "notes": "Also compares transparent corvee surplus labour with wage labour in which necessary and surplus labour 'glide one into the other' (p016)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Overwork is stolen in small fractions ('petty pilferings of minutes')",
+  "claim": "Employers, wherever hours are legally limited, systematically steal minutes from meal and rest breaks and start/stop times; individually small, they add to weeks of unpaid work per year and are hard for inspectors to prove. Worker is reduced to personified labour-time.",
+  "quote": "Moments are the elements of profit.",
+  "anchors": [
+   "ch10-p024",
+   "ch10-p028",
+   "ch10-p035",
+   "ch10-p036",
+   "ch10-p038",
+   "ch10-p039"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Present-day analogues (wage theft, off-the-clock work, unpaid pre/post-shift time, time-theft litigation) can be measured.",
+  "notes": "Mostly facts from Factory Inspectors (Horner, Howell, Redgrave) reported by Marx; the framing as tendency is Marx's. Also p039 on 'full-timers' and 'half-timers'."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "In slumps, employers squeeze more hours out of those still working",
+  "claim": "Short-time and crisis do not weaken the drive to lengthen the day; the less business, the more profit must be made on the business done, so overwork persists or rises in depressions (1857-58, cotton famine 1861-65).",
+  "quote": "The less business there is, the more profit has to be made",
+  "anchors": [
+   "ch10-p029",
+   "ch10-p031",
+   "ch10-p032",
+   "ch10-p033"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Hours worked by those still employed in recessions (overwork alongside unemployment) can be compared across recessions.",
+  "notes": "Illustrated with Inspector reports (Horner, Howell)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Unlimited hours degenerate the physical stock of the working population",
+  "claim": "Where working hours are unrestricted, successive generations of workers are stunted, short-lived and diseased (potters, match-makers, bakers, milliners, blacksmiths); the working population is kept going only by fresh recruits from the countryside. Marx links it to falling military fitness standards in conscripting countries.",
+  "quote": "the diminishing military standard in Germany and France",
+  "anchors": [
+   "ch10-p020",
+   "ch10-p047",
+   "ch10-p053",
+   "ch10-p072",
+   "ch10-p084",
+   "ch10-p121"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Health, height and life-expectancy by occupation/hours regime can be compared historically and today (e.g., extreme-hours sectors).",
+  "notes": "Evidence is largely from medical sources (Greenhow, Arledge, Richardson, Liebig) = source: items. Marx's military-standard inference is a causal claim on thin evidence."
+ },
+ {
+  "kind": "forecast",
+  "title": "Capital will exhaust the labour force and the human race if unchecked",
+  "claim": "Capital is indifferent to the length of life of labour-power; unless society compels it, it will keep wearing out generations of workers while the stock of fresh recruits (countryside) lasts, pointing to a 'coming degradation and final depopulation of the human race'. Each capitalist hopes the crash will fall on his neighbour.",
+  "quote": "the coming degradation and final depopulation of the human race",
+  "anchors": [
+   "ch10-p110",
+   "ch10-p111",
+   "ch10-p121"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be tested by whether population health/longevity deteriorated in industrialising and industrial economies after regulation, and what happened where regulation was absent.",
+  "notes": "Marx qualifies with 'unless under compulsion from society' (p121). The depopulation phrase is rhetorical, in the 'Apres moi le deluge' passage."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capital's own interest does not secure a normal working day",
+  "claim": "It would seem capital's interest in replacing worn-out labour-power points to a normal day, but where labour supply is replaceable (slave trade, labour market with a standing surplus population) the length of life of the worker matters less than productivity while it lasts. The analogy: for slave-trade read labour-market.",
+  "quote": "What experience shows to the capitalist generally is a constant excess of population",
+  "anchors": [
+   "ch10-p112",
+   "ch10-p114",
+   "ch10-p115",
+   "ch10-p117",
+   "ch10-p121"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Whether employers voluntarily limit hours/work intensity where labour is abundant versus scarce is empirically checkable.",
+  "notes": "The slave-economy passage quoted in p114 is Cairnes (source:Cairnes), which Marx adopts. Marx first states the opposing 'it would seem' view in p112 before rejecting it."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Competition forces capitalists to exploit; only law can limit",
+  "claim": "Individual capitalists, however humane, cannot voluntarily shorten hours because free competition imposes the laws of capitalist production as external compulsion; even large firms (Wedgwood and 25 other potters) petition for legislation because voluntary agreement is impossible.",
+  "quote": "Free competition brings out the inherent laws of capitalist production",
+  "anchors": [
+   "ch10-p121"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Tests: do industries self-limit hours without law, and do employers seek legal minimum standards to stop undercutting.",
+  "notes": "Footnote 82 (Staffordshire potters, 1863; Blackburn 1871 agreement undermined by wealthier combined spinner-weavers) is the cited evidence."
+ },
+ {
+  "kind": "theme",
+  "title": "Machinery lying idle drives round-the-clock work and relay/night systems",
+  "claim": "Means of production exist, from capital's viewpoint, only to absorb labour; idle plant is a loss. So there is an inherent tendency to appropriate labour across the whole 24 hours via relays/night shifts, which in turn allows hours far beyond the nominal 12.",
+  "quote": "the inherent tendency of capitalist production",
+  "anchors": [
+   "ch10-p085",
+   "ch10-p087",
+   "ch10-p106",
+   "ch10-p109",
+   "ch11-p018"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Shift-work/24-hour operation prevalence and its relation to capital intensity is measurable.",
+  "notes": "Capital's side in p093-p109 (Naylor & Vickers, Brown, Cammell, Sanderson) is source/opponent testimony, listed separately."
+ },
+ {
+  "kind": "theme",
+  "title": "Inversion of dead and living labour: means of production employ the labourer",
+  "claim": "Seen from the surplus-value standpoint, the means of production become means for absorbing others' labour; they 'consume' the worker as ferment for their life-process, and ownership of them becomes a title to labour. Illustrated by the Paisley mill owner who thinks a 10-hour day shrinks 12 spindles to 10.",
+  "quote": "the means of production that employ the labourer",
+  "anchors": [
+   "ch11-p018",
+   "ch11-p019"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Interpretive description of capital relation; no definite observable prediction.",
+  "notes": "Carlile's letter (ch11-p018) is a source: item illustrating capitalists' consciousness."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Capital is indifferent to the technical form; archaic trades are as exploitative as factories",
+  "claim": "Capital takes the labour process as it finds it. Surplus value by lengthening the day works equally in old bakeries, potteries, handicrafts and domestic industry as in modern factories; unregulated 'free' trades (lace, pottery, matches, bakers, dressmakers, nail-making) show worse conditions than regulated factories.",
+  "quote": "it begins by taking it just as it finds it",
+  "anchors": [
+   "ch10-p040",
+   "ch10-p065",
+   "ch10-p071",
+   "ch10-p202",
+   "ch11-p017"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Comparable to modern sweatshops, subcontracting, platform work, and regulated vs informal sectors.",
+  "notes": "Much evidence from Children's Employment Commission."
+ },
+ {
+  "kind": "forecast",
+  "title": "Factory legislation will extend from textiles to all branches and abroad",
+  "claim": "Regulation began as exceptional legislation limited to steam/water-powered textile factories, but once other trades (potteries, baking, domestic industry) fell under capitalist exploitation, law was compelled to shed its exceptional character and extend more widely; similar laws arise in France, Switzerland, Austria, and the US eight-hour movement.",
+  "quote": "Legislation was, therefore, compelled to gradually get rid of its exceptional character",
+  "anchors": [
+   "ch10-p198",
+   "ch10-p199",
+   "ch10-p200",
+   "ch10-p202",
+   "ch10-p204"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can check whether working-time law spread to all sectors and countries (e.g., 8-hour day, Working Time rules, gaps for gig/agriculture/transport).",
+  "notes": "Marx leaves agriculture, mines and transport outside the proposed extension (p200). Footnote 150 (2nd ed.): 'a reaction has again set in' since 1866."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "The isolated 'free' worker succumbs; only collective action and law limit the day",
+  "claim": "Once capitalist production reaches a certain stage, the isolated worker as free vendor of labour-power cannot resist; the normal day is the product of a protracted civil war between classes, and workers must combine as a class to compel a law that prevents them selling themselves into slavery and death by contract.",
+  "quote": "a protracted civil war, more or less dissembled",
+  "anchors": [
+   "ch10-p203",
+   "ch10-p210",
+   "ch10-p154",
+   "ch10-p122"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be tested against evidence on whether hours standards were obtained by union strength/legislation versus individual bargaining.",
+  "notes": "The 'Magna Charta of a legally limited working day' phrase (p210) is Marx. Inspectors' quotes (fn163, fn166) support the view."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Employers evade hours laws via loopholes, relay shifts and captured courts",
+  "claim": "After 1833 and especially after the Ten Hours Act (1847-50), manufacturers sidestepped limits through spurious relays, legal technicalities, masters sitting as magistrates and Home Secretary leniency, defeating the law for years until the Exchequer ruling and a compromise Act (1850); workers' resistance then forced uniform hours.",
+  "quote": "the old brutalities soon blossomed out again unpunished",
+  "anchors": [
+   "ch10-p147",
+   "ch10-p160",
+   "ch10-p163",
+   "ch10-p176",
+   "ch10-p180",
+   "ch10-p186",
+   "ch10-p190"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Enforcement gaps, regulatory capture and loophole use in modern labour regulation are documentable.",
+  "notes": "Based on inspectors' reports (Horner, Howell, Stuart). Also p163: after the 1848 defeats of Chartism and June insurrection, employers revolted openly, i.e. workers' political setbacks embolden employers."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Shortening the day need not destroy profit; regulated industry flourished",
+  "claim": "Legal limits to 10 hours did not ruin industry: net profit on a shortened day is still high (rate of surplus-value from 100% to about 82% on Marx's illustrative numbers), and cotton and other regulated industries developed wonderfully 1853-60 with the physical and moral regeneration of workers.",
+  "quote": "",
+  "anchors": [
+   "ch09-p041",
+   "ch10-p198",
+   "ch10-p165"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Historical record on productivity/profits after hours reductions can be assessed.",
+  "notes": "Marx concedes some profit reduction (rate falls to 82 14/23%), only denying that it is destroyed. He also reports that manufacturers recouped by wage cuts of up to 25% (p160). fn140 notes health in factory districts still worse than agricultural districts."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Limiting the working day is the precondition of workers' emancipation (International)",
+  "claim": "Marx endorses the inspectors' and the 1866 Geneva Congress/Baltimore Labour Congress view that without a legal limit on the working day, further reform and emancipation will fail; American labour could not move independently while slavery persisted, so the Civil War produced the eight-hour agitation.",
+  "quote": "Labour cannot emancipate itself in the white skin where in the black it is branded.",
+  "anchors": [
+   "ch10-p205",
+   "ch10-p206",
+   "ch10-p207",
+   "ch10-p209"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Whether hours limits preceded and enabled wider labour gains (eight-hour movement, inter-racial labour solidarity) can be argued from labour history.",
+  "notes": "Saunders (inspector) quote in p209 and the IWA resolution in p207 are source: statements which Marx adopts as his own."
+ },
+ {
+  "kind": "forecast",
+  "title": "Capital will tend to reduce the number of labourers employed",
+  "claim": "The absolute limit of the 24-hour day sets a limit to compensating fewer workers by a higher rate of exploitation. This matters for understanding a tendency, to be developed later, of capital to cut the number of labourers while at the same time seeking the greatest mass of surplus-value; these two tendencies contradict each other.",
+  "quote": "capital to reduce as much as possible the number of labourers employed by it",
+  "anchors": [
+   "ch11-p009"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Labour-saving substitution, automation and headcount reduction versus total surplus produced can be examined empirically.",
+  "notes": "Marx defers the development of the tendency ('to be worked out later on')."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Senior's 'last hour': all net profit comes from the final hour",
+  "claim": "Senior (for Manchester manufacturers, 1837) asserted that in an 11.5-hour day the whole net profit arises in the last hour(s), so cutting an hour would destroy net profit and 1.5 hours even gross profit; conversely 13 hours would more than double it. Marx shows he confuses fractions of the product with fractions of the working day, and the real rate of surplus-value would fall 100% to about 82% not to zero.",
+  "quote": "the last two of the twenty-three half-hours of every day, produce the net profit",
+  "anchors": [
+   "ch09-p037",
+   "ch09-p039",
+   "ch09-p040",
+   "ch09-p041",
+   "ch09-p042"
+  ],
+  "speaker": "opponent:Nassau W. Senior",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "The claim that shorter hours destroy profit is empirically testable and was refuted by experience, as Inspector Hovell noted (fn11).",
+  "notes": "Marx refutes in detail (ch09-p040/041). Do not treat as book's claim. Related: James Wilson in the Economist (1848) repeated it (p042)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Senior's abstinence and Ure's morals: profit from capitalist's labour, interest from abstinence; leisure demoralizes",
+  "claim": "Senior held that profit comes from the capitalist's labour and interest from his abstinence, 'in opposition to Ricardo'; Ure and flax-mill masters argued that cutting the child's day by an hour would deprive them of morals ('idleness is the parent of vice'). Marx mocks both as apologetics.",
+  "quote": "profit is derived from the labour of the capitalist, and interest from his asceticism",
+  "anchors": [
+   "ch09-p041",
+   "ch09-p042",
+   "ch10-p012"
+  ],
+  "speaker": "opponent:Nassau W. Senior",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "The abstinence theory is a theory of the origin of profit/interest, a justificatory claim; the moral claim about leisure is empirical but only reported ironically here.",
+  "notes": "Ure's claim from fn11 (p041 footnote). The worker's speech (ch10-p012) turns 'saving' and 'abstinence' against the capitalist. Marx attributes the petition's text to flax-mill masters not Ure himself."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Manufacturers: restricting night work or meal times would ruin the trade",
+  "claim": "Steel, glass, paper and silk employers claimed that barring night labour of boys or guaranteeing meal-times would stop their works or the industrial supremacy of Britain, though the actual share of boys was small and the stated reasons are admitted to be cost.",
+  "quote": "We could not well do without lads under 18 working by night.",
+  "anchors": [
+   "ch10-p093",
+   "ch10-p095",
+   "ch10-p099",
+   "ch10-p101",
+   "ch10-p177",
+   "ch10-p191",
+   "ch10-p195"
+  ],
+  "speaker": "opponent:Naylor & Vickers; Sanderson; Cammell; silk manufacturers",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "The claim that limits on hours/child labour would destroy the industry was later tested by legislation (silk pretext shown a 'deliberate lie', p191).",
+  "notes": "Marx comments with irony throughout; the claims are reported testimony from Commission evidence (source: employers)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Eighteenth-century economists: workers are lazy and wages must be kept low to compel six days",
+  "claim": "The anonymous author of the 'Essay on Trade and Commerce' (1770), Arthur Young and others claimed that workers who can earn enough in four days idle the rest, that cheapness of necessaries breeds sloth, that 'independence' of workers is dangerous, and that pauper workhouses should be 'houses of terror' of 12 hours' labour. Postlethwayt and Vanderlint defended workers.",
+  "quote": "contented to labour six days for the same sum",
+  "anchors": [
+   "ch10-p127",
+   "ch10-p129",
+   "ch10-p131",
+   "ch10-p132",
+   "ch10-p133"
+  ],
+  "speaker": "opponent:Anon. (Essay on Trade and Commerce, 1770)",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "The claim that higher wages cause fewer hours/backward-bending labour supply can be compared with later labour-supply evidence.",
+  "notes": "Marx uses the debate to show capital's early aims (6 days for 4 days' wage). Marx sides with Postlethwayt and Vanderlint (fn93). Note the original wording is archaic."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Macaulay: child labour is old; only humanity and intelligence are new",
+  "claim": "Macaulay argued that early child labour in the 17th century was extensive and that past ages show no fewer social evils than now, what is new being the intelligence and humanity that remedies them; Marx scorns this as Whig falsification and apologetic 'progress' talk.",
+  "quote": "That which is new is the intelligence and the humanity which remedies them.",
+  "anchors": [
+   "ch10-p126",
+   "ch10-p133"
+  ],
+  "speaker": "opponent:Thomas Babington Macaulay",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "A broad whiggish narrative about progress; not a precise testable proposition.",
+  "notes": "Appears in footnote 88 attached to p126; Marx notes that early child exploitation was isolated 'as the phenomena of two-headed children', whereas modern industry makes it general."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Manufacturers: workers themselves want the long day",
+  "claim": "In 1848 manufacturers claimed that workers wished to repeal the Ten Hours Act and to work 12-15 hours, using petitions and over-time numbers; Horner's own inquiry found about 70% of 10,270 male workers in 181 factories favoured 10 hours, and signatures were extorted by threat of dismissal.",
+  "quote": "They would much prefer working ten hours for less wages",
+  "anchors": [
+   "ch10-p158",
+   "ch10-p160",
+   "ch10-p161",
+   "ch10-p162"
+  ],
+  "speaker": "opponent:Lancashire manufacturers",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Claims about worker preference for long hours can be compared with surveys.",
+  "notes": "Workers' reply quoted by Horner is source:Horner; the claim that wage cuts of at least 25% followed shorter hours is Marx's report (p160, fn109)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Ricardo: only net revenue matters, not how many people it employs",
+  "claim": "Marx cites Ricardo to show how capitalist logic measures national wealth by surplus-produce, not by population or total product: 'provided its net real income be the same, it is of no importance' whether the nation has 10 or 12 million people.",
+  "quote": "whether the nation consists of 10 or of 12 millions of inhabitants",
+  "anchors": [
+   "ch09-p043"
+  ],
+  "speaker": "opponent:David Ricardo",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Normative claim about what counts as wealth.",
+  "notes": "Ambiguous: Marx's own sentence in p043 ('it is clear that the greatness of a man's or a nation's wealth should be measured...') states what follows from capital's aim, not necessarily his normative position. Arthur Young also cited in same footnote."
+ }
+]

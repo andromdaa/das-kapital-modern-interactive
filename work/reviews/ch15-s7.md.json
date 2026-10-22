@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s7.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p165",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "ambiguity resolved",
+   "original": "Political Economy revels in the hideous theory, hideous to every “philanthropist” who believes in the eternal Nature-ordained necessity for capitalist production, that after a period of growth and transition, even its crowning success, the factory system based on machinery, grinds down more workpeople",
+   "rewrite": "political economy revels in the hideous theory that after a period of growth and transition, even the crowning success of capitalist production, the factory system based on machinery, grinds down more workers than it throws on the streets when it is first introduced. The theory is hideous to every “philanthropist” who believes that capitalist production is an eternal necessity ordained by Nature.",
+   "problem": "Moving the \"philanthropist\" clause into a separate sentence forced \"its\" to be spelled out as \"of capitalist production\", which settles a reference Marx leaves to the reader. It also turns his single sentence, which piles up \"hideous ... hideous\", into a flatter afterthought.",
+   "fix": "Keep Marx's order and pronoun: \"Yes, political economy revels in the hideous theory, hideous to every “philanthropist” who believes in the eternal, Nature-ordained necessity of capitalist production, that after a period of growth and transition, even its crowning success, the factory system based on machinery, grinds down more workers than it throws on the streets when it is first introduced.[^146]\""
+  }
+ ],
+ "notes_review": "The judgment calls are sound: piece-wage only half of the §7 entry, the agentless passive in p177, the garbled export tables copied exactly, the typo fixes inside quotations, and the Corn Laws gloss given once in the chapter. Note 4 flagged the p165 disambiguation, and it is reversed here (§0.6, ambiguity beats sentence length).",
+ "summary": "Fidelity is high. The £500/£1,500/£2,000 example, the census figures, the 1770-1863 cotton chronology, and the Redgrave and Longe quotations are complete and exact. The prose is plain, and Marx's irony (\"our friends, the manufacturers\", \"Fortunatus' purse\", \"Experimenta in corpore vili\") survives."
+}

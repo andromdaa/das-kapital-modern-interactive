@@ -1,0 +1,28 @@
+{
+ "file": "ch29.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch29-p001",
+   "kind": "fidelity",
+   "severity": "medium",
+   "category": "strength changed",
+   "original": "creates, directly, none but the greatest landed proprietors",
+   "rewrite": "directly creates nothing but great landed proprietors",
+   "problem": "The superlative \"the greatest\" is weakened to \"great\", which changes the claim about who directly benefits from the expropriation.",
+   "fix": "directly creates nothing but the greatest landed proprietors"
+  },
+  {
+   "id": "ch29-p002",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "but under conditions incomparably more favorable for the people",
+   "rewrite": "but under conditions far more favorable for the people",
+   "problem": "In note [^3], \"incomparably\" is weakened to \"far\".",
+   "fix": "but under conditions incomparably more favorable for the people"
+  }
+ ],
+ "notes_review": "The judgment calls are sound. In particular, keeping \"of the farm ... his part\" and the ambiguous \"they\" (cattle or common lands) as printed, and treating \"value of the precious metals\" as a technical use, are defensible and logged.",
+ "summary": "Faithful overall: the stages of the farmer's genesis, the dialogue in n2, and the middleman passage in n3 are complete, apart from two weakened intensifiers. Readability is good, and the Elizabethan quotations are glossed sparingly as required."
+}

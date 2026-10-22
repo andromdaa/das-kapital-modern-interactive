@@ -1,0 +1,28 @@
+{
+ "file": "ch10-s2.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch10-p014",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "But in proportion, as the export of cotton became of vital interest to these states",
+   "rewrite": "But as the export of cotton became of vital interest to these states",
+   "problem": "\"in proportion as\" makes over-working grow to the degree that export mattered; plain \"as\" reduces this to a sequence in time.",
+   "fix": "But to the extent that the export of cotton became of vital interest to these states"
+  },
+  {
+   "id": "ch10-p017",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "military and clerical dignitaries usurped, along with the common land, the labour spent upon it",
+   "rewrite": "military and church dignitaries seized the common land and, along with it, the labor spent on it",
+   "problem": "Marx makes the labor the main object of the usurpation (it is what turns into corvée in the next sentence); the rewrite makes the land the main object and the labor an add-on.",
+   "fix": "military and church dignitaries seized, along with the common land, the labor spent on it"
+  }
+ ],
+ "notes_review": "The logged calls are sound: the one-reading fixes (\"pretense\", \"capitalist and landlord\", the Boyard's quotation marks, the final full stop) are justified, the unmatched quote in p031 is rightly left, and the §4 rendering of \"negro\" keeps the claim unchanged. The guano identification is borderline but short and neutral.",
+ "summary": "Fidelity is high: the corvée arithmetic, the Règlement's tricks, all inspector quotations and Marx's sarcasm (\"Russia, the liberator of the world\", \"liberal cretins\", Dryden) are kept. Readability is good; two small shifts in p014 and p017 needed correcting."
+}

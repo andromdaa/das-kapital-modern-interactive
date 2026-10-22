@@ -1,0 +1,7 @@
+{
+ "file": "ch14-s1.md",
+ "verdict": "ok",
+ "findings": [],
+ "notes_review": "The logged calls are sound: dropping the dates from the manufacture explanation avoids duplicating Marx's own dating, \"valises\" is rightly kept in the French and translated as \"valleys\", and the literal concessive translation of \"Pour être aussi bien observé\" corrects the source bracket.",
+ "summary": "Fidelity is complete: the two origins of manufacture, the carriage, paper and needle examples, and Engels' 1886 note are all intact and correctly attributed. Readability is good, with the long contrast sentences split cleanly."
+}

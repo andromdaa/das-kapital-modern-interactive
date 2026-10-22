@@ -1,0 +1,18 @@
+{
+ "file": "ch03-s3b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch03-p098",
+   "kind": "drift",
+   "severity": "low",
+   "category": "register",
+   "original": "to fill the conduits of currency",
+   "rewrite": "it fills the channels of currency",
+   "problem": "\"currency\" here has its old sense of circulation, which ch03-s3a (note 5) rendered as \"circulation\" because a modern reader would take it as a money system; this paragraph is inconsistent with that choice.",
+   "fix": "it fills the channels of circulation"
+  }
+ ],
+ "notes_review": "Sound: the world-money gloss is placed at the first technical use, Steuart's \"money of the world\" is rightly kept as his quoted term, the p099 \"their\" ambiguity is preserved, and \"Fullerton\" and the Engels signature are correctly left as printed.",
+ "summary": "Faithful: the world-money functions, the double stream of gold and silver, and Engels' long addition on gold and silver mining keep every figure, qualification and attribution. Readable plain English, with one small inconsistency in rendering the old word \"currency\"."
+}

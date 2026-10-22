@@ -1,0 +1,18 @@
+{
+ "file": "ch15-s4.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch15-p108",
+   "kind": "drift",
+   "severity": "low",
+   "category": "concept explanation",
+   "original": "the bourgeoisie has bound the proletariat, comes nowhere",
+   "rewrite": "the proletariat [the class of wage workers, who own nothing they can live by except their labor-power]",
+   "problem": "Inside a quotation (Engels in note 108) §7.0 allows only a short bracketed gloss using the first clause of the §7 wording, not the full explanation.",
+   "fix": "the proletariat [the class of wage workers]"
+  }
+ ],
+ "notes_review": "The logged calls are sound (relay-system explanation, Dogberry identification, keeping capital's masculine pronouns, the past-tense narration of the court cases, and the typo fixes). Note 1's open question is settled by §7.0: a quotation-only first use gets the first clause of the §7 wording as a bracketed gloss, so the gloss is shortened.",
+ "summary": "Fidelity is high. Ure's two definitions, the subject/object inversion, the factory-code polemic, and both court cases keep every figure, attribution, and ironic tag. The prose reads plainly and keeps Marx's sarcasm (\"Pindar of the automatic factory\", \"factory Lycurgus\", \"worthy employer\")."
+}

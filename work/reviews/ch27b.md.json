@@ -1,0 +1,18 @@
+{
+ "file": "ch27b.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch27-p015",
+   "kind": "drift",
+   "severity": "low",
+   "category": "tone",
+   "original": "In 1860 the people expropriated by force were exported to Canada under false pretences.",
+   "rewrite": "In 1860 people who had been expropriated by force were shipped off to Canada under false pretenses.",
+   "problem": "In footnote [^28], Marx's \"exported\" deliberately treats the evicted people as goods; \"shipped off\" softens the sarcasm.",
+   "fix": "\"In 1860 people who had been expropriated by force were exported to Canada under false pretenses.\""
+  }
+ ],
+ "notes_review": "The logged calls are sound: the Mirabeau bracket is retranslated literally from the French, the one-reading typos (\"Not is it\", \"merhcants\", \"dirct\") are fixed, the unclear marks are kept, the neutral identifications for the Pretender and the Licinian rogations are short and factual, and the §7 \"primitive accumulation\" wording is placed in Marx's voice at p018.",
+ "summary": "The rewrite is faithful: the enclosure extracts, the Sutherland clearances, the deer-forest quotations and every number survive, and the irony (\"this fine lady\", \"in the nobility of her heart\", \"idyllic methods\") is kept. The prose is plain, and only one sarcastic word in n. 28 has been softened."
+}

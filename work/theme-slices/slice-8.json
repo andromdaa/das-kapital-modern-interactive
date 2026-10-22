@@ -1,0 +1,394 @@
+[
+ {
+  "kind": "theme",
+  "title": "Primitive accumulation as divorce of producer from means of production",
+  "claim": "Capital's prehistory is not thrift but the historical process of separating the producer from the means of production, creating free-but-propertyless labourers on one side and owners of money and means of production on the other; once established, capitalism reproduces this separation on an ever wider scale.",
+  "quote": "the historical process of divorcing the producer from the means of production",
+  "anchors": [
+   "ch26-p003",
+   "ch26-p001",
+   "ch26-p005"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Largely a definitional/historical framing of origins; hard to falsify as stated.",
+  "notes": "Includes the claim that the emancipation of wage-workers from serfdom and guilds is only one side; the other is their expropriation, 'in letters of blood and fire' (ch26-p005)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Original-sin fable: thrifty elite vs. lazy rascals",
+  "claim": "Political economy (Adam Smith's 'previous accumulation'; Thiers repeating it) explains the rich and the propertyless by an old division into a diligent, frugal elite and spendthrift idlers. Marx mocks this as an idyll and says real history is conquest, enslavement, robbery, murder.",
+  "quote": "the diligent, intelligent, and, above all, frugal elite",
+  "anchors": [
+   "ch26-p002",
+   "ch26-p001"
+  ],
+  "speaker": "opponent:Adam Smith / M. Thiers / political economy generally",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx rebuts it as origin myth, a historical question rather than a forecast.",
+  "notes": "Not Marx's claim."
+ },
+ {
+  "kind": "theme",
+  "title": "Expropriation of the agricultural population as the basis",
+  "claim": "The expropriation of the peasant from the soil is the foundation of the whole process; England is the classic case. Methods listed: retainers' dissolution, enclosure for sheep, Reformation spoliation of church lands, theft of Crown lands after 1688, enclosure of commons, and clearances.",
+  "quote": "The expropriation of the agricultural producer, of the peasant, from the soil, is the basis",
+  "anchors": [
+   "ch26-p008",
+   "ch27-p002",
+   "ch27-p004",
+   "ch27-p007",
+   "ch27-p018"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Specific historical claims about England (yeomanry gone by about 1750, commons by 1790s) can be checked against agrarian history.",
+  "notes": "Marx explicitly sets aside 'purely economic causes' and treats only the forcible means (ch27-p005); critics dispute the weight he gives force vs. market forces. He uses Macaulay's figures while calling him a falsifier of history (ch27 fn1)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Parliamentary enclosure: law as instrument of class theft",
+  "claim": "In the 18th century the law itself becomes the instrument of robbing the people of the commons; Acts for enclosures are 'decrees of expropriation of the people' passed by landlords for themselves, with no compensation to the poor.",
+  "quote": "decrees by which the landlords grant themselves the people's land as private property",
+  "anchors": [
+   "ch27-p008",
+   "ch27-p013",
+   "ch27-p009"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Checkable against enclosure-act history and who benefited and who was compensated (3,511,770 acres 1801-1831 is his figure).",
+  "notes": "Marx's figure and his reading of enclosure's effects are contested by agrarian historians; compare Eden's and Price's contemporaneous views."
+ },
+ {
+  "kind": "theme",
+  "title": "Highland Clearances and the sheep-walk / deer-forest logic",
+  "claim": "Estates are 'cleared' of people when land is worth more empty: Sutherland's 15,000 Gaels replaced by sheep, then sheep by deer. Marx presents this as the purest case of ruthless systematic expropriation, with the state's soldiers enforcing it.",
+  "quote": "Deer-forests and the people cannot co-exist.",
+  "anchors": [
+   "ch27-p014",
+   "ch27-p015",
+   "ch27-p016",
+   "ch27-p017"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Specific facts (numbers, dates, rents) are checkable; the deer quote is Somers (source), used approvingly.",
+  "notes": "Quote is Robert Somers (1848) quoted by Marx; Marx's own Sutherland figures come from his New York Tribune article (fn30) and are historically disputed in detail. The Senior approving 'beneficent clearing' remark is at ch27 fn31 (opponent:Senior)."
+ },
+ {
+  "kind": "theme",
+  "title": "Bloody legislation against the expropriated",
+  "claim": "The expropriated were not absorbed by manufacture fast enough, nor able to adapt at once to wage discipline, so they became beggars and vagabonds, and were whipped, branded, enslaved and hanged by laws that treated them as 'voluntary' criminals, 'into the discipline necessary for the wage system'.",
+  "quote": "bloody legislation against vagabondage",
+  "anchors": [
+   "ch28-p001",
+   "ch28-p003",
+   "ch28-p004",
+   "ch28-p008"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Claims about Tudor/Stuart vagrancy statutes are documentary and checkable; the causal claim that this disciplined the workforce is interpretive.",
+  "notes": "Whether the statutes were enforced as written is disputed by historians; Marx relies on Holinshed/Strype for execution counts (fn2)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Direct force early, 'dull compulsion of economic relations' later",
+  "claim": "Once capitalist production is developed, a standing relative surplus population and habit make the worker see capitalist conditions as natural laws; direct extra-economic force is then used 'only exceptionally'. Early in capitalism the bourgeoisie openly uses state power to regulate wages and lengthen the day.",
+  "quote": "The dull compulsion of economic relations completes the subjection of the labourer to the capitalist.",
+  "anchors": [
+   "ch28-p009"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Predicts the balance between state coercion and market discipline of labour across periods and countries, which can be compared historically.",
+  "notes": "Marx concedes force survives 'exceptionally'; modern cases of state coercion of labour (e.g. anti-strike law, forced labour) are counter-instances to weigh."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Wage law is one-sided: maxima but no minima; the state as capitalists' trade union",
+  "claim": "Labour statutes fix a maximum wage and punish takers more than givers, with no minimum; combinations of workers were criminal until 1825/1871 and were re-penalised by the 1871 Criminal Law Amendment. Parliament acted as 'a permanent Trades' Union of the capitalists'.",
+  "quote": "a permanent Trades' Union of the capitalists against the labourers",
+  "anchors": [
+   "ch28-p013",
+   "ch28-p014",
+   "ch28-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Specific legislative history (1349 to 1871; French Le Chapelier law of 1791) is checkable; the general 'class state' reading is interpretive.",
+  "notes": "Includes claims (Chapelier; Gladstone, 'the great Liberal party') about specific politicians' motives. Marx also states legal wage-fixing fell in 1813 as 'impracticable as it was unnecessary' once capital was strong (ch28-p014)."
+ },
+ {
+  "kind": "theme",
+  "title": "Creation of the home market by destroying rural domestic industry",
+  "claim": "The expulsion of peasants turns their subsistence and raw materials into commodities (variable and constant capital) and concentrates scattered customers into one market for industrial capital; the destruction of rural domestic industry is a necessary condition of the capitalist internal market.",
+  "quote": "only the destruction of rural domestic industry can give the internal market",
+  "anchors": [
+   "ch30-p001",
+   "ch30-p003"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against economic history of proto-industrialisation and market integration; alternative accounts (consumer demand, urban growth) compete.",
+  "notes": "The 'flax' example (Westphalian spinners) is illustrative; Mirabeau's opposing preference for small workshops is source/opponent (ch30-p002) and Marx's footnote explains it away."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Machinery alone completes the expropriation of agriculture",
+  "claim": "Modern Industry, through machinery, supplies the lasting basis of capitalistic agriculture, radically expropriates 'the enormous majority' of the agricultural population, and tears up the roots of rural domestic industry; earlier phases saw the peasantry repeatedly reappear.",
+  "quote": "expropriates radically the enormous majority of the agricultural population",
+  "anchors": [
+   "ch30-p003"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Share of population in agriculture and farm concentration can be compared with data for industrialised countries.",
+  "notes": "Largely true as to share of population in farming in industrial economies; but his implication that small holdings vanish is contested by persistence of family farms in e.g. France, Japan and the US."
+ },
+ {
+  "kind": "theme",
+  "title": "Colonial system, public debt, taxation and protection as levers of accumulation",
+  "claim": "Colonial plunder, slavery, national debt, modern taxation, protectionism and commercial wars are the 'chief momenta' of primitive accumulation, combined systematically in England by the end of the 17th century; all use state power to speed the transition, hence 'force is the midwife'.",
+  "quote": "Force is the midwife of every old society pregnant with a new one.",
+  "anchors": [
+   "ch31-p005",
+   "ch31-p006",
+   "ch31-p018",
+   "ch31-p025",
+   "ch31-p026"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Checkable against economic history of the role of colonial gains and state finance in British/Dutch capital formation, which is a live scholarly debate.",
+  "notes": "Marx declines the claim that the debt is the sole cause (ch31-p024: Cobbett and Doubleday 'incorrectly'). The Orissa famine (1866) and Liverpool slave-trade numbers appear in fn6 and ch31-p029."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "National debt creates a financial aristocracy and automatic tax escalation",
+  "claim": "Public debt turns money into capital without industrial risk, creates rentiers, financiers, joint-stock companies and stock-exchange gambling, and, with taxes on necessaries, 'contains within itself the germ of automatic progression'.",
+  "quote": "Overtaxation is not an incident, but rather a principle.",
+  "anchors": [
+   "ch31-p019",
+   "ch31-p020",
+   "ch31-p021",
+   "ch31-p023"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Can be compared with trajectories of public debt, taxation of necessaries and financialisation.",
+  "notes": "Marx also says the only part of national wealth that enters the collective possessions of moderns is the national debt (ch31-p019), ironic. 'Overtaxation' of necessaries describes 17th-19th-century excise states; modern tax structure differs."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "'A nation becomes the richer the more deeply it is in debt'",
+  "claim": "Marx reports as the 'modern doctrine' following from national debts, and as the 'credo of capital', that public credit makes a nation richer the deeper in debt it is; he treats this as ideology that grows with the debt.",
+  "quote": "a nation becomes the richer the more deeply it is in debt",
+  "anchors": [
+   "ch31-p019"
+  ],
+  "speaker": "opponent:unnamed apologists of public credit",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Reported ironically as a doctrine, not given a testable form by Marx.",
+  "notes": "Speaker is unspecified; Marx writes 'modern doctrine'. Not Marx's claim."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Wage labour in Europe rested on slavery in the New World",
+  "claim": "'The veiled slavery of the wage workers in Europe needed, for its pedestal, slavery pure and simple in the new world'; cotton factories introduced child slavery in England and turned patriarchal slavery in the US into commercial exploitation.",
+  "quote": "needed, for its pedestal, slavery pure and simple in the new world",
+  "anchors": [
+   "ch31-p030",
+   "ch31-p029",
+   "ch31-p015"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Testable against the large historical debate over slavery's contribution to British industrialisation and capital formation.",
+  "notes": "Strong causal wording; modern historiography (Williams thesis, 'new history of capitalism' vs. critics) is divided."
+ },
+ {
+  "kind": "forecast",
+  "title": "Centralisation: 'one capitalist always kills many'",
+  "claim": "Once capitalism stands on its own feet, capital is further socialised by the centralisation of capital, the expropriation of many capitalists by few, through the immanent laws of capitalist production; the number of magnates of capital constantly diminishes.",
+  "quote": "One capitalist always kills many.",
+  "anchors": [
+   "ch32-p002"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Can be checked against long-run concentration data (firm size, market concentration, wealth shares) and the survival of small capital.",
+  "notes": "Concentration has occurred in many sectors, yet small and medium firms persist and the 'constantly diminishing number' of magnates is contestable; Marx says 'centralisation' not 'accumulation' (cf. earlier chapters)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Growing misery, class combination and revolt",
+  "claim": "Alongside the diminishing number of capital magnates, 'grows the mass of misery, oppression, slavery, degradation, exploitation' and with it the revolt of an ever more numerous working class disciplined and organised by capitalist production itself.",
+  "quote": "grows the mass of misery, oppression, slavery, degradation, exploitation",
+  "anchors": [
+   "ch32-p002"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "Real wages, working conditions, class size and organisation, and incidence of revolt are measurable over time.",
+  "notes": "Ambiguity: 'misery' read as absolute impoverishment vs. relative or social degradation; the text itself is unqualified. Compare ch25 'general law' passages (outside this slice)."
+ },
+ {
+  "kind": "forecast",
+  "title": "Expropriation of the expropriators",
+  "claim": "Centralisation of the means of production and socialisation of labour reach a point incompatible with their capitalist integument; the integument is burst, 'the knell of capitalist private property sounds', 'the expropriators are expropriated', yielding individual property based on cooperation and common possession of land and means of production.",
+  "quote": "The expropriators are expropriated.",
+  "anchors": [
+   "ch32-p002",
+   "ch32-p003"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "A definite, if undated, prediction of capitalism's end through its own laws; its failure to occur in two centuries is itself the test.",
+  "notes": "Marx stresses inevitability ('inexorability of a law of Nature', ch32-p003), though the Preface-era 'tendency' hedging appears elsewhere. The 'negation of the negation' is a dialectical gloss that is itself hard to test."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Socialising property is easier than primitive expropriation",
+  "claim": "The transformation of capitalist property, already resting on socialised production, into social property is 'incomparably' less protracted, violent and difficult than the original expropriation of the mass by a few usurpers, since it is the expropriation of a few by the mass.",
+  "quote": "the expropriation of a few usurpers by the mass of the people",
+  "anchors": [
+   "ch32-p004"
+  ],
+  "speaker": "marx",
+  "specificity": "general_warning",
+  "testable": "yes",
+  "testable_rationale": "Comparable with the observed cost and violence of 20th-century socialist transformations.",
+  "notes": "Reads as a claim about relative difficulty; the 1848 Manifesto footnote (fn2) is a Marx/Engels quotation about the proletariat as the bourgeoisie's 'own grave-diggers'."
+ },
+ {
+  "kind": "theme",
+  "title": "Colonies reveal capital as a social relation",
+  "claim": "Wakefield, unwittingly, shows that property in money, subsistence and machinery does not make a capitalist without wage workers: where land is cheap and free, labourers become independent producers and capital cannot exploit them. Capital 'is not a thing, but a social relation between persons'.",
+  "quote": "capital is not a thing, but a social relation between persons",
+  "anchors": [
+   "ch33-p002",
+   "ch33-p005",
+   "ch33-p007"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Definitional and conceptual claim; but its corollary (cheap land lifts wages and blocks wage labour) is checkable.",
+  "notes": "Marx credits Wakefield with the discovery while calling him a political-economy 'sycophant'; the Peel/Swan River anecdote is Wakefield's."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Wakefield: 'sufficient price' for colonial land to manufacture wage-workers",
+  "claim": "Wakefield proposes that the state fix an artificially high price on virgin land so that immigrants must work for wages before buying land, using the proceeds to import more labourers. He also claims capital and labour originated in a social contract of mutual 'concert and combination'.",
+  "quote": "they have divided themselves into owners of capital and owners of labour",
+  "anchors": [
+   "ch33-p010",
+   "ch33-p004",
+   "ch33-p008"
+  ],
+  "speaker": "opponent:E. G. Wakefield (with Merivale, Molinari reported in ch33-p007)",
+  "specificity": "concrete_forecast",
+  "testable": "no",
+  "testable_rationale": "Marx reports it as a plan and notes it failed; its own prediction ('supply of labour must be constant') is Wakefield's.",
+  "notes": "Marx says the British government tried it for years and it was a 'fiasco' (ch33-p011). The 'sufficient price' is Wakefield's phrase; Marx calls it a 'euphemistic circumlocution'."
+ },
+ {
+  "kind": "forecast",
+  "title": "The United States: no longer a promised land for emigrant labourers",
+  "claim": "With immigration glutting the labour market in the east, and the Civil War's debt, taxation, financial aristocracy and land grants to railways and mines, the great republic 'has ceased to be the promised land' and capitalist production advances there 'with giant strides', though wages and dependence are not yet at European levels.",
+  "quote": "The great republic has, therefore, ceased to be the promised land for emigrant labourers.",
+  "anchors": [
+   "ch33-p011"
+  ],
+  "speaker": "marx",
+  "specificity": "concrete_forecast",
+  "testable": "yes",
+  "testable_rationale": "US wage, mobility, land-ownership and inequality history can be compared (frontier closure, Gilded Age, later immigration waves).",
+  "notes": "Written in the 1860s-70s; mixes a present-tense observation with an implied continuing tendency (wages 'yet far from' the normal European level)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Malthusian claim: misery is from absolute overpopulation, cured by depopulation",
+  "claim": "Orthodox economy holds that misery springs from absolute surplus population and that equilibrium is restored by depopulation; Marx offers Ireland after 1846 as the large-scale 'experiment' and argues it refutes the dogma because relative surplus population kept pace with depopulation.",
+  "quote": "misery springs from absolute surplus population, and that equilibrium is re-established by depopulation",
+  "anchors": [
+   "ch25-p276",
+   "ch25-p277",
+   "ch25-p272"
+  ],
+  "speaker": "opponent:Malthusians / orthodox political economy",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx's counterclaim rests on Irish data from 1841-1866; whether Irish wages and conditions recovered afterwards is testable but this item is the opponent's claim.",
+  "notes": "Marx's own counter-argument ('The production of relative surplus population has more than kept pace with the absolute depopulation', ch25-p278) is a described_pattern about Ireland, supported by Sadler (fn124)."
+ },
+ {
+  "kind": "opponent_claim",
+  "title": "Lord Dufferin and Senior: Ireland still over-populated and must depopulate further",
+  "claim": "Lord Dufferin (in The Times, 1866-67) argues Ireland needs at least a third of a million more emigrants; Marx reports his own arithmetic that small farms are 'supernumerary', leaving about 1.7 million to emigrate so Ireland may fulfil its 'true destiny' as English sheep-walk and cattle-pasture (Marx voicing the landlord's logic). A footnote cites Senior's 'Dr. G.' that the sooner Ireland becomes a grazing country the better for all classes.",
+  "quote": "Ireland is still over-populated, and the stream of emigration still flows too lazily",
+  "anchors": [
+   "ch25-p302",
+   "ch25-p305",
+   "ch25-p306"
+  ],
+  "speaker": "opponent:Lord Dufferin / Nassau Senior (quoting Dr. G.)",
+  "specificity": "described_pattern",
+  "testable": "no",
+  "testable_rationale": "Marx presents their case ironically; the Dufferin calculation of 1.7 million is Marx's mock extrapolation of the landlord's logic, not Dufferin's.",
+  "notes": "The extended 'Rentroll' figures are Marx's satire; it is unclear which numbers Dufferin himself gave. Marx also warns that Irishmen in America become Fenians facing the 'young giant Republic' (ch25-p306)."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Eviction and cottage destruction in the countryside coexist with labour shortages and surplus",
+  "claim": "Landlords and large farmers destroy cottages, causing local over-crowding in villages, while the land is 'underpopulated'; pauperism is a motive for eviction, and wage minima become 'a law of Nature'. Local surplus and temporary shortages coexist, with the shortage met by women and children instead of higher wages.",
+  "quote": "Thus the minimum of wages becomes a law of Nature to them.",
+  "anchors": [
+   "ch25-p239",
+   "ch25-p235",
+   "ch25-p237",
+   "ch25-p246"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Cottage numbers, wages and farm-labour demand can be checked against census and wage data for rural England.",
+  "notes": "Worcestershire farmers' claim that cottages 'bring the poor' (ch25-p235-237) is opponent:unnamed farmer/gentleman, quoted to be rebutted by Dr Hunter."
+ },
+ {
+  "kind": "implicit_argument",
+  "title": "Gang-system: cheap child and female labour as farmers' device against adult men",
+  "claim": "The agricultural gang-system exists for large farmers and indirectly landlords, as a way of keeping labourers below the normal level, having extra hands ready, and making adult male labour redundant; it was spreading, with Lincolnshire's 'weeded land' and 'human weeds' as pole and counterpole.",
+  "quote": "pole and counterpole of capitalistic production",
+  "anchors": [
+   "ch25-p246",
+   "ch25-p239",
+   "ch25-p243",
+   "ch25-p244"
+  ],
+  "speaker": "marx",
+  "specificity": "described_pattern",
+  "testable": "yes",
+  "testable_rationale": "Checkable against labour-inquiry evidence and later legislation (Agricultural Gangs Act 1867) and the decline of the system.",
+  "notes": "The 1867 Act is not in the text; the claim that the system was increasing 'steadily' is from the Commission report cited in fn113 (source:Children's Employment Commission)."
+ }
+]

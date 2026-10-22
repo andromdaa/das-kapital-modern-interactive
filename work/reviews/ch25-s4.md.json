@@ -1,0 +1,28 @@
+{
+ "file": "ch25-s4.md",
+ "verdict": "minor fixes",
+ "findings": [
+  {
+   "id": "ch25-p061",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "strength changed",
+   "original": "specially from those decaying branches of industry",
+   "rewrite": "especially from those dying branches of industry",
+   "problem": "\"dying\" is stronger than Marx's \"decaying\" (in decline, not yet dying).",
+   "fix": "Replace \"dying branches of industry\" with \"decaying branches of industry\"."
+  },
+  {
+   "id": "ch25-p072",
+   "kind": "fidelity",
+   "severity": "low",
+   "category": "lost content",
+   "original": "If the Venetian monk found in the fatal destiny that makes misery eternal, the *raison d’être* of Christian charity, celibacy, monasteries and holy houses, the Protestant prebendary finds in it a pretext",
+   "rewrite": "The Venetian monk found in the fate that makes misery eternal the very reason for the existence of Christian charity, celibacy, monasteries, and holy houses. The Protestant prebendary (a clergyman paid from a cathedral's income) finds in it an excuse",
+   "problem": "Splitting the \"If X, Y\" construction into two flat statements drops the explicit contrast Marx draws between the monk and the parson.",
+   "fix": "Join with a contrastive connector: \"Where the Venetian monk found in the fate that makes misery eternal the very reason for the existence of Christian charity, celibacy, monasteries, and holy houses, the Protestant prebendary (a clergyman paid from a cathedral's income) finds in it an excuse ...\""
+  }
+ ],
+ "notes_review": "The logged calls are sound: the pauperism and relative surplus-value explanations sit at the correct first technical uses, the Italian oddities and the \"toil slavery\" reading are rightly kept as printed, and the Lazarus/prebendary identifications are neutral and single.",
+ "summary": "Fidelity is high: every claim, number, attribution and quotation survives, with only one dropped contrastive link and one slightly strengthened adjective. Readability is good and Marx's polemical tone (fish-blooded doctrinaire, fat holder of livings, Juggernaut) is intact."
+}
